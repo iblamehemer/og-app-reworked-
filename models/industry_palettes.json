@@ -1,0 +1,102 @@
+{
+  "Technology": [
+    [
+      "#0d1b2a",
+      "#1b4f8a",
+      "#3a7bd5",
+      "#a8c8f0",
+      "#f0f5ff"
+    ],
+    "Trusted & Innovative"
+  ],
+  "Finance": [
+    [
+      "#1a1200",
+      "#3d2b00",
+      "#8a6800",
+      "#c8a94a",
+      "#fff8e1"
+    ],
+    "Premium & Authoritative"
+  ],
+  "Healthcare": [
+    [
+      "#002b36",
+      "#005f73",
+      "#0a9396",
+      "#94d2bd",
+      "#e9f5f7"
+    ],
+    "Clean & Caring"
+  ],
+  "Fashion": [
+    [
+      "#0d0d0b",
+      "#1a1a17",
+      "#2a2a25",
+      "#c8c4bb",
+      "#f5f2eb"
+    ],
+    "Sleek & Aspirational"
+  ],
+  "Education": [
+    [
+      "#1a0a00",
+      "#5c2e00",
+      "#a05c00",
+      "#e0a060",
+      "#fff3e0"
+    ],
+    "Warm & Inspiring"
+  ],
+  "Food & Beverage": [
+    [
+      "#0d1a00",
+      "#1e3a00",
+      "#3d7a00",
+      "#8bc34a",
+      "#f1f8e9"
+    ],
+    "Fresh & Appetising"
+  ],
+  "Real Estate": [
+    [
+      "#1a1410",
+      "#3d2c24",
+      "#7a5c4a",
+      "#c8a890",
+      "#fff0e8"
+    ],
+    "Grounded & Trustworthy"
+  ],
+  "Retail": [
+    [
+      "#1a001a",
+      "#4a004a",
+      "#9c0096",
+      "#e040fb",
+      "#fce4fc"
+    ],
+    "Bold & Energetic"
+  ],
+  "Travel": [
+    [
+      "#001a2c",
+      "#003d6b",
+      "#0077b6",
+      "#48cae4",
+      "#e0f7ff"
+    ],
+    "Adventurous & Free"
+  ],
+  "Sustainability": [
+    [
+      "#001208",
+      "#003320",
+      "#006644",
+      "#00cc88",
+      "#e0fff4"
+    ],
+    "Natural & Responsible"
+  ]
+}

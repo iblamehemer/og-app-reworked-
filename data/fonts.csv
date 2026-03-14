@@ -1,0 +1,2401 @@
+font_name,family,image_path,brand_tone,industry,weight,is_free
+Playfair Display,serif,fonts/font_0000.png,Creative,Education,black,True
+Garamond,serif,fonts/font_0001.png,Luxury,Technology,bold,True
+Times New Roman,serif,fonts/font_0002.png,Bold,Technology,regular,True
+Georgia,serif,fonts/font_0003.png,Creative,Technology,medium,True
+Baskerville,serif,fonts/font_0004.png,Creative,Food & Beverage,bold,True
+Helvetica,sans-serif,fonts/font_0005.png,Innovative,Travel,thin,True
+Montserrat,sans-serif,fonts/font_0006.png,Playful,Sustainability,black,True
+DM Sans,sans-serif,fonts/font_0007.png,Luxury,Technology,bold,True
+Inter,sans-serif,fonts/font_0008.png,Minimalist,Education,medium,True
+Open Sans,sans-serif,fonts/font_0009.png,Professional,Travel,medium,True
+Roboto,sans-serif,fonts/font_0010.png,Bold,Travel,medium,True
+Pacifico,script,fonts/font_0011.png,Luxury,Technology,bold,True
+Dancing Script,script,fonts/font_0012.png,Playful,Fashion,medium,True
+Brush Script,script,fonts/font_0013.png,Creative,Technology,bold,True
+Great Vibes,script,fonts/font_0014.png,Minimalist,Fashion,medium,True
+Courier New,monospace,fonts/font_0015.png,Creative,Technology,thin,True
+Source Code Pro,monospace,fonts/font_0016.png,Minimalist,Education,thin,True
+Fira Mono,monospace,fonts/font_0017.png,Innovative,Fashion,regular,True
+IBM Plex Mono,monospace,fonts/font_0018.png,Creative,Food & Beverage,medium,True
+Oswald,display,fonts/font_0019.png,Luxury,Travel,medium,True
+Bebas Neue,display,fonts/font_0020.png,Playful,Technology,bold,True
+Anton,display,fonts/font_0021.png,Minimalist,Travel,bold,True
+Impact,display,fonts/font_0022.png,Bold,Technology,medium,True
+Abril Fatface,display,fonts/font_0023.png,Minimalist,Sustainability,regular,True
+Playfair Display,serif,fonts/font_0024.png,Playful,Sustainability,medium,True
+Garamond,serif,fonts/font_0025.png,Professional,Healthcare,bold,False
+Times New Roman,serif,fonts/font_0026.png,Professional,Technology,medium,True
+Georgia,serif,fonts/font_0027.png,Innovative,Healthcare,bold,False
+Baskerville,serif,fonts/font_0028.png,Luxury,Finance,medium,False
+Helvetica,sans-serif,fonts/font_0029.png,Playful,Finance,black,True
+Montserrat,sans-serif,fonts/font_0030.png,Innovative,Travel,bold,True
+DM Sans,sans-serif,fonts/font_0031.png,Trustworthy,Fashion,regular,True
+Inter,sans-serif,fonts/font_0032.png,Minimalist,Technology,black,True
+Open Sans,sans-serif,fonts/font_0033.png,Trustworthy,Retail,medium,True
+Roboto,sans-serif,fonts/font_0034.png,Minimalist,Technology,bold,False
+Pacifico,script,fonts/font_0035.png,Professional,Technology,black,False
+Dancing Script,script,fonts/font_0036.png,Innovative,Retail,regular,True
+Brush Script,script,fonts/font_0037.png,Professional,Finance,bold,True
+Great Vibes,script,fonts/font_0038.png,Bold,Healthcare,black,True
+Courier New,monospace,fonts/font_0039.png,Trustworthy,Travel,black,False
+Source Code Pro,monospace,fonts/font_0040.png,Trustworthy,Finance,black,False
+Fira Mono,monospace,fonts/font_0041.png,Professional,Retail,thin,False
+IBM Plex Mono,monospace,fonts/font_0042.png,Bold,Technology,medium,True
+Oswald,display,fonts/font_0043.png,Minimalist,Finance,bold,True
+Bebas Neue,display,fonts/font_0044.png,Innovative,Education,bold,True
+Anton,display,fonts/font_0045.png,Bold,Sustainability,bold,True
+Impact,display,fonts/font_0046.png,Innovative,Technology,black,False
+Abril Fatface,display,fonts/font_0047.png,Trustworthy,Real Estate,medium,False
+Playfair Display,serif,fonts/font_0048.png,Innovative,Retail,regular,True
+Garamond,serif,fonts/font_0049.png,Trustworthy,Food & Beverage,bold,True
+Times New Roman,serif,fonts/font_0050.png,Bold,Fashion,medium,True
+Georgia,serif,fonts/font_0051.png,Trustworthy,Food & Beverage,medium,False
+Baskerville,serif,fonts/font_0052.png,Creative,Finance,thin,True
+Helvetica,sans-serif,fonts/font_0053.png,Luxury,Technology,bold,True
+Montserrat,sans-serif,fonts/font_0054.png,Trustworthy,Fashion,black,True
+DM Sans,sans-serif,fonts/font_0055.png,Professional,Fashion,medium,True
+Inter,sans-serif,fonts/font_0056.png,Bold,Travel,medium,False
+Open Sans,sans-serif,fonts/font_0057.png,Creative,Food & Beverage,regular,True
+Roboto,sans-serif,fonts/font_0058.png,Minimalist,Technology,thin,True
+Pacifico,script,fonts/font_0059.png,Innovative,Travel,medium,True
+Dancing Script,script,fonts/font_0060.png,Creative,Healthcare,medium,True
+Brush Script,script,fonts/font_0061.png,Playful,Food & Beverage,black,True
+Great Vibes,script,fonts/font_0062.png,Creative,Sustainability,black,True
+Courier New,monospace,fonts/font_0063.png,Bold,Sustainability,regular,True
+Source Code Pro,monospace,fonts/font_0064.png,Creative,Travel,regular,False
+Fira Mono,monospace,fonts/font_0065.png,Creative,Healthcare,regular,True
+IBM Plex Mono,monospace,fonts/font_0066.png,Professional,Education,black,True
+Oswald,display,fonts/font_0067.png,Trustworthy,Education,black,True
+Bebas Neue,display,fonts/font_0068.png,Innovative,Sustainability,thin,True
+Anton,display,fonts/font_0069.png,Luxury,Real Estate,bold,True
+Impact,display,fonts/font_0070.png,Minimalist,Retail,bold,False
+Abril Fatface,display,fonts/font_0071.png,Luxury,Retail,thin,True
+Playfair Display,serif,fonts/font_0072.png,Creative,Real Estate,bold,True
+Garamond,serif,fonts/font_0073.png,Playful,Travel,black,True
+Times New Roman,serif,fonts/font_0074.png,Bold,Retail,bold,True
+Georgia,serif,fonts/font_0075.png,Innovative,Retail,black,True
+Baskerville,serif,fonts/font_0076.png,Bold,Food & Beverage,thin,True
+Helvetica,sans-serif,fonts/font_0077.png,Professional,Food & Beverage,regular,True
+Montserrat,sans-serif,fonts/font_0078.png,Bold,Real Estate,thin,True
+DM Sans,sans-serif,fonts/font_0079.png,Minimalist,Technology,bold,True
+Inter,sans-serif,fonts/font_0080.png,Playful,Healthcare,black,True
+Open Sans,sans-serif,fonts/font_0081.png,Luxury,Travel,bold,True
+Roboto,sans-serif,fonts/font_0082.png,Creative,Food & Beverage,bold,True
+Pacifico,script,fonts/font_0083.png,Creative,Food & Beverage,regular,True
+Dancing Script,script,fonts/font_0084.png,Playful,Education,bold,False
+Brush Script,script,fonts/font_0085.png,Innovative,Healthcare,regular,True
+Great Vibes,script,fonts/font_0086.png,Bold,Education,black,True
+Courier New,monospace,fonts/font_0087.png,Innovative,Technology,black,True
+Source Code Pro,monospace,fonts/font_0088.png,Luxury,Healthcare,regular,False
+Fira Mono,monospace,fonts/font_0089.png,Innovative,Retail,thin,False
+IBM Plex Mono,monospace,fonts/font_0090.png,Professional,Education,black,True
+Oswald,display,fonts/font_0091.png,Playful,Sustainability,thin,True
+Bebas Neue,display,fonts/font_0092.png,Luxury,Travel,black,False
+Anton,display,fonts/font_0093.png,Luxury,Retail,black,True
+Impact,display,fonts/font_0094.png,Trustworthy,Healthcare,medium,True
+Abril Fatface,display,fonts/font_0095.png,Luxury,Sustainability,bold,False
+Playfair Display,serif,fonts/font_0096.png,Trustworthy,Technology,bold,True
+Garamond,serif,fonts/font_0097.png,Minimalist,Sustainability,thin,True
+Times New Roman,serif,fonts/font_0098.png,Creative,Food & Beverage,bold,False
+Georgia,serif,fonts/font_0099.png,Trustworthy,Real Estate,thin,True
+Baskerville,serif,fonts/font_0100.png,Playful,Sustainability,black,True
+Helvetica,sans-serif,fonts/font_0101.png,Innovative,Fashion,medium,True
+Montserrat,sans-serif,fonts/font_0102.png,Trustworthy,Technology,medium,True
+DM Sans,sans-serif,fonts/font_0103.png,Luxury,Retail,black,True
+Inter,sans-serif,fonts/font_0104.png,Playful,Education,regular,True
+Open Sans,sans-serif,fonts/font_0105.png,Trustworthy,Finance,regular,True
+Roboto,sans-serif,fonts/font_0106.png,Trustworthy,Technology,bold,False
+Pacifico,script,fonts/font_0107.png,Luxury,Fashion,thin,True
+Dancing Script,script,fonts/font_0108.png,Professional,Food & Beverage,medium,False
+Brush Script,script,fonts/font_0109.png,Professional,Education,bold,False
+Great Vibes,script,fonts/font_0110.png,Trustworthy,Travel,black,True
+Courier New,monospace,fonts/font_0111.png,Professional,Finance,medium,True
+Source Code Pro,monospace,fonts/font_0112.png,Bold,Sustainability,thin,False
+Fira Mono,monospace,fonts/font_0113.png,Luxury,Fashion,thin,True
+IBM Plex Mono,monospace,fonts/font_0114.png,Bold,Sustainability,regular,True
+Oswald,display,fonts/font_0115.png,Playful,Travel,bold,True
+Bebas Neue,display,fonts/font_0116.png,Bold,Technology,black,False
+Anton,display,fonts/font_0117.png,Playful,Real Estate,medium,True
+Impact,display,fonts/font_0118.png,Trustworthy,Fashion,thin,True
+Abril Fatface,display,fonts/font_0119.png,Playful,Healthcare,medium,True
+Playfair Display,serif,fonts/font_0120.png,Playful,Retail,black,False
+Garamond,serif,fonts/font_0121.png,Innovative,Healthcare,medium,True
+Times New Roman,serif,fonts/font_0122.png,Bold,Real Estate,bold,True
+Georgia,serif,fonts/font_0123.png,Innovative,Travel,regular,True
+Baskerville,serif,fonts/font_0124.png,Trustworthy,Healthcare,medium,True
+Helvetica,sans-serif,fonts/font_0125.png,Luxury,Food & Beverage,regular,True
+Montserrat,sans-serif,fonts/font_0126.png,Bold,Fashion,black,True
+DM Sans,sans-serif,fonts/font_0127.png,Luxury,Food & Beverage,regular,True
+Inter,sans-serif,fonts/font_0128.png,Luxury,Finance,medium,False
+Open Sans,sans-serif,fonts/font_0129.png,Playful,Real Estate,medium,True
+Roboto,sans-serif,fonts/font_0130.png,Creative,Finance,thin,True
+Pacifico,script,fonts/font_0131.png,Bold,Finance,medium,False
+Dancing Script,script,fonts/font_0132.png,Luxury,Finance,regular,True
+Brush Script,script,fonts/font_0133.png,Creative,Technology,thin,True
+Great Vibes,script,fonts/font_0134.png,Professional,Technology,medium,False
+Courier New,monospace,fonts/font_0135.png,Luxury,Real Estate,medium,True
+Source Code Pro,monospace,fonts/font_0136.png,Professional,Education,black,True
+Fira Mono,monospace,fonts/font_0137.png,Bold,Healthcare,thin,True
+IBM Plex Mono,monospace,fonts/font_0138.png,Trustworthy,Technology,black,True
+Oswald,display,fonts/font_0139.png,Innovative,Sustainability,black,True
+Bebas Neue,display,fonts/font_0140.png,Bold,Food & Beverage,black,False
+Anton,display,fonts/font_0141.png,Innovative,Technology,bold,True
+Impact,display,fonts/font_0142.png,Innovative,Travel,black,True
+Abril Fatface,display,fonts/font_0143.png,Bold,Finance,regular,True
+Playfair Display,serif,fonts/font_0144.png,Luxury,Technology,medium,False
+Garamond,serif,fonts/font_0145.png,Minimalist,Real Estate,bold,False
+Times New Roman,serif,fonts/font_0146.png,Luxury,Food & Beverage,black,True
+Georgia,serif,fonts/font_0147.png,Luxury,Food & Beverage,medium,False
+Baskerville,serif,fonts/font_0148.png,Trustworthy,Education,thin,False
+Helvetica,sans-serif,fonts/font_0149.png,Playful,Retail,thin,True
+Montserrat,sans-serif,fonts/font_0150.png,Playful,Retail,medium,True
+DM Sans,sans-serif,fonts/font_0151.png,Luxury,Healthcare,regular,True
+Inter,sans-serif,fonts/font_0152.png,Professional,Sustainability,medium,False
+Open Sans,sans-serif,fonts/font_0153.png,Trustworthy,Fashion,medium,False
+Roboto,sans-serif,fonts/font_0154.png,Innovative,Real Estate,bold,True
+Pacifico,script,fonts/font_0155.png,Creative,Travel,thin,True
+Dancing Script,script,fonts/font_0156.png,Playful,Technology,thin,True
+Brush Script,script,fonts/font_0157.png,Luxury,Real Estate,black,False
+Great Vibes,script,fonts/font_0158.png,Trustworthy,Sustainability,medium,False
+Courier New,monospace,fonts/font_0159.png,Minimalist,Retail,medium,True
+Source Code Pro,monospace,fonts/font_0160.png,Professional,Real Estate,regular,True
+Fira Mono,monospace,fonts/font_0161.png,Bold,Technology,thin,True
+IBM Plex Mono,monospace,fonts/font_0162.png,Luxury,Education,regular,False
+Oswald,display,fonts/font_0163.png,Trustworthy,Healthcare,bold,True
+Bebas Neue,display,fonts/font_0164.png,Luxury,Education,black,True
+Anton,display,fonts/font_0165.png,Creative,Retail,regular,False
+Impact,display,fonts/font_0166.png,Innovative,Finance,thin,True
+Abril Fatface,display,fonts/font_0167.png,Professional,Retail,bold,False
+Playfair Display,serif,fonts/font_0168.png,Playful,Healthcare,medium,True
+Garamond,serif,fonts/font_0169.png,Playful,Technology,bold,True
+Times New Roman,serif,fonts/font_0170.png,Playful,Sustainability,regular,False
+Georgia,serif,fonts/font_0171.png,Creative,Fashion,thin,True
+Baskerville,serif,fonts/font_0172.png,Bold,Education,regular,True
+Helvetica,sans-serif,fonts/font_0173.png,Trustworthy,Retail,medium,True
+Montserrat,sans-serif,fonts/font_0174.png,Professional,Sustainability,medium,True
+DM Sans,sans-serif,fonts/font_0175.png,Professional,Education,thin,True
+Inter,sans-serif,fonts/font_0176.png,Playful,Retail,black,False
+Open Sans,sans-serif,fonts/font_0177.png,Playful,Healthcare,bold,False
+Roboto,sans-serif,fonts/font_0178.png,Innovative,Education,bold,False
+Pacifico,script,fonts/font_0179.png,Creative,Retail,medium,True
+Dancing Script,script,fonts/font_0180.png,Minimalist,Technology,regular,False
+Brush Script,script,fonts/font_0181.png,Minimalist,Healthcare,regular,False
+Great Vibes,script,fonts/font_0182.png,Luxury,Sustainability,black,True
+Courier New,monospace,fonts/font_0183.png,Luxury,Sustainability,regular,True
+Source Code Pro,monospace,fonts/font_0184.png,Professional,Fashion,bold,True
+Fira Mono,monospace,fonts/font_0185.png,Professional,Real Estate,regular,False
+IBM Plex Mono,monospace,fonts/font_0186.png,Bold,Finance,black,True
+Oswald,display,fonts/font_0187.png,Bold,Technology,bold,False
+Bebas Neue,display,fonts/font_0188.png,Minimalist,Healthcare,regular,True
+Anton,display,fonts/font_0189.png,Creative,Education,bold,False
+Impact,display,fonts/font_0190.png,Luxury,Sustainability,medium,True
+Abril Fatface,display,fonts/font_0191.png,Minimalist,Technology,medium,True
+Playfair Display,serif,fonts/font_0192.png,Creative,Healthcare,medium,True
+Garamond,serif,fonts/font_0193.png,Minimalist,Healthcare,regular,True
+Times New Roman,serif,fonts/font_0194.png,Luxury,Education,black,False
+Georgia,serif,fonts/font_0195.png,Trustworthy,Healthcare,bold,False
+Baskerville,serif,fonts/font_0196.png,Bold,Travel,thin,True
+Helvetica,sans-serif,fonts/font_0197.png,Innovative,Technology,medium,True
+Montserrat,sans-serif,fonts/font_0198.png,Innovative,Retail,medium,True
+DM Sans,sans-serif,fonts/font_0199.png,Innovative,Sustainability,thin,True
+Inter,sans-serif,fonts/font_0200.png,Luxury,Sustainability,thin,True
+Open Sans,sans-serif,fonts/font_0201.png,Playful,Retail,regular,False
+Roboto,sans-serif,fonts/font_0202.png,Playful,Technology,bold,False
+Pacifico,script,fonts/font_0203.png,Playful,Finance,medium,True
+Dancing Script,script,fonts/font_0204.png,Professional,Technology,black,True
+Brush Script,script,fonts/font_0205.png,Bold,Food & Beverage,regular,True
+Great Vibes,script,fonts/font_0206.png,Bold,Healthcare,regular,True
+Courier New,monospace,fonts/font_0207.png,Trustworthy,Real Estate,black,True
+Source Code Pro,monospace,fonts/font_0208.png,Trustworthy,Education,black,True
+Fira Mono,monospace,fonts/font_0209.png,Professional,Travel,black,True
+IBM Plex Mono,monospace,fonts/font_0210.png,Minimalist,Real Estate,thin,True
+Oswald,display,fonts/font_0211.png,Creative,Retail,medium,True
+Bebas Neue,display,fonts/font_0212.png,Trustworthy,Education,thin,True
+Anton,display,fonts/font_0213.png,Innovative,Education,medium,True
+Impact,display,fonts/font_0214.png,Playful,Education,thin,False
+Abril Fatface,display,fonts/font_0215.png,Innovative,Sustainability,bold,False
+Playfair Display,serif,fonts/font_0216.png,Playful,Travel,medium,False
+Garamond,serif,fonts/font_0217.png,Innovative,Sustainability,regular,True
+Times New Roman,serif,fonts/font_0218.png,Minimalist,Healthcare,medium,True
+Georgia,serif,fonts/font_0219.png,Creative,Food & Beverage,medium,True
+Baskerville,serif,fonts/font_0220.png,Innovative,Fashion,medium,True
+Helvetica,sans-serif,fonts/font_0221.png,Innovative,Travel,bold,False
+Montserrat,sans-serif,fonts/font_0222.png,Luxury,Real Estate,thin,True
+DM Sans,sans-serif,fonts/font_0223.png,Creative,Healthcare,regular,True
+Inter,sans-serif,fonts/font_0224.png,Innovative,Technology,thin,True
+Open Sans,sans-serif,fonts/font_0225.png,Luxury,Retail,thin,True
+Roboto,sans-serif,fonts/font_0226.png,Bold,Food & Beverage,black,False
+Pacifico,script,fonts/font_0227.png,Creative,Healthcare,bold,True
+Dancing Script,script,fonts/font_0228.png,Professional,Technology,black,True
+Brush Script,script,fonts/font_0229.png,Creative,Food & Beverage,bold,True
+Great Vibes,script,fonts/font_0230.png,Creative,Technology,thin,False
+Courier New,monospace,fonts/font_0231.png,Innovative,Travel,thin,True
+Source Code Pro,monospace,fonts/font_0232.png,Bold,Technology,bold,True
+Fira Mono,monospace,fonts/font_0233.png,Creative,Food & Beverage,thin,True
+IBM Plex Mono,monospace,fonts/font_0234.png,Trustworthy,Technology,thin,False
+Oswald,display,fonts/font_0235.png,Trustworthy,Real Estate,regular,True
+Bebas Neue,display,fonts/font_0236.png,Luxury,Healthcare,black,True
+Anton,display,fonts/font_0237.png,Innovative,Food & Beverage,black,False
+Impact,display,fonts/font_0238.png,Innovative,Real Estate,black,False
+Abril Fatface,display,fonts/font_0239.png,Creative,Technology,medium,True
+Playfair Display,serif,fonts/font_0240.png,Minimalist,Technology,regular,False
+Garamond,serif,fonts/font_0241.png,Bold,Education,black,True
+Times New Roman,serif,fonts/font_0242.png,Playful,Food & Beverage,black,False
+Georgia,serif,fonts/font_0243.png,Playful,Travel,regular,True
+Baskerville,serif,fonts/font_0244.png,Minimalist,Technology,thin,True
+Helvetica,sans-serif,fonts/font_0245.png,Luxury,Retail,black,False
+Montserrat,sans-serif,fonts/font_0246.png,Playful,Sustainability,thin,False
+DM Sans,sans-serif,fonts/font_0247.png,Creative,Fashion,black,True
+Inter,sans-serif,fonts/font_0248.png,Playful,Sustainability,bold,False
+Open Sans,sans-serif,fonts/font_0249.png,Trustworthy,Travel,medium,True
+Roboto,sans-serif,fonts/font_0250.png,Trustworthy,Healthcare,black,False
+Pacifico,script,fonts/font_0251.png,Professional,Finance,bold,True
+Dancing Script,script,fonts/font_0252.png,Bold,Retail,regular,True
+Brush Script,script,fonts/font_0253.png,Luxury,Finance,bold,True
+Great Vibes,script,fonts/font_0254.png,Innovative,Technology,regular,True
+Courier New,monospace,fonts/font_0255.png,Bold,Healthcare,black,True
+Source Code Pro,monospace,fonts/font_0256.png,Luxury,Real Estate,regular,True
+Fira Mono,monospace,fonts/font_0257.png,Playful,Technology,bold,True
+IBM Plex Mono,monospace,fonts/font_0258.png,Professional,Finance,medium,False
+Oswald,display,fonts/font_0259.png,Bold,Technology,thin,True
+Bebas Neue,display,fonts/font_0260.png,Playful,Fashion,thin,True
+Anton,display,fonts/font_0261.png,Luxury,Education,medium,True
+Impact,display,fonts/font_0262.png,Bold,Fashion,thin,True
+Abril Fatface,display,fonts/font_0263.png,Innovative,Healthcare,black,True
+Playfair Display,serif,fonts/font_0264.png,Bold,Real Estate,black,True
+Garamond,serif,fonts/font_0265.png,Playful,Fashion,bold,True
+Times New Roman,serif,fonts/font_0266.png,Creative,Food & Beverage,bold,True
+Georgia,serif,fonts/font_0267.png,Creative,Real Estate,regular,True
+Baskerville,serif,fonts/font_0268.png,Bold,Finance,bold,True
+Helvetica,sans-serif,fonts/font_0269.png,Innovative,Fashion,black,False
+Montserrat,sans-serif,fonts/font_0270.png,Professional,Education,bold,True
+DM Sans,sans-serif,fonts/font_0271.png,Professional,Real Estate,thin,False
+Inter,sans-serif,fonts/font_0272.png,Creative,Technology,regular,True
+Open Sans,sans-serif,fonts/font_0273.png,Playful,Education,regular,False
+Roboto,sans-serif,fonts/font_0274.png,Luxury,Technology,black,True
+Pacifico,script,fonts/font_0275.png,Playful,Fashion,bold,True
+Dancing Script,script,fonts/font_0276.png,Professional,Retail,thin,False
+Brush Script,script,fonts/font_0277.png,Minimalist,Retail,bold,True
+Great Vibes,script,fonts/font_0278.png,Minimalist,Finance,medium,True
+Courier New,monospace,fonts/font_0279.png,Bold,Education,bold,True
+Source Code Pro,monospace,fonts/font_0280.png,Innovative,Technology,black,False
+Fira Mono,monospace,fonts/font_0281.png,Creative,Travel,bold,True
+IBM Plex Mono,monospace,fonts/font_0282.png,Trustworthy,Education,regular,True
+Oswald,display,fonts/font_0283.png,Trustworthy,Food & Beverage,thin,False
+Bebas Neue,display,fonts/font_0284.png,Trustworthy,Finance,black,True
+Anton,display,fonts/font_0285.png,Bold,Sustainability,medium,False
+Impact,display,fonts/font_0286.png,Minimalist,Sustainability,thin,True
+Abril Fatface,display,fonts/font_0287.png,Professional,Technology,thin,False
+Playfair Display,serif,fonts/font_0288.png,Bold,Retail,regular,True
+Garamond,serif,fonts/font_0289.png,Trustworthy,Real Estate,regular,True
+Times New Roman,serif,fonts/font_0290.png,Trustworthy,Food & Beverage,regular,True
+Georgia,serif,fonts/font_0291.png,Creative,Sustainability,black,True
+Baskerville,serif,fonts/font_0292.png,Playful,Technology,bold,True
+Helvetica,sans-serif,fonts/font_0293.png,Trustworthy,Technology,thin,True
+Montserrat,sans-serif,fonts/font_0294.png,Innovative,Fashion,bold,True
+DM Sans,sans-serif,fonts/font_0295.png,Trustworthy,Retail,bold,True
+Inter,sans-serif,fonts/font_0296.png,Playful,Education,regular,True
+Open Sans,sans-serif,fonts/font_0297.png,Trustworthy,Real Estate,bold,True
+Roboto,sans-serif,fonts/font_0298.png,Innovative,Fashion,thin,True
+Pacifico,script,fonts/font_0299.png,Professional,Sustainability,thin,True
+Dancing Script,script,fonts/font_0300.png,Bold,Real Estate,medium,True
+Brush Script,script,fonts/font_0301.png,Innovative,Finance,black,True
+Great Vibes,script,fonts/font_0302.png,Playful,Retail,bold,False
+Courier New,monospace,fonts/font_0303.png,Bold,Sustainability,black,True
+Source Code Pro,monospace,fonts/font_0304.png,Bold,Technology,black,True
+Fira Mono,monospace,fonts/font_0305.png,Playful,Sustainability,black,True
+IBM Plex Mono,monospace,fonts/font_0306.png,Creative,Travel,black,False
+Oswald,display,fonts/font_0307.png,Minimalist,Healthcare,thin,True
+Bebas Neue,display,fonts/font_0308.png,Trustworthy,Healthcare,bold,False
+Anton,display,fonts/font_0309.png,Innovative,Sustainability,medium,True
+Impact,display,fonts/font_0310.png,Playful,Travel,black,False
+Abril Fatface,display,fonts/font_0311.png,Professional,Sustainability,medium,True
+Playfair Display,serif,fonts/font_0312.png,Luxury,Healthcare,thin,True
+Garamond,serif,fonts/font_0313.png,Playful,Fashion,thin,True
+Times New Roman,serif,fonts/font_0314.png,Trustworthy,Finance,regular,False
+Georgia,serif,fonts/font_0315.png,Trustworthy,Healthcare,black,False
+Baskerville,serif,fonts/font_0316.png,Bold,Finance,regular,True
+Helvetica,sans-serif,fonts/font_0317.png,Bold,Technology,medium,True
+Montserrat,sans-serif,fonts/font_0318.png,Playful,Finance,bold,True
+DM Sans,sans-serif,fonts/font_0319.png,Luxury,Fashion,regular,True
+Inter,sans-serif,fonts/font_0320.png,Creative,Travel,thin,True
+Open Sans,sans-serif,fonts/font_0321.png,Playful,Finance,black,True
+Roboto,sans-serif,fonts/font_0322.png,Luxury,Real Estate,medium,False
+Pacifico,script,fonts/font_0323.png,Creative,Education,thin,True
+Dancing Script,script,fonts/font_0324.png,Luxury,Healthcare,bold,True
+Brush Script,script,fonts/font_0325.png,Trustworthy,Travel,black,True
+Great Vibes,script,fonts/font_0326.png,Trustworthy,Food & Beverage,bold,False
+Courier New,monospace,fonts/font_0327.png,Trustworthy,Technology,bold,False
+Source Code Pro,monospace,fonts/font_0328.png,Professional,Education,black,True
+Fira Mono,monospace,fonts/font_0329.png,Trustworthy,Real Estate,black,False
+IBM Plex Mono,monospace,fonts/font_0330.png,Innovative,Retail,bold,False
+Oswald,display,fonts/font_0331.png,Bold,Fashion,medium,True
+Bebas Neue,display,fonts/font_0332.png,Bold,Sustainability,black,True
+Anton,display,fonts/font_0333.png,Luxury,Education,thin,False
+Impact,display,fonts/font_0334.png,Bold,Travel,regular,True
+Abril Fatface,display,fonts/font_0335.png,Minimalist,Travel,medium,True
+Playfair Display,serif,fonts/font_0336.png,Creative,Travel,black,True
+Garamond,serif,fonts/font_0337.png,Luxury,Technology,black,True
+Times New Roman,serif,fonts/font_0338.png,Bold,Finance,medium,False
+Georgia,serif,fonts/font_0339.png,Minimalist,Healthcare,regular,True
+Baskerville,serif,fonts/font_0340.png,Creative,Retail,bold,True
+Helvetica,sans-serif,fonts/font_0341.png,Professional,Sustainability,thin,False
+Montserrat,sans-serif,fonts/font_0342.png,Bold,Travel,black,True
+DM Sans,sans-serif,fonts/font_0343.png,Minimalist,Sustainability,regular,True
+Inter,sans-serif,fonts/font_0344.png,Playful,Food & Beverage,thin,False
+Open Sans,sans-serif,fonts/font_0345.png,Innovative,Technology,medium,True
+Roboto,sans-serif,fonts/font_0346.png,Playful,Travel,black,True
+Pacifico,script,fonts/font_0347.png,Minimalist,Food & Beverage,bold,True
+Dancing Script,script,fonts/font_0348.png,Luxury,Retail,medium,True
+Brush Script,script,fonts/font_0349.png,Trustworthy,Retail,black,False
+Great Vibes,script,fonts/font_0350.png,Trustworthy,Healthcare,regular,True
+Courier New,monospace,fonts/font_0351.png,Trustworthy,Real Estate,thin,True
+Source Code Pro,monospace,fonts/font_0352.png,Creative,Healthcare,thin,True
+Fira Mono,monospace,fonts/font_0353.png,Luxury,Finance,black,True
+IBM Plex Mono,monospace,fonts/font_0354.png,Creative,Sustainability,medium,False
+Oswald,display,fonts/font_0355.png,Bold,Fashion,bold,False
+Bebas Neue,display,fonts/font_0356.png,Trustworthy,Retail,regular,False
+Anton,display,fonts/font_0357.png,Playful,Fashion,black,True
+Impact,display,fonts/font_0358.png,Luxury,Technology,regular,False
+Abril Fatface,display,fonts/font_0359.png,Luxury,Education,thin,True
+Playfair Display,serif,fonts/font_0360.png,Trustworthy,Travel,bold,False
+Garamond,serif,fonts/font_0361.png,Playful,Technology,regular,False
+Times New Roman,serif,fonts/font_0362.png,Professional,Retail,black,True
+Georgia,serif,fonts/font_0363.png,Luxury,Food & Beverage,bold,True
+Baskerville,serif,fonts/font_0364.png,Trustworthy,Sustainability,medium,True
+Helvetica,sans-serif,fonts/font_0365.png,Innovative,Fashion,black,True
+Montserrat,sans-serif,fonts/font_0366.png,Minimalist,Healthcare,regular,False
+DM Sans,sans-serif,fonts/font_0367.png,Creative,Education,bold,True
+Inter,sans-serif,fonts/font_0368.png,Bold,Real Estate,black,True
+Open Sans,sans-serif,fonts/font_0369.png,Luxury,Technology,bold,True
+Roboto,sans-serif,fonts/font_0370.png,Innovative,Real Estate,bold,False
+Pacifico,script,fonts/font_0371.png,Innovative,Fashion,bold,True
+Dancing Script,script,fonts/font_0372.png,Luxury,Fashion,regular,True
+Brush Script,script,fonts/font_0373.png,Professional,Travel,black,True
+Great Vibes,script,fonts/font_0374.png,Minimalist,Food & Beverage,thin,True
+Courier New,monospace,fonts/font_0375.png,Bold,Food & Beverage,thin,True
+Source Code Pro,monospace,fonts/font_0376.png,Luxury,Finance,regular,False
+Fira Mono,monospace,fonts/font_0377.png,Creative,Healthcare,regular,True
+IBM Plex Mono,monospace,fonts/font_0378.png,Bold,Retail,bold,True
+Oswald,display,fonts/font_0379.png,Playful,Retail,black,True
+Bebas Neue,display,fonts/font_0380.png,Innovative,Fashion,black,True
+Anton,display,fonts/font_0381.png,Innovative,Technology,medium,True
+Impact,display,fonts/font_0382.png,Luxury,Sustainability,medium,True
+Abril Fatface,display,fonts/font_0383.png,Luxury,Retail,thin,True
+Playfair Display,serif,fonts/font_0384.png,Creative,Retail,medium,True
+Garamond,serif,fonts/font_0385.png,Playful,Technology,medium,True
+Times New Roman,serif,fonts/font_0386.png,Professional,Healthcare,thin,False
+Georgia,serif,fonts/font_0387.png,Luxury,Education,thin,True
+Baskerville,serif,fonts/font_0388.png,Innovative,Food & Beverage,medium,False
+Helvetica,sans-serif,fonts/font_0389.png,Bold,Travel,black,False
+Montserrat,sans-serif,fonts/font_0390.png,Minimalist,Travel,medium,True
+DM Sans,sans-serif,fonts/font_0391.png,Trustworthy,Travel,bold,False
+Inter,sans-serif,fonts/font_0392.png,Bold,Technology,bold,True
+Open Sans,sans-serif,fonts/font_0393.png,Professional,Travel,bold,True
+Roboto,sans-serif,fonts/font_0394.png,Minimalist,Fashion,regular,True
+Pacifico,script,fonts/font_0395.png,Bold,Finance,bold,True
+Dancing Script,script,fonts/font_0396.png,Bold,Technology,black,True
+Brush Script,script,fonts/font_0397.png,Playful,Technology,regular,True
+Great Vibes,script,fonts/font_0398.png,Trustworthy,Food & Beverage,regular,True
+Courier New,monospace,fonts/font_0399.png,Creative,Travel,bold,True
+Source Code Pro,monospace,fonts/font_0400.png,Professional,Real Estate,medium,True
+Fira Mono,monospace,fonts/font_0401.png,Innovative,Education,thin,True
+IBM Plex Mono,monospace,fonts/font_0402.png,Playful,Finance,medium,True
+Oswald,display,fonts/font_0403.png,Minimalist,Technology,medium,True
+Bebas Neue,display,fonts/font_0404.png,Trustworthy,Finance,regular,True
+Anton,display,fonts/font_0405.png,Innovative,Technology,regular,True
+Impact,display,fonts/font_0406.png,Playful,Healthcare,regular,False
+Abril Fatface,display,fonts/font_0407.png,Trustworthy,Food & Beverage,black,False
+Playfair Display,serif,fonts/font_0408.png,Creative,Fashion,black,True
+Garamond,serif,fonts/font_0409.png,Professional,Healthcare,thin,False
+Times New Roman,serif,fonts/font_0410.png,Luxury,Sustainability,regular,True
+Georgia,serif,fonts/font_0411.png,Creative,Travel,bold,True
+Baskerville,serif,fonts/font_0412.png,Luxury,Sustainability,regular,False
+Helvetica,sans-serif,fonts/font_0413.png,Minimalist,Education,black,True
+Montserrat,sans-serif,fonts/font_0414.png,Luxury,Real Estate,regular,False
+DM Sans,sans-serif,fonts/font_0415.png,Playful,Fashion,black,True
+Inter,sans-serif,fonts/font_0416.png,Minimalist,Healthcare,regular,True
+Open Sans,sans-serif,fonts/font_0417.png,Innovative,Finance,bold,True
+Roboto,sans-serif,fonts/font_0418.png,Creative,Finance,thin,True
+Pacifico,script,fonts/font_0419.png,Creative,Education,bold,True
+Dancing Script,script,fonts/font_0420.png,Professional,Technology,black,True
+Brush Script,script,fonts/font_0421.png,Minimalist,Finance,medium,False
+Great Vibes,script,fonts/font_0422.png,Innovative,Travel,bold,True
+Courier New,monospace,fonts/font_0423.png,Creative,Real Estate,regular,True
+Source Code Pro,monospace,fonts/font_0424.png,Minimalist,Food & Beverage,thin,True
+Fira Mono,monospace,fonts/font_0425.png,Bold,Travel,regular,False
+IBM Plex Mono,monospace,fonts/font_0426.png,Bold,Real Estate,regular,True
+Oswald,display,fonts/font_0427.png,Minimalist,Education,bold,True
+Bebas Neue,display,fonts/font_0428.png,Creative,Travel,thin,False
+Anton,display,fonts/font_0429.png,Trustworthy,Food & Beverage,medium,True
+Impact,display,fonts/font_0430.png,Luxury,Food & Beverage,regular,True
+Abril Fatface,display,fonts/font_0431.png,Bold,Retail,thin,False
+Playfair Display,serif,fonts/font_0432.png,Trustworthy,Technology,medium,False
+Garamond,serif,fonts/font_0433.png,Trustworthy,Education,regular,True
+Times New Roman,serif,fonts/font_0434.png,Professional,Travel,thin,True
+Georgia,serif,fonts/font_0435.png,Innovative,Fashion,bold,False
+Baskerville,serif,fonts/font_0436.png,Playful,Fashion,regular,True
+Helvetica,sans-serif,fonts/font_0437.png,Bold,Education,regular,False
+Montserrat,sans-serif,fonts/font_0438.png,Minimalist,Travel,thin,True
+DM Sans,sans-serif,fonts/font_0439.png,Luxury,Healthcare,regular,True
+Inter,sans-serif,fonts/font_0440.png,Playful,Healthcare,medium,True
+Open Sans,sans-serif,fonts/font_0441.png,Innovative,Technology,regular,False
+Roboto,sans-serif,fonts/font_0442.png,Trustworthy,Travel,black,False
+Pacifico,script,fonts/font_0443.png,Innovative,Food & Beverage,medium,True
+Dancing Script,script,fonts/font_0444.png,Creative,Finance,thin,False
+Brush Script,script,fonts/font_0445.png,Bold,Fashion,medium,True
+Great Vibes,script,fonts/font_0446.png,Innovative,Travel,black,True
+Courier New,monospace,fonts/font_0447.png,Innovative,Travel,black,False
+Source Code Pro,monospace,fonts/font_0448.png,Luxury,Finance,regular,False
+Fira Mono,monospace,fonts/font_0449.png,Creative,Finance,regular,False
+IBM Plex Mono,monospace,fonts/font_0450.png,Creative,Real Estate,bold,False
+Oswald,display,fonts/font_0451.png,Trustworthy,Retail,medium,True
+Bebas Neue,display,fonts/font_0452.png,Luxury,Technology,bold,True
+Anton,display,fonts/font_0453.png,Luxury,Fashion,black,False
+Impact,display,fonts/font_0454.png,Minimalist,Finance,regular,True
+Abril Fatface,display,fonts/font_0455.png,Innovative,Healthcare,regular,True
+Playfair Display,serif,fonts/font_0456.png,Innovative,Education,regular,True
+Garamond,serif,fonts/font_0457.png,Creative,Healthcare,thin,True
+Times New Roman,serif,fonts/font_0458.png,Innovative,Real Estate,black,False
+Georgia,serif,fonts/font_0459.png,Professional,Real Estate,regular,True
+Baskerville,serif,fonts/font_0460.png,Luxury,Finance,black,False
+Helvetica,sans-serif,fonts/font_0461.png,Playful,Real Estate,regular,True
+Montserrat,sans-serif,fonts/font_0462.png,Creative,Food & Beverage,medium,True
+DM Sans,sans-serif,fonts/font_0463.png,Bold,Sustainability,black,True
+Inter,sans-serif,fonts/font_0464.png,Creative,Travel,bold,True
+Open Sans,sans-serif,fonts/font_0465.png,Trustworthy,Travel,thin,True
+Roboto,sans-serif,fonts/font_0466.png,Playful,Finance,bold,True
+Pacifico,script,fonts/font_0467.png,Trustworthy,Real Estate,black,True
+Dancing Script,script,fonts/font_0468.png,Minimalist,Education,regular,True
+Brush Script,script,fonts/font_0469.png,Minimalist,Food & Beverage,black,True
+Great Vibes,script,fonts/font_0470.png,Trustworthy,Technology,thin,True
+Courier New,monospace,fonts/font_0471.png,Innovative,Real Estate,black,True
+Source Code Pro,monospace,fonts/font_0472.png,Playful,Food & Beverage,regular,True
+Fira Mono,monospace,fonts/font_0473.png,Innovative,Retail,bold,False
+IBM Plex Mono,monospace,fonts/font_0474.png,Creative,Technology,medium,True
+Oswald,display,fonts/font_0475.png,Professional,Travel,bold,False
+Bebas Neue,display,fonts/font_0476.png,Minimalist,Retail,regular,False
+Anton,display,fonts/font_0477.png,Minimalist,Finance,regular,True
+Impact,display,fonts/font_0478.png,Playful,Fashion,thin,False
+Abril Fatface,display,fonts/font_0479.png,Minimalist,Finance,black,True
+Playfair Display,serif,fonts/font_0480.png,Professional,Education,black,False
+Garamond,serif,fonts/font_0481.png,Professional,Food & Beverage,bold,False
+Times New Roman,serif,fonts/font_0482.png,Professional,Fashion,medium,True
+Georgia,serif,fonts/font_0483.png,Bold,Technology,medium,True
+Baskerville,serif,fonts/font_0484.png,Professional,Technology,thin,True
+Helvetica,sans-serif,fonts/font_0485.png,Professional,Retail,regular,True
+Montserrat,sans-serif,fonts/font_0486.png,Bold,Education,thin,True
+DM Sans,sans-serif,fonts/font_0487.png,Innovative,Travel,black,True
+Inter,sans-serif,fonts/font_0488.png,Creative,Real Estate,regular,True
+Open Sans,sans-serif,fonts/font_0489.png,Luxury,Real Estate,thin,True
+Roboto,sans-serif,fonts/font_0490.png,Minimalist,Fashion,bold,False
+Pacifico,script,fonts/font_0491.png,Professional,Education,black,False
+Dancing Script,script,fonts/font_0492.png,Minimalist,Education,medium,True
+Brush Script,script,fonts/font_0493.png,Playful,Technology,thin,True
+Great Vibes,script,fonts/font_0494.png,Minimalist,Travel,black,True
+Courier New,monospace,fonts/font_0495.png,Trustworthy,Food & Beverage,black,True
+Source Code Pro,monospace,fonts/font_0496.png,Innovative,Travel,medium,False
+Fira Mono,monospace,fonts/font_0497.png,Creative,Healthcare,medium,True
+IBM Plex Mono,monospace,fonts/font_0498.png,Bold,Education,medium,True
+Oswald,display,fonts/font_0499.png,Minimalist,Finance,thin,False
+Bebas Neue,display,fonts/font_0500.png,Minimalist,Sustainability,medium,False
+Anton,display,fonts/font_0501.png,Minimalist,Education,bold,True
+Impact,display,fonts/font_0502.png,Luxury,Fashion,black,True
+Abril Fatface,display,fonts/font_0503.png,Luxury,Finance,medium,True
+Playfair Display,serif,fonts/font_0504.png,Playful,Fashion,black,True
+Garamond,serif,fonts/font_0505.png,Bold,Retail,regular,False
+Times New Roman,serif,fonts/font_0506.png,Minimalist,Sustainability,regular,True
+Georgia,serif,fonts/font_0507.png,Minimalist,Sustainability,medium,True
+Baskerville,serif,fonts/font_0508.png,Minimalist,Technology,black,False
+Helvetica,sans-serif,fonts/font_0509.png,Minimalist,Education,regular,False
+Montserrat,sans-serif,fonts/font_0510.png,Luxury,Technology,medium,False
+DM Sans,sans-serif,fonts/font_0511.png,Innovative,Real Estate,black,True
+Inter,sans-serif,fonts/font_0512.png,Innovative,Fashion,medium,True
+Open Sans,sans-serif,fonts/font_0513.png,Playful,Healthcare,black,True
+Roboto,sans-serif,fonts/font_0514.png,Trustworthy,Healthcare,regular,True
+Pacifico,script,fonts/font_0515.png,Professional,Real Estate,medium,True
+Dancing Script,script,fonts/font_0516.png,Bold,Retail,regular,True
+Brush Script,script,fonts/font_0517.png,Innovative,Healthcare,medium,True
+Great Vibes,script,fonts/font_0518.png,Trustworthy,Fashion,thin,False
+Courier New,monospace,fonts/font_0519.png,Creative,Healthcare,regular,True
+Source Code Pro,monospace,fonts/font_0520.png,Creative,Real Estate,regular,False
+Fira Mono,monospace,fonts/font_0521.png,Minimalist,Finance,bold,True
+IBM Plex Mono,monospace,fonts/font_0522.png,Creative,Technology,regular,False
+Oswald,display,fonts/font_0523.png,Innovative,Food & Beverage,black,True
+Bebas Neue,display,fonts/font_0524.png,Playful,Fashion,medium,False
+Anton,display,fonts/font_0525.png,Professional,Technology,thin,True
+Impact,display,fonts/font_0526.png,Innovative,Sustainability,black,True
+Abril Fatface,display,fonts/font_0527.png,Playful,Travel,black,False
+Playfair Display,serif,fonts/font_0528.png,Creative,Healthcare,black,True
+Garamond,serif,fonts/font_0529.png,Luxury,Healthcare,black,True
+Times New Roman,serif,fonts/font_0530.png,Professional,Retail,thin,False
+Georgia,serif,fonts/font_0531.png,Playful,Technology,bold,False
+Baskerville,serif,fonts/font_0532.png,Trustworthy,Travel,regular,True
+Helvetica,sans-serif,fonts/font_0533.png,Innovative,Healthcare,black,True
+Montserrat,sans-serif,fonts/font_0534.png,Luxury,Sustainability,regular,True
+DM Sans,sans-serif,fonts/font_0535.png,Trustworthy,Retail,regular,True
+Inter,sans-serif,fonts/font_0536.png,Playful,Technology,black,False
+Open Sans,sans-serif,fonts/font_0537.png,Playful,Retail,bold,True
+Roboto,sans-serif,fonts/font_0538.png,Creative,Technology,regular,True
+Pacifico,script,fonts/font_0539.png,Trustworthy,Education,medium,False
+Dancing Script,script,fonts/font_0540.png,Innovative,Education,regular,True
+Brush Script,script,fonts/font_0541.png,Professional,Real Estate,black,True
+Great Vibes,script,fonts/font_0542.png,Luxury,Fashion,thin,True
+Courier New,monospace,fonts/font_0543.png,Creative,Retail,regular,True
+Source Code Pro,monospace,fonts/font_0544.png,Minimalist,Real Estate,bold,True
+Fira Mono,monospace,fonts/font_0545.png,Bold,Retail,medium,True
+IBM Plex Mono,monospace,fonts/font_0546.png,Professional,Healthcare,medium,True
+Oswald,display,fonts/font_0547.png,Creative,Food & Beverage,thin,True
+Bebas Neue,display,fonts/font_0548.png,Luxury,Retail,thin,True
+Anton,display,fonts/font_0549.png,Trustworthy,Healthcare,regular,True
+Impact,display,fonts/font_0550.png,Playful,Travel,black,True
+Abril Fatface,display,fonts/font_0551.png,Trustworthy,Education,bold,True
+Playfair Display,serif,fonts/font_0552.png,Creative,Real Estate,medium,True
+Garamond,serif,fonts/font_0553.png,Luxury,Food & Beverage,thin,True
+Times New Roman,serif,fonts/font_0554.png,Trustworthy,Sustainability,bold,True
+Georgia,serif,fonts/font_0555.png,Trustworthy,Education,black,True
+Baskerville,serif,fonts/font_0556.png,Bold,Real Estate,medium,False
+Helvetica,sans-serif,fonts/font_0557.png,Innovative,Food & Beverage,medium,True
+Montserrat,sans-serif,fonts/font_0558.png,Creative,Sustainability,black,False
+DM Sans,sans-serif,fonts/font_0559.png,Bold,Finance,medium,False
+Inter,sans-serif,fonts/font_0560.png,Creative,Healthcare,black,True
+Open Sans,sans-serif,fonts/font_0561.png,Minimalist,Finance,medium,True
+Roboto,sans-serif,fonts/font_0562.png,Minimalist,Healthcare,regular,False
+Pacifico,script,fonts/font_0563.png,Bold,Technology,black,True
+Dancing Script,script,fonts/font_0564.png,Professional,Fashion,bold,False
+Brush Script,script,fonts/font_0565.png,Professional,Food & Beverage,regular,True
+Great Vibes,script,fonts/font_0566.png,Trustworthy,Finance,bold,True
+Courier New,monospace,fonts/font_0567.png,Trustworthy,Fashion,medium,True
+Source Code Pro,monospace,fonts/font_0568.png,Playful,Food & Beverage,bold,True
+Fira Mono,monospace,fonts/font_0569.png,Minimalist,Real Estate,regular,True
+IBM Plex Mono,monospace,fonts/font_0570.png,Creative,Technology,black,True
+Oswald,display,fonts/font_0571.png,Playful,Real Estate,thin,False
+Bebas Neue,display,fonts/font_0572.png,Minimalist,Healthcare,bold,False
+Anton,display,fonts/font_0573.png,Bold,Fashion,thin,True
+Impact,display,fonts/font_0574.png,Professional,Food & Beverage,bold,False
+Abril Fatface,display,fonts/font_0575.png,Trustworthy,Retail,bold,False
+Playfair Display,serif,fonts/font_0576.png,Professional,Fashion,black,False
+Garamond,serif,fonts/font_0577.png,Bold,Travel,medium,True
+Times New Roman,serif,fonts/font_0578.png,Playful,Sustainability,regular,False
+Georgia,serif,fonts/font_0579.png,Playful,Finance,regular,True
+Baskerville,serif,fonts/font_0580.png,Luxury,Food & Beverage,regular,True
+Helvetica,sans-serif,fonts/font_0581.png,Trustworthy,Education,medium,False
+Montserrat,sans-serif,fonts/font_0582.png,Trustworthy,Education,thin,True
+DM Sans,sans-serif,fonts/font_0583.png,Creative,Sustainability,regular,True
+Inter,sans-serif,fonts/font_0584.png,Trustworthy,Healthcare,thin,False
+Open Sans,sans-serif,fonts/font_0585.png,Minimalist,Fashion,medium,True
+Roboto,sans-serif,fonts/font_0586.png,Playful,Fashion,medium,False
+Pacifico,script,fonts/font_0587.png,Bold,Education,black,False
+Dancing Script,script,fonts/font_0588.png,Playful,Fashion,regular,True
+Brush Script,script,fonts/font_0589.png,Professional,Sustainability,black,True
+Great Vibes,script,fonts/font_0590.png,Minimalist,Fashion,regular,False
+Courier New,monospace,fonts/font_0591.png,Trustworthy,Healthcare,medium,True
+Source Code Pro,monospace,fonts/font_0592.png,Creative,Finance,medium,False
+Fira Mono,monospace,fonts/font_0593.png,Creative,Travel,bold,False
+IBM Plex Mono,monospace,fonts/font_0594.png,Creative,Finance,bold,True
+Oswald,display,fonts/font_0595.png,Innovative,Travel,medium,True
+Bebas Neue,display,fonts/font_0596.png,Luxury,Retail,medium,False
+Anton,display,fonts/font_0597.png,Minimalist,Finance,thin,True
+Impact,display,fonts/font_0598.png,Professional,Sustainability,thin,True
+Abril Fatface,display,fonts/font_0599.png,Trustworthy,Technology,black,False
+Playfair Display,serif,fonts/font_0600.png,Professional,Retail,bold,False
+Garamond,serif,fonts/font_0601.png,Professional,Travel,bold,True
+Times New Roman,serif,fonts/font_0602.png,Trustworthy,Travel,medium,True
+Georgia,serif,fonts/font_0603.png,Professional,Retail,medium,True
+Baskerville,serif,fonts/font_0604.png,Creative,Travel,black,False
+Helvetica,sans-serif,fonts/font_0605.png,Bold,Food & Beverage,bold,False
+Montserrat,sans-serif,fonts/font_0606.png,Luxury,Technology,thin,False
+DM Sans,sans-serif,fonts/font_0607.png,Innovative,Sustainability,regular,True
+Inter,sans-serif,fonts/font_0608.png,Professional,Food & Beverage,black,False
+Open Sans,sans-serif,fonts/font_0609.png,Professional,Travel,regular,False
+Roboto,sans-serif,fonts/font_0610.png,Playful,Finance,thin,True
+Pacifico,script,fonts/font_0611.png,Luxury,Food & Beverage,thin,True
+Dancing Script,script,fonts/font_0612.png,Minimalist,Finance,regular,False
+Brush Script,script,fonts/font_0613.png,Luxury,Retail,black,True
+Great Vibes,script,fonts/font_0614.png,Luxury,Fashion,regular,True
+Courier New,monospace,fonts/font_0615.png,Trustworthy,Real Estate,black,True
+Source Code Pro,monospace,fonts/font_0616.png,Trustworthy,Travel,black,True
+Fira Mono,monospace,fonts/font_0617.png,Trustworthy,Real Estate,medium,True
+IBM Plex Mono,monospace,fonts/font_0618.png,Innovative,Technology,bold,True
+Oswald,display,fonts/font_0619.png,Creative,Finance,bold,False
+Bebas Neue,display,fonts/font_0620.png,Luxury,Food & Beverage,thin,False
+Anton,display,fonts/font_0621.png,Innovative,Real Estate,medium,False
+Impact,display,fonts/font_0622.png,Professional,Healthcare,bold,True
+Abril Fatface,display,fonts/font_0623.png,Trustworthy,Travel,black,False
+Playfair Display,serif,fonts/font_0624.png,Professional,Real Estate,black,False
+Garamond,serif,fonts/font_0625.png,Trustworthy,Food & Beverage,regular,True
+Times New Roman,serif,fonts/font_0626.png,Bold,Food & Beverage,regular,True
+Georgia,serif,fonts/font_0627.png,Innovative,Technology,black,True
+Baskerville,serif,fonts/font_0628.png,Innovative,Education,black,False
+Helvetica,sans-serif,fonts/font_0629.png,Creative,Sustainability,regular,True
+Montserrat,sans-serif,fonts/font_0630.png,Minimalist,Healthcare,bold,False
+DM Sans,sans-serif,fonts/font_0631.png,Playful,Real Estate,thin,True
+Inter,sans-serif,fonts/font_0632.png,Luxury,Sustainability,regular,True
+Open Sans,sans-serif,fonts/font_0633.png,Minimalist,Healthcare,bold,False
+Roboto,sans-serif,fonts/font_0634.png,Innovative,Education,bold,True
+Pacifico,script,fonts/font_0635.png,Minimalist,Real Estate,bold,True
+Dancing Script,script,fonts/font_0636.png,Bold,Healthcare,medium,False
+Brush Script,script,fonts/font_0637.png,Playful,Sustainability,medium,False
+Great Vibes,script,fonts/font_0638.png,Creative,Finance,bold,True
+Courier New,monospace,fonts/font_0639.png,Innovative,Food & Beverage,black,True
+Source Code Pro,monospace,fonts/font_0640.png,Innovative,Fashion,medium,True
+Fira Mono,monospace,fonts/font_0641.png,Luxury,Retail,regular,False
+IBM Plex Mono,monospace,fonts/font_0642.png,Creative,Travel,medium,True
+Oswald,display,fonts/font_0643.png,Creative,Fashion,black,True
+Bebas Neue,display,fonts/font_0644.png,Trustworthy,Real Estate,thin,True
+Anton,display,fonts/font_0645.png,Playful,Real Estate,medium,False
+Impact,display,fonts/font_0646.png,Bold,Healthcare,bold,False
+Abril Fatface,display,fonts/font_0647.png,Professional,Food & Beverage,bold,False
+Playfair Display,serif,fonts/font_0648.png,Minimalist,Education,bold,True
+Garamond,serif,fonts/font_0649.png,Creative,Technology,thin,False
+Times New Roman,serif,fonts/font_0650.png,Luxury,Healthcare,black,True
+Georgia,serif,fonts/font_0651.png,Innovative,Technology,regular,True
+Baskerville,serif,fonts/font_0652.png,Professional,Retail,black,False
+Helvetica,sans-serif,fonts/font_0653.png,Bold,Sustainability,thin,True
+Montserrat,sans-serif,fonts/font_0654.png,Playful,Healthcare,bold,True
+DM Sans,sans-serif,fonts/font_0655.png,Creative,Retail,black,False
+Inter,sans-serif,fonts/font_0656.png,Minimalist,Travel,regular,True
+Open Sans,sans-serif,fonts/font_0657.png,Creative,Healthcare,bold,True
+Roboto,sans-serif,fonts/font_0658.png,Luxury,Food & Beverage,regular,True
+Pacifico,script,fonts/font_0659.png,Creative,Food & Beverage,medium,True
+Dancing Script,script,fonts/font_0660.png,Creative,Real Estate,regular,False
+Brush Script,script,fonts/font_0661.png,Creative,Travel,bold,True
+Great Vibes,script,fonts/font_0662.png,Innovative,Real Estate,medium,False
+Courier New,monospace,fonts/font_0663.png,Innovative,Technology,bold,True
+Source Code Pro,monospace,fonts/font_0664.png,Professional,Fashion,bold,True
+Fira Mono,monospace,fonts/font_0665.png,Professional,Education,medium,True
+IBM Plex Mono,monospace,fonts/font_0666.png,Minimalist,Travel,regular,False
+Oswald,display,fonts/font_0667.png,Playful,Sustainability,thin,True
+Bebas Neue,display,fonts/font_0668.png,Bold,Education,thin,False
+Anton,display,fonts/font_0669.png,Trustworthy,Education,thin,True
+Impact,display,fonts/font_0670.png,Playful,Finance,thin,False
+Abril Fatface,display,fonts/font_0671.png,Playful,Healthcare,black,False
+Playfair Display,serif,fonts/font_0672.png,Playful,Sustainability,thin,False
+Garamond,serif,fonts/font_0673.png,Trustworthy,Travel,medium,False
+Times New Roman,serif,fonts/font_0674.png,Minimalist,Real Estate,thin,True
+Georgia,serif,fonts/font_0675.png,Trustworthy,Technology,bold,False
+Baskerville,serif,fonts/font_0676.png,Minimalist,Healthcare,thin,True
+Helvetica,sans-serif,fonts/font_0677.png,Trustworthy,Finance,regular,True
+Montserrat,sans-serif,fonts/font_0678.png,Bold,Technology,medium,True
+DM Sans,sans-serif,fonts/font_0679.png,Creative,Travel,medium,True
+Inter,sans-serif,fonts/font_0680.png,Playful,Fashion,black,True
+Open Sans,sans-serif,fonts/font_0681.png,Creative,Education,bold,True
+Roboto,sans-serif,fonts/font_0682.png,Minimalist,Finance,medium,True
+Pacifico,script,fonts/font_0683.png,Trustworthy,Technology,regular,True
+Dancing Script,script,fonts/font_0684.png,Bold,Real Estate,thin,True
+Brush Script,script,fonts/font_0685.png,Trustworthy,Finance,medium,False
+Great Vibes,script,fonts/font_0686.png,Creative,Technology,regular,False
+Courier New,monospace,fonts/font_0687.png,Innovative,Finance,thin,False
+Source Code Pro,monospace,fonts/font_0688.png,Bold,Real Estate,black,True
+Fira Mono,monospace,fonts/font_0689.png,Playful,Real Estate,medium,True
+IBM Plex Mono,monospace,fonts/font_0690.png,Luxury,Sustainability,medium,False
+Oswald,display,fonts/font_0691.png,Playful,Food & Beverage,regular,False
+Bebas Neue,display,fonts/font_0692.png,Luxury,Education,bold,False
+Anton,display,fonts/font_0693.png,Bold,Healthcare,black,True
+Impact,display,fonts/font_0694.png,Innovative,Healthcare,bold,True
+Abril Fatface,display,fonts/font_0695.png,Creative,Travel,medium,False
+Playfair Display,serif,fonts/font_0696.png,Innovative,Retail,bold,True
+Garamond,serif,fonts/font_0697.png,Minimalist,Travel,thin,True
+Times New Roman,serif,fonts/font_0698.png,Innovative,Retail,black,False
+Georgia,serif,fonts/font_0699.png,Professional,Finance,bold,False
+Baskerville,serif,fonts/font_0700.png,Bold,Retail,thin,True
+Helvetica,sans-serif,fonts/font_0701.png,Creative,Food & Beverage,regular,True
+Montserrat,sans-serif,fonts/font_0702.png,Creative,Food & Beverage,bold,False
+DM Sans,sans-serif,fonts/font_0703.png,Minimalist,Education,black,True
+Inter,sans-serif,fonts/font_0704.png,Creative,Technology,thin,False
+Open Sans,sans-serif,fonts/font_0705.png,Innovative,Healthcare,bold,False
+Roboto,sans-serif,fonts/font_0706.png,Bold,Education,regular,False
+Pacifico,script,fonts/font_0707.png,Playful,Food & Beverage,bold,False
+Dancing Script,script,fonts/font_0708.png,Innovative,Technology,thin,True
+Brush Script,script,fonts/font_0709.png,Trustworthy,Travel,bold,True
+Great Vibes,script,fonts/font_0710.png,Luxury,Healthcare,black,True
+Courier New,monospace,fonts/font_0711.png,Bold,Sustainability,medium,True
+Source Code Pro,monospace,fonts/font_0712.png,Creative,Healthcare,thin,True
+Fira Mono,monospace,fonts/font_0713.png,Minimalist,Finance,thin,True
+IBM Plex Mono,monospace,fonts/font_0714.png,Playful,Fashion,thin,False
+Oswald,display,fonts/font_0715.png,Professional,Healthcare,thin,True
+Bebas Neue,display,fonts/font_0716.png,Playful,Food & Beverage,bold,True
+Anton,display,fonts/font_0717.png,Innovative,Finance,black,True
+Impact,display,fonts/font_0718.png,Luxury,Real Estate,regular,True
+Abril Fatface,display,fonts/font_0719.png,Playful,Retail,black,True
+Playfair Display,serif,fonts/font_0720.png,Professional,Travel,thin,True
+Garamond,serif,fonts/font_0721.png,Trustworthy,Sustainability,bold,True
+Times New Roman,serif,fonts/font_0722.png,Minimalist,Travel,bold,False
+Georgia,serif,fonts/font_0723.png,Bold,Real Estate,thin,False
+Baskerville,serif,fonts/font_0724.png,Luxury,Fashion,bold,False
+Helvetica,sans-serif,fonts/font_0725.png,Professional,Healthcare,thin,True
+Montserrat,sans-serif,fonts/font_0726.png,Creative,Education,black,True
+DM Sans,sans-serif,fonts/font_0727.png,Innovative,Finance,medium,True
+Inter,sans-serif,fonts/font_0728.png,Innovative,Sustainability,bold,True
+Open Sans,sans-serif,fonts/font_0729.png,Innovative,Real Estate,thin,True
+Roboto,sans-serif,fonts/font_0730.png,Creative,Fashion,thin,True
+Pacifico,script,fonts/font_0731.png,Creative,Travel,bold,False
+Dancing Script,script,fonts/font_0732.png,Luxury,Real Estate,regular,True
+Brush Script,script,fonts/font_0733.png,Playful,Sustainability,thin,True
+Great Vibes,script,fonts/font_0734.png,Luxury,Sustainability,bold,True
+Courier New,monospace,fonts/font_0735.png,Innovative,Fashion,thin,True
+Source Code Pro,monospace,fonts/font_0736.png,Trustworthy,Travel,regular,False
+Fira Mono,monospace,fonts/font_0737.png,Professional,Food & Beverage,medium,True
+IBM Plex Mono,monospace,fonts/font_0738.png,Bold,Sustainability,regular,True
+Oswald,display,fonts/font_0739.png,Bold,Finance,black,True
+Bebas Neue,display,fonts/font_0740.png,Luxury,Finance,bold,True
+Anton,display,fonts/font_0741.png,Innovative,Retail,regular,True
+Impact,display,fonts/font_0742.png,Creative,Travel,medium,False
+Abril Fatface,display,fonts/font_0743.png,Minimalist,Real Estate,thin,False
+Playfair Display,serif,fonts/font_0744.png,Trustworthy,Finance,bold,False
+Garamond,serif,fonts/font_0745.png,Luxury,Fashion,regular,True
+Times New Roman,serif,fonts/font_0746.png,Innovative,Real Estate,medium,True
+Georgia,serif,fonts/font_0747.png,Playful,Travel,regular,True
+Baskerville,serif,fonts/font_0748.png,Bold,Fashion,black,False
+Helvetica,sans-serif,fonts/font_0749.png,Bold,Healthcare,bold,False
+Montserrat,sans-serif,fonts/font_0750.png,Trustworthy,Technology,thin,False
+DM Sans,sans-serif,fonts/font_0751.png,Bold,Finance,medium,True
+Inter,sans-serif,fonts/font_0752.png,Minimalist,Finance,regular,True
+Open Sans,sans-serif,fonts/font_0753.png,Innovative,Retail,bold,True
+Roboto,sans-serif,fonts/font_0754.png,Innovative,Food & Beverage,regular,True
+Pacifico,script,fonts/font_0755.png,Trustworthy,Retail,bold,True
+Dancing Script,script,fonts/font_0756.png,Innovative,Travel,black,True
+Brush Script,script,fonts/font_0757.png,Creative,Retail,regular,False
+Great Vibes,script,fonts/font_0758.png,Trustworthy,Food & Beverage,black,True
+Courier New,monospace,fonts/font_0759.png,Innovative,Food & Beverage,medium,True
+Source Code Pro,monospace,fonts/font_0760.png,Minimalist,Sustainability,black,True
+Fira Mono,monospace,fonts/font_0761.png,Professional,Sustainability,bold,True
+IBM Plex Mono,monospace,fonts/font_0762.png,Luxury,Technology,medium,False
+Oswald,display,fonts/font_0763.png,Luxury,Fashion,regular,True
+Bebas Neue,display,fonts/font_0764.png,Innovative,Healthcare,regular,True
+Anton,display,fonts/font_0765.png,Playful,Food & Beverage,bold,False
+Impact,display,fonts/font_0766.png,Bold,Healthcare,thin,True
+Abril Fatface,display,fonts/font_0767.png,Minimalist,Finance,thin,True
+Playfair Display,serif,fonts/font_0768.png,Playful,Education,regular,False
+Garamond,serif,fonts/font_0769.png,Creative,Technology,bold,False
+Times New Roman,serif,fonts/font_0770.png,Playful,Travel,thin,True
+Georgia,serif,fonts/font_0771.png,Innovative,Real Estate,black,True
+Baskerville,serif,fonts/font_0772.png,Minimalist,Healthcare,regular,True
+Helvetica,sans-serif,fonts/font_0773.png,Luxury,Retail,black,False
+Montserrat,sans-serif,fonts/font_0774.png,Bold,Food & Beverage,bold,True
+DM Sans,sans-serif,fonts/font_0775.png,Luxury,Healthcare,black,False
+Inter,sans-serif,fonts/font_0776.png,Playful,Real Estate,thin,False
+Open Sans,sans-serif,fonts/font_0777.png,Creative,Food & Beverage,thin,False
+Roboto,sans-serif,fonts/font_0778.png,Bold,Travel,medium,True
+Pacifico,script,fonts/font_0779.png,Professional,Education,regular,True
+Dancing Script,script,fonts/font_0780.png,Playful,Retail,bold,True
+Brush Script,script,fonts/font_0781.png,Luxury,Healthcare,regular,False
+Great Vibes,script,fonts/font_0782.png,Luxury,Sustainability,black,True
+Courier New,monospace,fonts/font_0783.png,Innovative,Technology,bold,True
+Source Code Pro,monospace,fonts/font_0784.png,Luxury,Healthcare,bold,True
+Fira Mono,monospace,fonts/font_0785.png,Minimalist,Healthcare,thin,True
+IBM Plex Mono,monospace,fonts/font_0786.png,Playful,Real Estate,black,True
+Oswald,display,fonts/font_0787.png,Trustworthy,Real Estate,thin,True
+Bebas Neue,display,fonts/font_0788.png,Trustworthy,Technology,thin,True
+Anton,display,fonts/font_0789.png,Creative,Healthcare,medium,True
+Impact,display,fonts/font_0790.png,Bold,Fashion,thin,True
+Abril Fatface,display,fonts/font_0791.png,Luxury,Travel,regular,False
+Playfair Display,serif,fonts/font_0792.png,Innovative,Real Estate,bold,False
+Garamond,serif,fonts/font_0793.png,Innovative,Real Estate,thin,True
+Times New Roman,serif,fonts/font_0794.png,Luxury,Fashion,regular,True
+Georgia,serif,fonts/font_0795.png,Minimalist,Food & Beverage,black,False
+Baskerville,serif,fonts/font_0796.png,Innovative,Healthcare,bold,True
+Helvetica,sans-serif,fonts/font_0797.png,Trustworthy,Technology,black,True
+Montserrat,sans-serif,fonts/font_0798.png,Bold,Real Estate,regular,True
+DM Sans,sans-serif,fonts/font_0799.png,Playful,Technology,black,True
+Inter,sans-serif,fonts/font_0800.png,Professional,Technology,black,True
+Open Sans,sans-serif,fonts/font_0801.png,Minimalist,Travel,black,False
+Roboto,sans-serif,fonts/font_0802.png,Creative,Sustainability,thin,False
+Pacifico,script,fonts/font_0803.png,Creative,Real Estate,thin,True
+Dancing Script,script,fonts/font_0804.png,Innovative,Retail,thin,True
+Brush Script,script,fonts/font_0805.png,Playful,Food & Beverage,bold,True
+Great Vibes,script,fonts/font_0806.png,Professional,Technology,regular,True
+Courier New,monospace,fonts/font_0807.png,Creative,Real Estate,thin,True
+Source Code Pro,monospace,fonts/font_0808.png,Luxury,Food & Beverage,black,True
+Fira Mono,monospace,fonts/font_0809.png,Luxury,Retail,black,False
+IBM Plex Mono,monospace,fonts/font_0810.png,Bold,Real Estate,black,True
+Oswald,display,fonts/font_0811.png,Professional,Healthcare,black,False
+Bebas Neue,display,fonts/font_0812.png,Luxury,Technology,medium,True
+Anton,display,fonts/font_0813.png,Creative,Retail,bold,True
+Impact,display,fonts/font_0814.png,Luxury,Healthcare,regular,True
+Abril Fatface,display,fonts/font_0815.png,Trustworthy,Technology,regular,True
+Playfair Display,serif,fonts/font_0816.png,Innovative,Finance,thin,False
+Garamond,serif,fonts/font_0817.png,Creative,Education,medium,True
+Times New Roman,serif,fonts/font_0818.png,Creative,Fashion,regular,True
+Georgia,serif,fonts/font_0819.png,Creative,Technology,bold,True
+Baskerville,serif,fonts/font_0820.png,Bold,Retail,black,True
+Helvetica,sans-serif,fonts/font_0821.png,Playful,Retail,thin,True
+Montserrat,sans-serif,fonts/font_0822.png,Creative,Education,bold,True
+DM Sans,sans-serif,fonts/font_0823.png,Luxury,Real Estate,regular,False
+Inter,sans-serif,fonts/font_0824.png,Trustworthy,Fashion,medium,False
+Open Sans,sans-serif,fonts/font_0825.png,Creative,Food & Beverage,thin,True
+Roboto,sans-serif,fonts/font_0826.png,Minimalist,Technology,regular,True
+Pacifico,script,fonts/font_0827.png,Minimalist,Real Estate,thin,True
+Dancing Script,script,fonts/font_0828.png,Playful,Healthcare,regular,True
+Brush Script,script,fonts/font_0829.png,Professional,Food & Beverage,black,False
+Great Vibes,script,fonts/font_0830.png,Bold,Fashion,medium,False
+Courier New,monospace,fonts/font_0831.png,Trustworthy,Real Estate,black,True
+Source Code Pro,monospace,fonts/font_0832.png,Innovative,Sustainability,regular,True
+Fira Mono,monospace,fonts/font_0833.png,Trustworthy,Food & Beverage,bold,False
+IBM Plex Mono,monospace,fonts/font_0834.png,Minimalist,Travel,black,False
+Oswald,display,fonts/font_0835.png,Minimalist,Travel,bold,True
+Bebas Neue,display,fonts/font_0836.png,Playful,Technology,regular,True
+Anton,display,fonts/font_0837.png,Professional,Technology,medium,True
+Impact,display,fonts/font_0838.png,Professional,Technology,bold,False
+Abril Fatface,display,fonts/font_0839.png,Playful,Fashion,regular,True
+Playfair Display,serif,fonts/font_0840.png,Creative,Sustainability,bold,False
+Garamond,serif,fonts/font_0841.png,Trustworthy,Real Estate,black,True
+Times New Roman,serif,fonts/font_0842.png,Minimalist,Healthcare,regular,True
+Georgia,serif,fonts/font_0843.png,Trustworthy,Finance,black,True
+Baskerville,serif,fonts/font_0844.png,Trustworthy,Retail,thin,False
+Helvetica,sans-serif,fonts/font_0845.png,Bold,Healthcare,regular,True
+Montserrat,sans-serif,fonts/font_0846.png,Minimalist,Real Estate,bold,False
+DM Sans,sans-serif,fonts/font_0847.png,Professional,Sustainability,thin,True
+Inter,sans-serif,fonts/font_0848.png,Innovative,Fashion,black,False
+Open Sans,sans-serif,fonts/font_0849.png,Trustworthy,Food & Beverage,black,False
+Roboto,sans-serif,fonts/font_0850.png,Minimalist,Healthcare,bold,True
+Pacifico,script,fonts/font_0851.png,Trustworthy,Food & Beverage,thin,False
+Dancing Script,script,fonts/font_0852.png,Bold,Finance,medium,True
+Brush Script,script,fonts/font_0853.png,Creative,Real Estate,bold,True
+Great Vibes,script,fonts/font_0854.png,Luxury,Sustainability,black,True
+Courier New,monospace,fonts/font_0855.png,Minimalist,Real Estate,regular,False
+Source Code Pro,monospace,fonts/font_0856.png,Playful,Retail,thin,False
+Fira Mono,monospace,fonts/font_0857.png,Luxury,Fashion,medium,True
+IBM Plex Mono,monospace,fonts/font_0858.png,Trustworthy,Retail,regular,False
+Oswald,display,fonts/font_0859.png,Playful,Real Estate,thin,True
+Bebas Neue,display,fonts/font_0860.png,Playful,Retail,bold,False
+Anton,display,fonts/font_0861.png,Playful,Education,bold,True
+Impact,display,fonts/font_0862.png,Minimalist,Real Estate,thin,True
+Abril Fatface,display,fonts/font_0863.png,Professional,Sustainability,medium,True
+Playfair Display,serif,fonts/font_0864.png,Trustworthy,Healthcare,thin,True
+Garamond,serif,fonts/font_0865.png,Luxury,Sustainability,regular,True
+Times New Roman,serif,fonts/font_0866.png,Bold,Education,regular,True
+Georgia,serif,fonts/font_0867.png,Professional,Healthcare,bold,True
+Baskerville,serif,fonts/font_0868.png,Trustworthy,Education,thin,False
+Helvetica,sans-serif,fonts/font_0869.png,Creative,Healthcare,bold,True
+Montserrat,sans-serif,fonts/font_0870.png,Creative,Sustainability,medium,False
+DM Sans,sans-serif,fonts/font_0871.png,Minimalist,Real Estate,regular,True
+Inter,sans-serif,fonts/font_0872.png,Playful,Technology,black,True
+Open Sans,sans-serif,fonts/font_0873.png,Bold,Travel,black,True
+Roboto,sans-serif,fonts/font_0874.png,Trustworthy,Travel,thin,False
+Pacifico,script,fonts/font_0875.png,Luxury,Education,thin,False
+Dancing Script,script,fonts/font_0876.png,Trustworthy,Travel,black,True
+Brush Script,script,fonts/font_0877.png,Professional,Sustainability,thin,True
+Great Vibes,script,fonts/font_0878.png,Creative,Food & Beverage,regular,True
+Courier New,monospace,fonts/font_0879.png,Innovative,Education,medium,True
+Source Code Pro,monospace,fonts/font_0880.png,Professional,Healthcare,medium,False
+Fira Mono,monospace,fonts/font_0881.png,Trustworthy,Fashion,bold,True
+IBM Plex Mono,monospace,fonts/font_0882.png,Bold,Retail,regular,True
+Oswald,display,fonts/font_0883.png,Trustworthy,Sustainability,thin,False
+Bebas Neue,display,fonts/font_0884.png,Trustworthy,Healthcare,thin,False
+Anton,display,fonts/font_0885.png,Minimalist,Food & Beverage,bold,True
+Impact,display,fonts/font_0886.png,Luxury,Fashion,bold,True
+Abril Fatface,display,fonts/font_0887.png,Bold,Travel,thin,True
+Playfair Display,serif,fonts/font_0888.png,Trustworthy,Food & Beverage,thin,True
+Garamond,serif,fonts/font_0889.png,Playful,Education,regular,True
+Times New Roman,serif,fonts/font_0890.png,Luxury,Finance,bold,False
+Georgia,serif,fonts/font_0891.png,Professional,Finance,regular,False
+Baskerville,serif,fonts/font_0892.png,Bold,Travel,thin,True
+Helvetica,sans-serif,fonts/font_0893.png,Professional,Finance,black,True
+Montserrat,sans-serif,fonts/font_0894.png,Creative,Finance,black,True
+DM Sans,sans-serif,fonts/font_0895.png,Trustworthy,Healthcare,thin,True
+Inter,sans-serif,fonts/font_0896.png,Professional,Healthcare,bold,True
+Open Sans,sans-serif,fonts/font_0897.png,Professional,Retail,black,True
+Roboto,sans-serif,fonts/font_0898.png,Minimalist,Real Estate,bold,True
+Pacifico,script,fonts/font_0899.png,Professional,Travel,black,True
+Dancing Script,script,fonts/font_0900.png,Playful,Finance,bold,True
+Brush Script,script,fonts/font_0901.png,Playful,Retail,black,True
+Great Vibes,script,fonts/font_0902.png,Luxury,Travel,bold,True
+Courier New,monospace,fonts/font_0903.png,Trustworthy,Finance,regular,True
+Source Code Pro,monospace,fonts/font_0904.png,Innovative,Sustainability,bold,True
+Fira Mono,monospace,fonts/font_0905.png,Creative,Technology,regular,True
+IBM Plex Mono,monospace,fonts/font_0906.png,Professional,Sustainability,regular,True
+Oswald,display,fonts/font_0907.png,Professional,Fashion,thin,False
+Bebas Neue,display,fonts/font_0908.png,Bold,Travel,regular,True
+Anton,display,fonts/font_0909.png,Minimalist,Real Estate,medium,True
+Impact,display,fonts/font_0910.png,Innovative,Fashion,regular,True
+Abril Fatface,display,fonts/font_0911.png,Luxury,Retail,bold,True
+Playfair Display,serif,fonts/font_0912.png,Creative,Retail,regular,False
+Garamond,serif,fonts/font_0913.png,Innovative,Finance,bold,False
+Times New Roman,serif,fonts/font_0914.png,Professional,Fashion,bold,True
+Georgia,serif,fonts/font_0915.png,Bold,Finance,medium,True
+Baskerville,serif,fonts/font_0916.png,Trustworthy,Travel,regular,True
+Helvetica,sans-serif,fonts/font_0917.png,Minimalist,Retail,regular,True
+Montserrat,sans-serif,fonts/font_0918.png,Trustworthy,Technology,black,True
+DM Sans,sans-serif,fonts/font_0919.png,Luxury,Retail,black,True
+Inter,sans-serif,fonts/font_0920.png,Innovative,Healthcare,thin,True
+Open Sans,sans-serif,fonts/font_0921.png,Luxury,Food & Beverage,bold,True
+Roboto,sans-serif,fonts/font_0922.png,Professional,Real Estate,medium,False
+Pacifico,script,fonts/font_0923.png,Luxury,Fashion,black,True
+Dancing Script,script,fonts/font_0924.png,Trustworthy,Finance,regular,True
+Brush Script,script,fonts/font_0925.png,Bold,Food & Beverage,thin,True
+Great Vibes,script,fonts/font_0926.png,Luxury,Food & Beverage,medium,True
+Courier New,monospace,fonts/font_0927.png,Playful,Sustainability,regular,False
+Source Code Pro,monospace,fonts/font_0928.png,Bold,Education,regular,True
+Fira Mono,monospace,fonts/font_0929.png,Innovative,Sustainability,bold,False
+IBM Plex Mono,monospace,fonts/font_0930.png,Minimalist,Sustainability,bold,True
+Oswald,display,fonts/font_0931.png,Minimalist,Real Estate,black,False
+Bebas Neue,display,fonts/font_0932.png,Professional,Healthcare,black,False
+Anton,display,fonts/font_0933.png,Professional,Retail,regular,True
+Impact,display,fonts/font_0934.png,Playful,Sustainability,regular,True
+Abril Fatface,display,fonts/font_0935.png,Innovative,Travel,black,False
+Playfair Display,serif,fonts/font_0936.png,Trustworthy,Retail,black,True
+Garamond,serif,fonts/font_0937.png,Minimalist,Healthcare,regular,True
+Times New Roman,serif,fonts/font_0938.png,Minimalist,Finance,medium,True
+Georgia,serif,fonts/font_0939.png,Minimalist,Education,regular,True
+Baskerville,serif,fonts/font_0940.png,Trustworthy,Retail,medium,True
+Helvetica,sans-serif,fonts/font_0941.png,Minimalist,Fashion,medium,True
+Montserrat,sans-serif,fonts/font_0942.png,Luxury,Real Estate,regular,True
+DM Sans,sans-serif,fonts/font_0943.png,Innovative,Food & Beverage,thin,True
+Inter,sans-serif,fonts/font_0944.png,Bold,Finance,black,False
+Open Sans,sans-serif,fonts/font_0945.png,Bold,Healthcare,bold,True
+Roboto,sans-serif,fonts/font_0946.png,Playful,Sustainability,regular,False
+Pacifico,script,fonts/font_0947.png,Luxury,Travel,medium,False
+Dancing Script,script,fonts/font_0948.png,Minimalist,Travel,regular,False
+Brush Script,script,fonts/font_0949.png,Minimalist,Education,black,False
+Great Vibes,script,fonts/font_0950.png,Professional,Healthcare,medium,False
+Courier New,monospace,fonts/font_0951.png,Professional,Finance,bold,False
+Source Code Pro,monospace,fonts/font_0952.png,Playful,Fashion,bold,True
+Fira Mono,monospace,fonts/font_0953.png,Minimalist,Food & Beverage,bold,True
+IBM Plex Mono,monospace,fonts/font_0954.png,Playful,Sustainability,thin,False
+Oswald,display,fonts/font_0955.png,Luxury,Real Estate,medium,True
+Bebas Neue,display,fonts/font_0956.png,Bold,Technology,medium,False
+Anton,display,fonts/font_0957.png,Minimalist,Technology,thin,False
+Impact,display,fonts/font_0958.png,Innovative,Sustainability,medium,True
+Abril Fatface,display,fonts/font_0959.png,Trustworthy,Finance,thin,False
+Playfair Display,serif,fonts/font_0960.png,Luxury,Sustainability,regular,True
+Garamond,serif,fonts/font_0961.png,Minimalist,Healthcare,black,True
+Times New Roman,serif,fonts/font_0962.png,Trustworthy,Technology,bold,True
+Georgia,serif,fonts/font_0963.png,Innovative,Education,thin,True
+Baskerville,serif,fonts/font_0964.png,Professional,Healthcare,thin,True
+Helvetica,sans-serif,fonts/font_0965.png,Playful,Technology,thin,True
+Montserrat,sans-serif,fonts/font_0966.png,Professional,Fashion,regular,True
+DM Sans,sans-serif,fonts/font_0967.png,Bold,Food & Beverage,thin,False
+Inter,sans-serif,fonts/font_0968.png,Professional,Travel,black,True
+Open Sans,sans-serif,fonts/font_0969.png,Minimalist,Healthcare,black,True
+Roboto,sans-serif,fonts/font_0970.png,Innovative,Travel,bold,True
+Pacifico,script,fonts/font_0971.png,Professional,Travel,regular,False
+Dancing Script,script,fonts/font_0972.png,Minimalist,Technology,black,False
+Brush Script,script,fonts/font_0973.png,Bold,Healthcare,medium,True
+Great Vibes,script,fonts/font_0974.png,Trustworthy,Food & Beverage,medium,True
+Courier New,monospace,fonts/font_0975.png,Innovative,Fashion,medium,False
+Source Code Pro,monospace,fonts/font_0976.png,Professional,Retail,thin,True
+Fira Mono,monospace,fonts/font_0977.png,Playful,Education,thin,True
+IBM Plex Mono,monospace,fonts/font_0978.png,Playful,Travel,medium,True
+Oswald,display,fonts/font_0979.png,Innovative,Food & Beverage,bold,True
+Bebas Neue,display,fonts/font_0980.png,Playful,Real Estate,bold,False
+Anton,display,fonts/font_0981.png,Professional,Real Estate,thin,True
+Impact,display,fonts/font_0982.png,Professional,Retail,medium,True
+Abril Fatface,display,fonts/font_0983.png,Innovative,Retail,bold,True
+Playfair Display,serif,fonts/font_0984.png,Professional,Retail,thin,False
+Garamond,serif,fonts/font_0985.png,Trustworthy,Education,medium,False
+Times New Roman,serif,fonts/font_0986.png,Minimalist,Education,regular,False
+Georgia,serif,fonts/font_0987.png,Bold,Fashion,medium,True
+Baskerville,serif,fonts/font_0988.png,Trustworthy,Travel,medium,True
+Helvetica,sans-serif,fonts/font_0989.png,Trustworthy,Finance,black,False
+Montserrat,sans-serif,fonts/font_0990.png,Playful,Real Estate,black,True
+DM Sans,sans-serif,fonts/font_0991.png,Minimalist,Technology,regular,False
+Inter,sans-serif,fonts/font_0992.png,Innovative,Technology,regular,True
+Open Sans,sans-serif,fonts/font_0993.png,Creative,Retail,medium,True
+Roboto,sans-serif,fonts/font_0994.png,Playful,Sustainability,bold,True
+Pacifico,script,fonts/font_0995.png,Minimalist,Real Estate,regular,False
+Dancing Script,script,fonts/font_0996.png,Professional,Finance,medium,False
+Brush Script,script,fonts/font_0997.png,Innovative,Finance,thin,True
+Great Vibes,script,fonts/font_0998.png,Creative,Technology,black,True
+Courier New,monospace,fonts/font_0999.png,Innovative,Sustainability,bold,False
+Source Code Pro,monospace,fonts/font_1000.png,Creative,Finance,medium,True
+Fira Mono,monospace,fonts/font_1001.png,Creative,Real Estate,thin,False
+IBM Plex Mono,monospace,fonts/font_1002.png,Playful,Travel,black,True
+Oswald,display,fonts/font_1003.png,Professional,Food & Beverage,thin,True
+Bebas Neue,display,fonts/font_1004.png,Playful,Sustainability,medium,True
+Anton,display,fonts/font_1005.png,Creative,Finance,regular,True
+Impact,display,fonts/font_1006.png,Creative,Sustainability,black,True
+Abril Fatface,display,fonts/font_1007.png,Luxury,Sustainability,thin,True
+Playfair Display,serif,fonts/font_1008.png,Minimalist,Travel,regular,True
+Garamond,serif,fonts/font_1009.png,Luxury,Real Estate,bold,True
+Times New Roman,serif,fonts/font_1010.png,Minimalist,Technology,medium,True
+Georgia,serif,fonts/font_1011.png,Bold,Travel,medium,False
+Baskerville,serif,fonts/font_1012.png,Trustworthy,Finance,black,True
+Helvetica,sans-serif,fonts/font_1013.png,Innovative,Retail,thin,True
+Montserrat,sans-serif,fonts/font_1014.png,Playful,Travel,bold,True
+DM Sans,sans-serif,fonts/font_1015.png,Bold,Retail,black,True
+Inter,sans-serif,fonts/font_1016.png,Bold,Healthcare,black,False
+Open Sans,sans-serif,fonts/font_1017.png,Innovative,Technology,thin,True
+Roboto,sans-serif,fonts/font_1018.png,Innovative,Real Estate,bold,False
+Pacifico,script,fonts/font_1019.png,Minimalist,Food & Beverage,thin,True
+Dancing Script,script,fonts/font_1020.png,Luxury,Sustainability,medium,True
+Brush Script,script,fonts/font_1021.png,Professional,Retail,regular,True
+Great Vibes,script,fonts/font_1022.png,Minimalist,Food & Beverage,medium,False
+Courier New,monospace,fonts/font_1023.png,Professional,Food & Beverage,medium,False
+Source Code Pro,monospace,fonts/font_1024.png,Bold,Retail,black,True
+Fira Mono,monospace,fonts/font_1025.png,Professional,Food & Beverage,medium,False
+IBM Plex Mono,monospace,fonts/font_1026.png,Luxury,Sustainability,bold,True
+Oswald,display,fonts/font_1027.png,Minimalist,Fashion,medium,False
+Bebas Neue,display,fonts/font_1028.png,Creative,Healthcare,bold,True
+Anton,display,fonts/font_1029.png,Innovative,Retail,thin,True
+Impact,display,fonts/font_1030.png,Creative,Sustainability,black,True
+Abril Fatface,display,fonts/font_1031.png,Luxury,Technology,bold,False
+Playfair Display,serif,fonts/font_1032.png,Trustworthy,Retail,medium,False
+Garamond,serif,fonts/font_1033.png,Luxury,Sustainability,black,False
+Times New Roman,serif,fonts/font_1034.png,Trustworthy,Sustainability,black,False
+Georgia,serif,fonts/font_1035.png,Minimalist,Travel,bold,True
+Baskerville,serif,fonts/font_1036.png,Innovative,Fashion,bold,False
+Helvetica,sans-serif,fonts/font_1037.png,Luxury,Retail,regular,False
+Montserrat,sans-serif,fonts/font_1038.png,Creative,Real Estate,regular,True
+DM Sans,sans-serif,fonts/font_1039.png,Trustworthy,Sustainability,black,True
+Inter,sans-serif,fonts/font_1040.png,Innovative,Healthcare,regular,True
+Open Sans,sans-serif,fonts/font_1041.png,Playful,Travel,medium,False
+Roboto,sans-serif,fonts/font_1042.png,Playful,Sustainability,thin,False
+Pacifico,script,fonts/font_1043.png,Playful,Retail,black,False
+Dancing Script,script,fonts/font_1044.png,Professional,Finance,thin,False
+Brush Script,script,fonts/font_1045.png,Luxury,Sustainability,regular,False
+Great Vibes,script,fonts/font_1046.png,Minimalist,Education,bold,False
+Courier New,monospace,fonts/font_1047.png,Creative,Finance,black,False
+Source Code Pro,monospace,fonts/font_1048.png,Minimalist,Sustainability,regular,True
+Fira Mono,monospace,fonts/font_1049.png,Professional,Food & Beverage,medium,True
+IBM Plex Mono,monospace,fonts/font_1050.png,Minimalist,Sustainability,black,True
+Oswald,display,fonts/font_1051.png,Trustworthy,Technology,black,False
+Bebas Neue,display,fonts/font_1052.png,Playful,Food & Beverage,bold,True
+Anton,display,fonts/font_1053.png,Creative,Retail,black,True
+Impact,display,fonts/font_1054.png,Luxury,Healthcare,bold,True
+Abril Fatface,display,fonts/font_1055.png,Minimalist,Finance,regular,True
+Playfair Display,serif,fonts/font_1056.png,Minimalist,Real Estate,medium,True
+Garamond,serif,fonts/font_1057.png,Bold,Travel,medium,True
+Times New Roman,serif,fonts/font_1058.png,Bold,Healthcare,black,True
+Georgia,serif,fonts/font_1059.png,Bold,Food & Beverage,black,True
+Baskerville,serif,fonts/font_1060.png,Luxury,Travel,regular,True
+Helvetica,sans-serif,fonts/font_1061.png,Playful,Finance,bold,True
+Montserrat,sans-serif,fonts/font_1062.png,Innovative,Real Estate,medium,True
+DM Sans,sans-serif,fonts/font_1063.png,Playful,Education,bold,True
+Inter,sans-serif,fonts/font_1064.png,Creative,Education,regular,True
+Open Sans,sans-serif,fonts/font_1065.png,Playful,Real Estate,medium,True
+Roboto,sans-serif,fonts/font_1066.png,Luxury,Travel,medium,False
+Pacifico,script,fonts/font_1067.png,Trustworthy,Retail,thin,True
+Dancing Script,script,fonts/font_1068.png,Trustworthy,Travel,regular,True
+Brush Script,script,fonts/font_1069.png,Luxury,Sustainability,regular,True
+Great Vibes,script,fonts/font_1070.png,Bold,Travel,thin,True
+Courier New,monospace,fonts/font_1071.png,Minimalist,Retail,bold,True
+Source Code Pro,monospace,fonts/font_1072.png,Professional,Healthcare,thin,True
+Fira Mono,monospace,fonts/font_1073.png,Professional,Finance,regular,True
+IBM Plex Mono,monospace,fonts/font_1074.png,Innovative,Travel,bold,True
+Oswald,display,fonts/font_1075.png,Minimalist,Finance,medium,True
+Bebas Neue,display,fonts/font_1076.png,Innovative,Food & Beverage,thin,False
+Anton,display,fonts/font_1077.png,Bold,Education,bold,True
+Impact,display,fonts/font_1078.png,Innovative,Education,bold,False
+Abril Fatface,display,fonts/font_1079.png,Minimalist,Retail,bold,True
+Playfair Display,serif,fonts/font_1080.png,Creative,Food & Beverage,thin,True
+Garamond,serif,fonts/font_1081.png,Minimalist,Education,medium,True
+Times New Roman,serif,fonts/font_1082.png,Professional,Retail,bold,False
+Georgia,serif,fonts/font_1083.png,Trustworthy,Travel,thin,True
+Baskerville,serif,fonts/font_1084.png,Bold,Food & Beverage,regular,True
+Helvetica,sans-serif,fonts/font_1085.png,Creative,Sustainability,thin,True
+Montserrat,sans-serif,fonts/font_1086.png,Luxury,Sustainability,thin,True
+DM Sans,sans-serif,fonts/font_1087.png,Creative,Sustainability,thin,False
+Inter,sans-serif,fonts/font_1088.png,Creative,Healthcare,bold,True
+Open Sans,sans-serif,fonts/font_1089.png,Innovative,Sustainability,thin,True
+Roboto,sans-serif,fonts/font_1090.png,Professional,Food & Beverage,regular,True
+Pacifico,script,fonts/font_1091.png,Innovative,Technology,bold,True
+Dancing Script,script,fonts/font_1092.png,Innovative,Education,regular,True
+Brush Script,script,fonts/font_1093.png,Luxury,Sustainability,black,True
+Great Vibes,script,fonts/font_1094.png,Bold,Food & Beverage,thin,True
+Courier New,monospace,fonts/font_1095.png,Minimalist,Fashion,bold,False
+Source Code Pro,monospace,fonts/font_1096.png,Playful,Travel,bold,True
+Fira Mono,monospace,fonts/font_1097.png,Innovative,Healthcare,thin,False
+IBM Plex Mono,monospace,fonts/font_1098.png,Playful,Finance,medium,True
+Oswald,display,fonts/font_1099.png,Bold,Retail,medium,True
+Bebas Neue,display,fonts/font_1100.png,Playful,Fashion,regular,True
+Anton,display,fonts/font_1101.png,Innovative,Fashion,thin,False
+Impact,display,fonts/font_1102.png,Luxury,Healthcare,thin,True
+Abril Fatface,display,fonts/font_1103.png,Playful,Retail,black,True
+Playfair Display,serif,fonts/font_1104.png,Bold,Healthcare,medium,True
+Garamond,serif,fonts/font_1105.png,Bold,Sustainability,medium,False
+Times New Roman,serif,fonts/font_1106.png,Trustworthy,Finance,thin,True
+Georgia,serif,fonts/font_1107.png,Trustworthy,Retail,regular,True
+Baskerville,serif,fonts/font_1108.png,Luxury,Food & Beverage,thin,True
+Helvetica,sans-serif,fonts/font_1109.png,Playful,Education,regular,False
+Montserrat,sans-serif,fonts/font_1110.png,Playful,Healthcare,medium,False
+DM Sans,sans-serif,fonts/font_1111.png,Trustworthy,Finance,black,True
+Inter,sans-serif,fonts/font_1112.png,Minimalist,Travel,bold,True
+Open Sans,sans-serif,fonts/font_1113.png,Professional,Technology,medium,False
+Roboto,sans-serif,fonts/font_1114.png,Bold,Travel,regular,False
+Pacifico,script,fonts/font_1115.png,Minimalist,Technology,thin,True
+Dancing Script,script,fonts/font_1116.png,Bold,Real Estate,medium,False
+Brush Script,script,fonts/font_1117.png,Creative,Food & Beverage,black,True
+Great Vibes,script,fonts/font_1118.png,Creative,Real Estate,regular,True
+Courier New,monospace,fonts/font_1119.png,Minimalist,Healthcare,thin,False
+Source Code Pro,monospace,fonts/font_1120.png,Creative,Healthcare,bold,True
+Fira Mono,monospace,fonts/font_1121.png,Trustworthy,Technology,regular,False
+IBM Plex Mono,monospace,fonts/font_1122.png,Trustworthy,Retail,thin,True
+Oswald,display,fonts/font_1123.png,Professional,Finance,bold,True
+Bebas Neue,display,fonts/font_1124.png,Minimalist,Sustainability,thin,False
+Anton,display,fonts/font_1125.png,Bold,Fashion,bold,True
+Impact,display,fonts/font_1126.png,Playful,Healthcare,bold,True
+Abril Fatface,display,fonts/font_1127.png,Bold,Real Estate,bold,False
+Playfair Display,serif,fonts/font_1128.png,Innovative,Real Estate,thin,True
+Garamond,serif,fonts/font_1129.png,Trustworthy,Travel,bold,True
+Times New Roman,serif,fonts/font_1130.png,Luxury,Food & Beverage,regular,False
+Georgia,serif,fonts/font_1131.png,Luxury,Technology,black,True
+Baskerville,serif,fonts/font_1132.png,Trustworthy,Fashion,black,False
+Helvetica,sans-serif,fonts/font_1133.png,Innovative,Technology,bold,False
+Montserrat,sans-serif,fonts/font_1134.png,Luxury,Healthcare,black,True
+DM Sans,sans-serif,fonts/font_1135.png,Creative,Education,black,True
+Inter,sans-serif,fonts/font_1136.png,Trustworthy,Fashion,bold,False
+Open Sans,sans-serif,fonts/font_1137.png,Luxury,Travel,bold,True
+Roboto,sans-serif,fonts/font_1138.png,Trustworthy,Real Estate,regular,True
+Pacifico,script,fonts/font_1139.png,Professional,Travel,medium,True
+Dancing Script,script,fonts/font_1140.png,Playful,Healthcare,thin,True
+Brush Script,script,fonts/font_1141.png,Playful,Education,bold,True
+Great Vibes,script,fonts/font_1142.png,Bold,Sustainability,bold,False
+Courier New,monospace,fonts/font_1143.png,Innovative,Fashion,black,False
+Source Code Pro,monospace,fonts/font_1144.png,Trustworthy,Technology,regular,True
+Fira Mono,monospace,fonts/font_1145.png,Minimalist,Fashion,black,True
+IBM Plex Mono,monospace,fonts/font_1146.png,Bold,Real Estate,bold,True
+Oswald,display,fonts/font_1147.png,Bold,Technology,bold,True
+Bebas Neue,display,fonts/font_1148.png,Trustworthy,Sustainability,black,False
+Anton,display,fonts/font_1149.png,Trustworthy,Sustainability,bold,False
+Impact,display,fonts/font_1150.png,Bold,Food & Beverage,medium,False
+Abril Fatface,display,fonts/font_1151.png,Bold,Technology,thin,True
+Playfair Display,serif,fonts/font_1152.png,Playful,Finance,thin,True
+Garamond,serif,fonts/font_1153.png,Minimalist,Education,thin,True
+Times New Roman,serif,fonts/font_1154.png,Creative,Finance,medium,True
+Georgia,serif,fonts/font_1155.png,Bold,Sustainability,bold,True
+Baskerville,serif,fonts/font_1156.png,Creative,Technology,black,False
+Helvetica,sans-serif,fonts/font_1157.png,Playful,Food & Beverage,regular,False
+Montserrat,sans-serif,fonts/font_1158.png,Bold,Fashion,bold,False
+DM Sans,sans-serif,fonts/font_1159.png,Luxury,Fashion,medium,False
+Inter,sans-serif,fonts/font_1160.png,Bold,Fashion,medium,True
+Open Sans,sans-serif,fonts/font_1161.png,Trustworthy,Food & Beverage,thin,True
+Roboto,sans-serif,fonts/font_1162.png,Innovative,Healthcare,bold,True
+Pacifico,script,fonts/font_1163.png,Innovative,Technology,thin,True
+Dancing Script,script,fonts/font_1164.png,Bold,Finance,regular,True
+Brush Script,script,fonts/font_1165.png,Professional,Education,thin,False
+Great Vibes,script,fonts/font_1166.png,Luxury,Sustainability,regular,True
+Courier New,monospace,fonts/font_1167.png,Minimalist,Education,medium,True
+Source Code Pro,monospace,fonts/font_1168.png,Bold,Sustainability,thin,True
+Fira Mono,monospace,fonts/font_1169.png,Creative,Technology,thin,True
+IBM Plex Mono,monospace,fonts/font_1170.png,Minimalist,Technology,black,True
+Oswald,display,fonts/font_1171.png,Luxury,Travel,medium,True
+Bebas Neue,display,fonts/font_1172.png,Bold,Finance,black,True
+Anton,display,fonts/font_1173.png,Professional,Real Estate,regular,False
+Impact,display,fonts/font_1174.png,Playful,Sustainability,regular,True
+Abril Fatface,display,fonts/font_1175.png,Professional,Retail,medium,True
+Playfair Display,serif,fonts/font_1176.png,Trustworthy,Real Estate,regular,True
+Garamond,serif,fonts/font_1177.png,Professional,Fashion,medium,False
+Times New Roman,serif,fonts/font_1178.png,Creative,Education,regular,True
+Georgia,serif,fonts/font_1179.png,Playful,Technology,bold,False
+Baskerville,serif,fonts/font_1180.png,Trustworthy,Retail,thin,False
+Helvetica,sans-serif,fonts/font_1181.png,Playful,Sustainability,bold,False
+Montserrat,sans-serif,fonts/font_1182.png,Innovative,Healthcare,medium,True
+DM Sans,sans-serif,fonts/font_1183.png,Playful,Sustainability,medium,True
+Inter,sans-serif,fonts/font_1184.png,Bold,Education,bold,True
+Open Sans,sans-serif,fonts/font_1185.png,Minimalist,Sustainability,thin,True
+Roboto,sans-serif,fonts/font_1186.png,Innovative,Sustainability,thin,True
+Pacifico,script,fonts/font_1187.png,Innovative,Food & Beverage,black,False
+Dancing Script,script,fonts/font_1188.png,Minimalist,Finance,regular,False
+Brush Script,script,fonts/font_1189.png,Creative,Real Estate,black,True
+Great Vibes,script,fonts/font_1190.png,Innovative,Healthcare,thin,True
+Courier New,monospace,fonts/font_1191.png,Playful,Technology,bold,False
+Source Code Pro,monospace,fonts/font_1192.png,Professional,Sustainability,regular,True
+Fira Mono,monospace,fonts/font_1193.png,Luxury,Healthcare,bold,True
+IBM Plex Mono,monospace,fonts/font_1194.png,Creative,Travel,black,True
+Oswald,display,fonts/font_1195.png,Playful,Sustainability,medium,False
+Bebas Neue,display,fonts/font_1196.png,Trustworthy,Food & Beverage,bold,True
+Anton,display,fonts/font_1197.png,Trustworthy,Food & Beverage,black,False
+Impact,display,fonts/font_1198.png,Professional,Retail,black,True
+Abril Fatface,display,fonts/font_1199.png,Creative,Fashion,black,True
+Playfair Display,serif,fonts/font_1200.png,Creative,Education,medium,True
+Garamond,serif,fonts/font_1201.png,Professional,Real Estate,medium,True
+Times New Roman,serif,fonts/font_1202.png,Creative,Travel,medium,True
+Georgia,serif,fonts/font_1203.png,Innovative,Education,regular,True
+Baskerville,serif,fonts/font_1204.png,Bold,Education,medium,False
+Helvetica,sans-serif,fonts/font_1205.png,Bold,Retail,medium,True
+Montserrat,sans-serif,fonts/font_1206.png,Creative,Food & Beverage,medium,False
+DM Sans,sans-serif,fonts/font_1207.png,Innovative,Finance,bold,False
+Inter,sans-serif,fonts/font_1208.png,Innovative,Healthcare,medium,False
+Open Sans,sans-serif,fonts/font_1209.png,Minimalist,Technology,regular,False
+Roboto,sans-serif,fonts/font_1210.png,Minimalist,Finance,black,True
+Pacifico,script,fonts/font_1211.png,Luxury,Finance,bold,True
+Dancing Script,script,fonts/font_1212.png,Luxury,Fashion,thin,False
+Brush Script,script,fonts/font_1213.png,Luxury,Fashion,medium,False
+Great Vibes,script,fonts/font_1214.png,Luxury,Finance,black,False
+Courier New,monospace,fonts/font_1215.png,Professional,Food & Beverage,black,True
+Source Code Pro,monospace,fonts/font_1216.png,Professional,Education,bold,True
+Fira Mono,monospace,fonts/font_1217.png,Minimalist,Healthcare,thin,True
+IBM Plex Mono,monospace,fonts/font_1218.png,Bold,Education,regular,False
+Oswald,display,fonts/font_1219.png,Innovative,Education,black,True
+Bebas Neue,display,fonts/font_1220.png,Trustworthy,Education,black,True
+Anton,display,fonts/font_1221.png,Bold,Healthcare,black,True
+Impact,display,fonts/font_1222.png,Playful,Healthcare,black,True
+Abril Fatface,display,fonts/font_1223.png,Professional,Retail,bold,True
+Playfair Display,serif,fonts/font_1224.png,Luxury,Real Estate,thin,False
+Garamond,serif,fonts/font_1225.png,Luxury,Finance,black,False
+Times New Roman,serif,fonts/font_1226.png,Playful,Sustainability,regular,True
+Georgia,serif,fonts/font_1227.png,Bold,Retail,regular,True
+Baskerville,serif,fonts/font_1228.png,Luxury,Retail,medium,False
+Helvetica,sans-serif,fonts/font_1229.png,Bold,Technology,black,True
+Montserrat,sans-serif,fonts/font_1230.png,Innovative,Sustainability,black,False
+DM Sans,sans-serif,fonts/font_1231.png,Playful,Fashion,black,True
+Inter,sans-serif,fonts/font_1232.png,Trustworthy,Technology,black,True
+Open Sans,sans-serif,fonts/font_1233.png,Bold,Fashion,black,True
+Roboto,sans-serif,fonts/font_1234.png,Innovative,Real Estate,regular,False
+Pacifico,script,fonts/font_1235.png,Creative,Travel,thin,True
+Dancing Script,script,fonts/font_1236.png,Creative,Fashion,thin,True
+Brush Script,script,fonts/font_1237.png,Bold,Education,medium,True
+Great Vibes,script,fonts/font_1238.png,Creative,Fashion,regular,True
+Courier New,monospace,fonts/font_1239.png,Bold,Sustainability,black,True
+Source Code Pro,monospace,fonts/font_1240.png,Luxury,Healthcare,thin,True
+Fira Mono,monospace,fonts/font_1241.png,Minimalist,Sustainability,bold,True
+IBM Plex Mono,monospace,fonts/font_1242.png,Creative,Real Estate,bold,True
+Oswald,display,fonts/font_1243.png,Professional,Retail,bold,True
+Bebas Neue,display,fonts/font_1244.png,Bold,Education,black,True
+Anton,display,fonts/font_1245.png,Bold,Travel,black,True
+Impact,display,fonts/font_1246.png,Bold,Real Estate,medium,True
+Abril Fatface,display,fonts/font_1247.png,Minimalist,Retail,medium,True
+Playfair Display,serif,fonts/font_1248.png,Innovative,Food & Beverage,medium,True
+Garamond,serif,fonts/font_1249.png,Creative,Sustainability,bold,True
+Times New Roman,serif,fonts/font_1250.png,Trustworthy,Real Estate,black,True
+Georgia,serif,fonts/font_1251.png,Trustworthy,Sustainability,bold,True
+Baskerville,serif,fonts/font_1252.png,Playful,Travel,medium,True
+Helvetica,sans-serif,fonts/font_1253.png,Luxury,Retail,black,True
+Montserrat,sans-serif,fonts/font_1254.png,Minimalist,Sustainability,regular,False
+DM Sans,sans-serif,fonts/font_1255.png,Innovative,Healthcare,thin,False
+Inter,sans-serif,fonts/font_1256.png,Bold,Fashion,thin,True
+Open Sans,sans-serif,fonts/font_1257.png,Innovative,Technology,medium,True
+Roboto,sans-serif,fonts/font_1258.png,Minimalist,Travel,bold,False
+Pacifico,script,fonts/font_1259.png,Minimalist,Technology,regular,False
+Dancing Script,script,fonts/font_1260.png,Minimalist,Finance,black,True
+Brush Script,script,fonts/font_1261.png,Playful,Fashion,bold,True
+Great Vibes,script,fonts/font_1262.png,Professional,Travel,medium,True
+Courier New,monospace,fonts/font_1263.png,Luxury,Real Estate,bold,True
+Source Code Pro,monospace,fonts/font_1264.png,Playful,Healthcare,medium,True
+Fira Mono,monospace,fonts/font_1265.png,Playful,Real Estate,thin,True
+IBM Plex Mono,monospace,fonts/font_1266.png,Creative,Food & Beverage,thin,False
+Oswald,display,fonts/font_1267.png,Professional,Finance,bold,True
+Bebas Neue,display,fonts/font_1268.png,Playful,Healthcare,regular,True
+Anton,display,fonts/font_1269.png,Minimalist,Sustainability,black,True
+Impact,display,fonts/font_1270.png,Minimalist,Sustainability,medium,True
+Abril Fatface,display,fonts/font_1271.png,Creative,Education,black,True
+Playfair Display,serif,fonts/font_1272.png,Innovative,Sustainability,thin,True
+Garamond,serif,fonts/font_1273.png,Bold,Retail,regular,True
+Times New Roman,serif,fonts/font_1274.png,Playful,Finance,regular,True
+Georgia,serif,fonts/font_1275.png,Bold,Retail,black,False
+Baskerville,serif,fonts/font_1276.png,Luxury,Fashion,thin,True
+Helvetica,sans-serif,fonts/font_1277.png,Trustworthy,Education,black,True
+Montserrat,sans-serif,fonts/font_1278.png,Minimalist,Education,bold,True
+DM Sans,sans-serif,fonts/font_1279.png,Innovative,Sustainability,regular,True
+Inter,sans-serif,fonts/font_1280.png,Luxury,Healthcare,regular,True
+Open Sans,sans-serif,fonts/font_1281.png,Creative,Fashion,bold,True
+Roboto,sans-serif,fonts/font_1282.png,Innovative,Food & Beverage,thin,True
+Pacifico,script,fonts/font_1283.png,Trustworthy,Finance,regular,True
+Dancing Script,script,fonts/font_1284.png,Trustworthy,Finance,medium,False
+Brush Script,script,fonts/font_1285.png,Creative,Travel,medium,True
+Great Vibes,script,fonts/font_1286.png,Professional,Real Estate,thin,True
+Courier New,monospace,fonts/font_1287.png,Creative,Sustainability,bold,True
+Source Code Pro,monospace,fonts/font_1288.png,Minimalist,Travel,black,False
+Fira Mono,monospace,fonts/font_1289.png,Luxury,Food & Beverage,thin,True
+IBM Plex Mono,monospace,fonts/font_1290.png,Professional,Education,black,True
+Oswald,display,fonts/font_1291.png,Trustworthy,Technology,thin,False
+Bebas Neue,display,fonts/font_1292.png,Luxury,Food & Beverage,medium,True
+Anton,display,fonts/font_1293.png,Innovative,Food & Beverage,bold,True
+Impact,display,fonts/font_1294.png,Professional,Healthcare,medium,True
+Abril Fatface,display,fonts/font_1295.png,Professional,Healthcare,bold,False
+Playfair Display,serif,fonts/font_1296.png,Minimalist,Healthcare,black,False
+Garamond,serif,fonts/font_1297.png,Creative,Healthcare,thin,False
+Times New Roman,serif,fonts/font_1298.png,Bold,Real Estate,regular,False
+Georgia,serif,fonts/font_1299.png,Innovative,Sustainability,regular,False
+Baskerville,serif,fonts/font_1300.png,Innovative,Finance,bold,True
+Helvetica,sans-serif,fonts/font_1301.png,Creative,Sustainability,bold,False
+Montserrat,sans-serif,fonts/font_1302.png,Professional,Sustainability,medium,True
+DM Sans,sans-serif,fonts/font_1303.png,Professional,Finance,regular,True
+Inter,sans-serif,fonts/font_1304.png,Minimalist,Healthcare,medium,True
+Open Sans,sans-serif,fonts/font_1305.png,Bold,Sustainability,black,True
+Roboto,sans-serif,fonts/font_1306.png,Innovative,Real Estate,regular,False
+Pacifico,script,fonts/font_1307.png,Trustworthy,Healthcare,black,True
+Dancing Script,script,fonts/font_1308.png,Playful,Real Estate,thin,True
+Brush Script,script,fonts/font_1309.png,Playful,Travel,medium,True
+Great Vibes,script,fonts/font_1310.png,Bold,Sustainability,bold,False
+Courier New,monospace,fonts/font_1311.png,Luxury,Retail,regular,True
+Source Code Pro,monospace,fonts/font_1312.png,Minimalist,Real Estate,medium,True
+Fira Mono,monospace,fonts/font_1313.png,Bold,Travel,bold,True
+IBM Plex Mono,monospace,fonts/font_1314.png,Creative,Fashion,thin,True
+Oswald,display,fonts/font_1315.png,Creative,Fashion,regular,True
+Bebas Neue,display,fonts/font_1316.png,Playful,Travel,black,True
+Anton,display,fonts/font_1317.png,Professional,Education,thin,False
+Impact,display,fonts/font_1318.png,Playful,Education,bold,True
+Abril Fatface,display,fonts/font_1319.png,Professional,Healthcare,regular,True
+Playfair Display,serif,fonts/font_1320.png,Minimalist,Education,regular,True
+Garamond,serif,fonts/font_1321.png,Professional,Fashion,thin,True
+Times New Roman,serif,fonts/font_1322.png,Bold,Education,regular,True
+Georgia,serif,fonts/font_1323.png,Professional,Retail,bold,True
+Baskerville,serif,fonts/font_1324.png,Luxury,Fashion,thin,True
+Helvetica,sans-serif,fonts/font_1325.png,Creative,Real Estate,black,False
+Montserrat,sans-serif,fonts/font_1326.png,Bold,Food & Beverage,thin,True
+DM Sans,sans-serif,fonts/font_1327.png,Creative,Education,thin,True
+Inter,sans-serif,fonts/font_1328.png,Minimalist,Education,black,True
+Open Sans,sans-serif,fonts/font_1329.png,Bold,Sustainability,bold,True
+Roboto,sans-serif,fonts/font_1330.png,Luxury,Finance,medium,True
+Pacifico,script,fonts/font_1331.png,Minimalist,Retail,medium,True
+Dancing Script,script,fonts/font_1332.png,Playful,Fashion,black,False
+Brush Script,script,fonts/font_1333.png,Luxury,Fashion,bold,True
+Great Vibes,script,fonts/font_1334.png,Minimalist,Technology,regular,True
+Courier New,monospace,fonts/font_1335.png,Trustworthy,Finance,black,False
+Source Code Pro,monospace,fonts/font_1336.png,Professional,Education,medium,True
+Fira Mono,monospace,fonts/font_1337.png,Bold,Travel,bold,False
+IBM Plex Mono,monospace,fonts/font_1338.png,Minimalist,Sustainability,thin,True
+Oswald,display,fonts/font_1339.png,Bold,Real Estate,bold,True
+Bebas Neue,display,fonts/font_1340.png,Professional,Sustainability,bold,True
+Anton,display,fonts/font_1341.png,Minimalist,Education,medium,False
+Impact,display,fonts/font_1342.png,Playful,Technology,medium,False
+Abril Fatface,display,fonts/font_1343.png,Trustworthy,Food & Beverage,regular,True
+Playfair Display,serif,fonts/font_1344.png,Trustworthy,Fashion,regular,True
+Garamond,serif,fonts/font_1345.png,Luxury,Real Estate,black,True
+Times New Roman,serif,fonts/font_1346.png,Minimalist,Finance,thin,True
+Georgia,serif,fonts/font_1347.png,Professional,Education,regular,True
+Baskerville,serif,fonts/font_1348.png,Minimalist,Retail,medium,True
+Helvetica,sans-serif,fonts/font_1349.png,Bold,Travel,bold,True
+Montserrat,sans-serif,fonts/font_1350.png,Innovative,Sustainability,black,True
+DM Sans,sans-serif,fonts/font_1351.png,Creative,Technology,regular,True
+Inter,sans-serif,fonts/font_1352.png,Minimalist,Food & Beverage,bold,False
+Open Sans,sans-serif,fonts/font_1353.png,Trustworthy,Healthcare,bold,False
+Roboto,sans-serif,fonts/font_1354.png,Trustworthy,Travel,regular,True
+Pacifico,script,fonts/font_1355.png,Creative,Education,thin,False
+Dancing Script,script,fonts/font_1356.png,Trustworthy,Food & Beverage,thin,True
+Brush Script,script,fonts/font_1357.png,Playful,Travel,black,False
+Great Vibes,script,fonts/font_1358.png,Minimalist,Travel,thin,True
+Courier New,monospace,fonts/font_1359.png,Luxury,Fashion,black,True
+Source Code Pro,monospace,fonts/font_1360.png,Minimalist,Travel,medium,False
+Fira Mono,monospace,fonts/font_1361.png,Innovative,Retail,regular,True
+IBM Plex Mono,monospace,fonts/font_1362.png,Trustworthy,Food & Beverage,bold,False
+Oswald,display,fonts/font_1363.png,Bold,Education,black,False
+Bebas Neue,display,fonts/font_1364.png,Trustworthy,Education,thin,False
+Anton,display,fonts/font_1365.png,Minimalist,Retail,black,True
+Impact,display,fonts/font_1366.png,Playful,Finance,black,True
+Abril Fatface,display,fonts/font_1367.png,Professional,Food & Beverage,thin,True
+Playfair Display,serif,fonts/font_1368.png,Minimalist,Travel,thin,False
+Garamond,serif,fonts/font_1369.png,Minimalist,Technology,regular,True
+Times New Roman,serif,fonts/font_1370.png,Luxury,Real Estate,bold,True
+Georgia,serif,fonts/font_1371.png,Playful,Food & Beverage,regular,True
+Baskerville,serif,fonts/font_1372.png,Innovative,Healthcare,regular,True
+Helvetica,sans-serif,fonts/font_1373.png,Professional,Technology,thin,True
+Montserrat,sans-serif,fonts/font_1374.png,Trustworthy,Retail,thin,True
+DM Sans,sans-serif,fonts/font_1375.png,Bold,Travel,bold,False
+Inter,sans-serif,fonts/font_1376.png,Minimalist,Finance,black,True
+Open Sans,sans-serif,fonts/font_1377.png,Innovative,Healthcare,regular,False
+Roboto,sans-serif,fonts/font_1378.png,Professional,Finance,bold,True
+Pacifico,script,fonts/font_1379.png,Bold,Finance,regular,True
+Dancing Script,script,fonts/font_1380.png,Innovative,Sustainability,black,True
+Brush Script,script,fonts/font_1381.png,Playful,Fashion,regular,True
+Great Vibes,script,fonts/font_1382.png,Playful,Healthcare,medium,True
+Courier New,monospace,fonts/font_1383.png,Professional,Real Estate,bold,False
+Source Code Pro,monospace,fonts/font_1384.png,Trustworthy,Fashion,thin,True
+Fira Mono,monospace,fonts/font_1385.png,Creative,Healthcare,regular,True
+IBM Plex Mono,monospace,fonts/font_1386.png,Bold,Finance,bold,True
+Oswald,display,fonts/font_1387.png,Playful,Fashion,bold,False
+Bebas Neue,display,fonts/font_1388.png,Creative,Healthcare,regular,True
+Anton,display,fonts/font_1389.png,Professional,Real Estate,thin,True
+Impact,display,fonts/font_1390.png,Playful,Technology,thin,True
+Abril Fatface,display,fonts/font_1391.png,Playful,Food & Beverage,regular,False
+Playfair Display,serif,fonts/font_1392.png,Innovative,Travel,bold,True
+Garamond,serif,fonts/font_1393.png,Creative,Healthcare,thin,True
+Times New Roman,serif,fonts/font_1394.png,Innovative,Real Estate,regular,True
+Georgia,serif,fonts/font_1395.png,Playful,Food & Beverage,regular,False
+Baskerville,serif,fonts/font_1396.png,Creative,Fashion,regular,True
+Helvetica,sans-serif,fonts/font_1397.png,Luxury,Healthcare,bold,False
+Montserrat,sans-serif,fonts/font_1398.png,Creative,Healthcare,thin,True
+DM Sans,sans-serif,fonts/font_1399.png,Innovative,Retail,bold,True
+Inter,sans-serif,fonts/font_1400.png,Bold,Healthcare,medium,True
+Open Sans,sans-serif,fonts/font_1401.png,Professional,Travel,thin,False
+Roboto,sans-serif,fonts/font_1402.png,Professional,Retail,bold,True
+Pacifico,script,fonts/font_1403.png,Trustworthy,Food & Beverage,thin,False
+Dancing Script,script,fonts/font_1404.png,Bold,Fashion,medium,True
+Brush Script,script,fonts/font_1405.png,Bold,Fashion,black,False
+Great Vibes,script,fonts/font_1406.png,Bold,Education,regular,True
+Courier New,monospace,fonts/font_1407.png,Trustworthy,Education,bold,True
+Source Code Pro,monospace,fonts/font_1408.png,Bold,Food & Beverage,medium,True
+Fira Mono,monospace,fonts/font_1409.png,Minimalist,Sustainability,medium,True
+IBM Plex Mono,monospace,fonts/font_1410.png,Trustworthy,Real Estate,thin,True
+Oswald,display,fonts/font_1411.png,Professional,Sustainability,thin,True
+Bebas Neue,display,fonts/font_1412.png,Minimalist,Real Estate,regular,True
+Anton,display,fonts/font_1413.png,Trustworthy,Retail,thin,True
+Impact,display,fonts/font_1414.png,Playful,Food & Beverage,bold,True
+Abril Fatface,display,fonts/font_1415.png,Playful,Real Estate,bold,True
+Playfair Display,serif,fonts/font_1416.png,Professional,Education,bold,True
+Garamond,serif,fonts/font_1417.png,Playful,Education,black,True
+Times New Roman,serif,fonts/font_1418.png,Bold,Finance,bold,True
+Georgia,serif,fonts/font_1419.png,Trustworthy,Real Estate,thin,True
+Baskerville,serif,fonts/font_1420.png,Minimalist,Food & Beverage,thin,False
+Helvetica,sans-serif,fonts/font_1421.png,Bold,Technology,bold,False
+Montserrat,sans-serif,fonts/font_1422.png,Playful,Retail,medium,True
+DM Sans,sans-serif,fonts/font_1423.png,Innovative,Healthcare,medium,True
+Inter,sans-serif,fonts/font_1424.png,Creative,Healthcare,medium,True
+Open Sans,sans-serif,fonts/font_1425.png,Minimalist,Real Estate,regular,True
+Roboto,sans-serif,fonts/font_1426.png,Bold,Sustainability,black,True
+Pacifico,script,fonts/font_1427.png,Trustworthy,Retail,bold,True
+Dancing Script,script,fonts/font_1428.png,Professional,Fashion,regular,True
+Brush Script,script,fonts/font_1429.png,Bold,Travel,medium,True
+Great Vibes,script,fonts/font_1430.png,Innovative,Healthcare,bold,True
+Courier New,monospace,fonts/font_1431.png,Playful,Education,regular,True
+Source Code Pro,monospace,fonts/font_1432.png,Minimalist,Retail,thin,True
+Fira Mono,monospace,fonts/font_1433.png,Professional,Sustainability,medium,True
+IBM Plex Mono,monospace,fonts/font_1434.png,Minimalist,Food & Beverage,regular,True
+Oswald,display,fonts/font_1435.png,Professional,Sustainability,thin,False
+Bebas Neue,display,fonts/font_1436.png,Creative,Retail,medium,False
+Anton,display,fonts/font_1437.png,Trustworthy,Fashion,black,True
+Impact,display,fonts/font_1438.png,Minimalist,Healthcare,medium,True
+Abril Fatface,display,fonts/font_1439.png,Playful,Education,black,True
+Playfair Display,serif,fonts/font_1440.png,Trustworthy,Technology,black,True
+Garamond,serif,fonts/font_1441.png,Trustworthy,Food & Beverage,black,True
+Times New Roman,serif,fonts/font_1442.png,Creative,Education,bold,True
+Georgia,serif,fonts/font_1443.png,Professional,Fashion,bold,True
+Baskerville,serif,fonts/font_1444.png,Luxury,Travel,black,True
+Helvetica,sans-serif,fonts/font_1445.png,Minimalist,Fashion,thin,False
+Montserrat,sans-serif,fonts/font_1446.png,Minimalist,Fashion,black,False
+DM Sans,sans-serif,fonts/font_1447.png,Bold,Healthcare,regular,True
+Inter,sans-serif,fonts/font_1448.png,Professional,Retail,black,True
+Open Sans,sans-serif,fonts/font_1449.png,Innovative,Retail,bold,True
+Roboto,sans-serif,fonts/font_1450.png,Luxury,Education,bold,False
+Pacifico,script,fonts/font_1451.png,Playful,Travel,regular,False
+Dancing Script,script,fonts/font_1452.png,Bold,Travel,regular,False
+Brush Script,script,fonts/font_1453.png,Creative,Sustainability,medium,True
+Great Vibes,script,fonts/font_1454.png,Luxury,Technology,thin,False
+Courier New,monospace,fonts/font_1455.png,Professional,Fashion,thin,True
+Source Code Pro,monospace,fonts/font_1456.png,Luxury,Technology,thin,False
+Fira Mono,monospace,fonts/font_1457.png,Creative,Finance,bold,False
+IBM Plex Mono,monospace,fonts/font_1458.png,Trustworthy,Real Estate,thin,True
+Oswald,display,fonts/font_1459.png,Minimalist,Fashion,medium,True
+Bebas Neue,display,fonts/font_1460.png,Trustworthy,Technology,medium,False
+Anton,display,fonts/font_1461.png,Minimalist,Healthcare,thin,True
+Impact,display,fonts/font_1462.png,Bold,Real Estate,regular,True
+Abril Fatface,display,fonts/font_1463.png,Creative,Travel,medium,True
+Playfair Display,serif,fonts/font_1464.png,Professional,Fashion,regular,True
+Garamond,serif,fonts/font_1465.png,Professional,Fashion,bold,True
+Times New Roman,serif,fonts/font_1466.png,Luxury,Travel,medium,True
+Georgia,serif,fonts/font_1467.png,Bold,Sustainability,regular,True
+Baskerville,serif,fonts/font_1468.png,Professional,Healthcare,thin,True
+Helvetica,sans-serif,fonts/font_1469.png,Innovative,Fashion,bold,True
+Montserrat,sans-serif,fonts/font_1470.png,Innovative,Technology,black,True
+DM Sans,sans-serif,fonts/font_1471.png,Trustworthy,Fashion,black,True
+Inter,sans-serif,fonts/font_1472.png,Minimalist,Real Estate,thin,True
+Open Sans,sans-serif,fonts/font_1473.png,Luxury,Fashion,bold,True
+Roboto,sans-serif,fonts/font_1474.png,Playful,Technology,bold,False
+Pacifico,script,fonts/font_1475.png,Creative,Food & Beverage,bold,True
+Dancing Script,script,fonts/font_1476.png,Minimalist,Real Estate,bold,False
+Brush Script,script,fonts/font_1477.png,Bold,Education,black,True
+Great Vibes,script,fonts/font_1478.png,Professional,Education,regular,False
+Courier New,monospace,fonts/font_1479.png,Minimalist,Real Estate,bold,True
+Source Code Pro,monospace,fonts/font_1480.png,Playful,Healthcare,regular,True
+Fira Mono,monospace,fonts/font_1481.png,Playful,Food & Beverage,bold,True
+IBM Plex Mono,monospace,fonts/font_1482.png,Innovative,Real Estate,medium,True
+Oswald,display,fonts/font_1483.png,Bold,Technology,medium,True
+Bebas Neue,display,fonts/font_1484.png,Minimalist,Finance,medium,True
+Anton,display,fonts/font_1485.png,Luxury,Retail,bold,True
+Impact,display,fonts/font_1486.png,Minimalist,Fashion,regular,False
+Abril Fatface,display,fonts/font_1487.png,Innovative,Sustainability,black,True
+Playfair Display,serif,fonts/font_1488.png,Trustworthy,Food & Beverage,thin,True
+Garamond,serif,fonts/font_1489.png,Playful,Technology,black,True
+Times New Roman,serif,fonts/font_1490.png,Bold,Sustainability,bold,True
+Georgia,serif,fonts/font_1491.png,Bold,Education,medium,False
+Baskerville,serif,fonts/font_1492.png,Luxury,Real Estate,medium,False
+Helvetica,sans-serif,fonts/font_1493.png,Bold,Food & Beverage,regular,False
+Montserrat,sans-serif,fonts/font_1494.png,Innovative,Travel,bold,False
+DM Sans,sans-serif,fonts/font_1495.png,Innovative,Fashion,black,True
+Inter,sans-serif,fonts/font_1496.png,Innovative,Retail,bold,True
+Open Sans,sans-serif,fonts/font_1497.png,Bold,Education,bold,True
+Roboto,sans-serif,fonts/font_1498.png,Bold,Real Estate,medium,False
+Pacifico,script,fonts/font_1499.png,Innovative,Fashion,black,False
+Dancing Script,script,fonts/font_1500.png,Bold,Education,thin,True
+Brush Script,script,fonts/font_1501.png,Creative,Travel,medium,True
+Great Vibes,script,fonts/font_1502.png,Bold,Sustainability,black,False
+Courier New,monospace,fonts/font_1503.png,Creative,Retail,regular,True
+Source Code Pro,monospace,fonts/font_1504.png,Playful,Retail,medium,False
+Fira Mono,monospace,fonts/font_1505.png,Minimalist,Fashion,regular,True
+IBM Plex Mono,monospace,fonts/font_1506.png,Professional,Technology,medium,True
+Oswald,display,fonts/font_1507.png,Creative,Fashion,bold,True
+Bebas Neue,display,fonts/font_1508.png,Creative,Education,black,True
+Anton,display,fonts/font_1509.png,Bold,Technology,regular,True
+Impact,display,fonts/font_1510.png,Professional,Retail,medium,True
+Abril Fatface,display,fonts/font_1511.png,Trustworthy,Finance,regular,False
+Playfair Display,serif,fonts/font_1512.png,Professional,Retail,medium,True
+Garamond,serif,fonts/font_1513.png,Playful,Fashion,medium,False
+Times New Roman,serif,fonts/font_1514.png,Creative,Education,thin,True
+Georgia,serif,fonts/font_1515.png,Bold,Technology,thin,False
+Baskerville,serif,fonts/font_1516.png,Innovative,Real Estate,thin,True
+Helvetica,sans-serif,fonts/font_1517.png,Professional,Technology,regular,True
+Montserrat,sans-serif,fonts/font_1518.png,Bold,Travel,bold,True
+DM Sans,sans-serif,fonts/font_1519.png,Luxury,Healthcare,medium,True
+Inter,sans-serif,fonts/font_1520.png,Trustworthy,Healthcare,black,False
+Open Sans,sans-serif,fonts/font_1521.png,Innovative,Food & Beverage,thin,True
+Roboto,sans-serif,fonts/font_1522.png,Luxury,Sustainability,regular,True
+Pacifico,script,fonts/font_1523.png,Luxury,Food & Beverage,regular,False
+Dancing Script,script,fonts/font_1524.png,Professional,Food & Beverage,regular,True
+Brush Script,script,fonts/font_1525.png,Luxury,Technology,black,False
+Great Vibes,script,fonts/font_1526.png,Playful,Education,black,True
+Courier New,monospace,fonts/font_1527.png,Playful,Food & Beverage,thin,False
+Source Code Pro,monospace,fonts/font_1528.png,Professional,Fashion,black,True
+Fira Mono,monospace,fonts/font_1529.png,Bold,Technology,thin,False
+IBM Plex Mono,monospace,fonts/font_1530.png,Minimalist,Education,black,True
+Oswald,display,fonts/font_1531.png,Bold,Healthcare,black,True
+Bebas Neue,display,fonts/font_1532.png,Bold,Finance,black,True
+Anton,display,fonts/font_1533.png,Bold,Fashion,thin,True
+Impact,display,fonts/font_1534.png,Bold,Real Estate,medium,True
+Abril Fatface,display,fonts/font_1535.png,Innovative,Sustainability,thin,True
+Playfair Display,serif,fonts/font_1536.png,Minimalist,Real Estate,medium,True
+Garamond,serif,fonts/font_1537.png,Innovative,Education,regular,False
+Times New Roman,serif,fonts/font_1538.png,Luxury,Travel,regular,True
+Georgia,serif,fonts/font_1539.png,Trustworthy,Education,thin,False
+Baskerville,serif,fonts/font_1540.png,Bold,Finance,medium,True
+Helvetica,sans-serif,fonts/font_1541.png,Trustworthy,Healthcare,medium,True
+Montserrat,sans-serif,fonts/font_1542.png,Playful,Retail,medium,False
+DM Sans,sans-serif,fonts/font_1543.png,Professional,Education,regular,False
+Inter,sans-serif,fonts/font_1544.png,Professional,Healthcare,thin,True
+Open Sans,sans-serif,fonts/font_1545.png,Innovative,Real Estate,bold,True
+Roboto,sans-serif,fonts/font_1546.png,Innovative,Education,medium,True
+Pacifico,script,fonts/font_1547.png,Playful,Education,medium,True
+Dancing Script,script,fonts/font_1548.png,Bold,Food & Beverage,bold,True
+Brush Script,script,fonts/font_1549.png,Trustworthy,Real Estate,thin,True
+Great Vibes,script,fonts/font_1550.png,Creative,Sustainability,medium,True
+Courier New,monospace,fonts/font_1551.png,Trustworthy,Sustainability,thin,True
+Source Code Pro,monospace,fonts/font_1552.png,Minimalist,Fashion,medium,False
+Fira Mono,monospace,fonts/font_1553.png,Luxury,Travel,black,False
+IBM Plex Mono,monospace,fonts/font_1554.png,Professional,Retail,medium,True
+Oswald,display,fonts/font_1555.png,Luxury,Education,black,True
+Bebas Neue,display,fonts/font_1556.png,Minimalist,Education,thin,True
+Anton,display,fonts/font_1557.png,Innovative,Fashion,medium,False
+Impact,display,fonts/font_1558.png,Trustworthy,Travel,regular,True
+Abril Fatface,display,fonts/font_1559.png,Professional,Real Estate,regular,True
+Playfair Display,serif,fonts/font_1560.png,Luxury,Education,bold,True
+Garamond,serif,fonts/font_1561.png,Creative,Healthcare,regular,True
+Times New Roman,serif,fonts/font_1562.png,Innovative,Technology,black,True
+Georgia,serif,fonts/font_1563.png,Minimalist,Travel,regular,False
+Baskerville,serif,fonts/font_1564.png,Creative,Education,regular,True
+Helvetica,sans-serif,fonts/font_1565.png,Luxury,Travel,regular,True
+Montserrat,sans-serif,fonts/font_1566.png,Creative,Sustainability,medium,True
+DM Sans,sans-serif,fonts/font_1567.png,Trustworthy,Retail,bold,True
+Inter,sans-serif,fonts/font_1568.png,Bold,Education,thin,True
+Open Sans,sans-serif,fonts/font_1569.png,Creative,Retail,bold,True
+Roboto,sans-serif,fonts/font_1570.png,Innovative,Finance,black,True
+Pacifico,script,fonts/font_1571.png,Minimalist,Technology,medium,False
+Dancing Script,script,fonts/font_1572.png,Luxury,Fashion,medium,False
+Brush Script,script,fonts/font_1573.png,Trustworthy,Retail,regular,True
+Great Vibes,script,fonts/font_1574.png,Bold,Education,regular,False
+Courier New,monospace,fonts/font_1575.png,Bold,Food & Beverage,black,False
+Source Code Pro,monospace,fonts/font_1576.png,Minimalist,Fashion,medium,True
+Fira Mono,monospace,fonts/font_1577.png,Playful,Fashion,thin,True
+IBM Plex Mono,monospace,fonts/font_1578.png,Trustworthy,Real Estate,bold,True
+Oswald,display,fonts/font_1579.png,Trustworthy,Retail,medium,True
+Bebas Neue,display,fonts/font_1580.png,Professional,Food & Beverage,thin,False
+Anton,display,fonts/font_1581.png,Minimalist,Retail,thin,True
+Impact,display,fonts/font_1582.png,Bold,Real Estate,bold,True
+Abril Fatface,display,fonts/font_1583.png,Bold,Technology,thin,True
+Playfair Display,serif,fonts/font_1584.png,Creative,Education,black,True
+Garamond,serif,fonts/font_1585.png,Minimalist,Sustainability,thin,True
+Times New Roman,serif,fonts/font_1586.png,Playful,Sustainability,black,True
+Georgia,serif,fonts/font_1587.png,Professional,Retail,thin,True
+Baskerville,serif,fonts/font_1588.png,Luxury,Real Estate,regular,False
+Helvetica,sans-serif,fonts/font_1589.png,Minimalist,Travel,thin,False
+Montserrat,sans-serif,fonts/font_1590.png,Professional,Education,black,False
+DM Sans,sans-serif,fonts/font_1591.png,Trustworthy,Retail,thin,False
+Inter,sans-serif,fonts/font_1592.png,Professional,Travel,thin,False
+Open Sans,sans-serif,fonts/font_1593.png,Creative,Education,thin,True
+Roboto,sans-serif,fonts/font_1594.png,Innovative,Travel,black,True
+Pacifico,script,fonts/font_1595.png,Bold,Fashion,thin,True
+Dancing Script,script,fonts/font_1596.png,Creative,Retail,bold,True
+Brush Script,script,fonts/font_1597.png,Luxury,Real Estate,bold,True
+Great Vibes,script,fonts/font_1598.png,Minimalist,Education,black,False
+Courier New,monospace,fonts/font_1599.png,Creative,Sustainability,regular,True
+Source Code Pro,monospace,fonts/font_1600.png,Bold,Retail,bold,True
+Fira Mono,monospace,fonts/font_1601.png,Innovative,Education,medium,True
+IBM Plex Mono,monospace,fonts/font_1602.png,Creative,Education,bold,True
+Oswald,display,fonts/font_1603.png,Innovative,Travel,medium,False
+Bebas Neue,display,fonts/font_1604.png,Creative,Travel,black,True
+Anton,display,fonts/font_1605.png,Bold,Food & Beverage,regular,True
+Impact,display,fonts/font_1606.png,Playful,Retail,medium,True
+Abril Fatface,display,fonts/font_1607.png,Professional,Finance,medium,False
+Playfair Display,serif,fonts/font_1608.png,Minimalist,Healthcare,bold,True
+Garamond,serif,fonts/font_1609.png,Minimalist,Finance,medium,True
+Times New Roman,serif,fonts/font_1610.png,Minimalist,Education,black,False
+Georgia,serif,fonts/font_1611.png,Bold,Food & Beverage,black,True
+Baskerville,serif,fonts/font_1612.png,Trustworthy,Education,black,True
+Helvetica,sans-serif,fonts/font_1613.png,Playful,Finance,bold,True
+Montserrat,sans-serif,fonts/font_1614.png,Luxury,Education,regular,False
+DM Sans,sans-serif,fonts/font_1615.png,Innovative,Travel,bold,True
+Inter,sans-serif,fonts/font_1616.png,Bold,Retail,black,True
+Open Sans,sans-serif,fonts/font_1617.png,Trustworthy,Sustainability,bold,True
+Roboto,sans-serif,fonts/font_1618.png,Luxury,Finance,black,True
+Pacifico,script,fonts/font_1619.png,Innovative,Healthcare,thin,True
+Dancing Script,script,fonts/font_1620.png,Innovative,Healthcare,thin,True
+Brush Script,script,fonts/font_1621.png,Playful,Travel,medium,True
+Great Vibes,script,fonts/font_1622.png,Professional,Retail,regular,True
+Courier New,monospace,fonts/font_1623.png,Minimalist,Technology,thin,True
+Source Code Pro,monospace,fonts/font_1624.png,Creative,Technology,black,True
+Fira Mono,monospace,fonts/font_1625.png,Luxury,Real Estate,bold,True
+IBM Plex Mono,monospace,fonts/font_1626.png,Bold,Real Estate,bold,True
+Oswald,display,fonts/font_1627.png,Luxury,Finance,medium,True
+Bebas Neue,display,fonts/font_1628.png,Professional,Travel,bold,False
+Anton,display,fonts/font_1629.png,Minimalist,Travel,thin,True
+Impact,display,fonts/font_1630.png,Luxury,Education,bold,True
+Abril Fatface,display,fonts/font_1631.png,Professional,Healthcare,thin,True
+Playfair Display,serif,fonts/font_1632.png,Bold,Healthcare,thin,True
+Garamond,serif,fonts/font_1633.png,Playful,Healthcare,regular,False
+Times New Roman,serif,fonts/font_1634.png,Trustworthy,Food & Beverage,medium,True
+Georgia,serif,fonts/font_1635.png,Innovative,Retail,black,True
+Baskerville,serif,fonts/font_1636.png,Bold,Fashion,thin,True
+Helvetica,sans-serif,fonts/font_1637.png,Minimalist,Education,medium,True
+Montserrat,sans-serif,fonts/font_1638.png,Innovative,Technology,black,True
+DM Sans,sans-serif,fonts/font_1639.png,Trustworthy,Travel,bold,True
+Inter,sans-serif,fonts/font_1640.png,Bold,Technology,medium,False
+Open Sans,sans-serif,fonts/font_1641.png,Creative,Food & Beverage,medium,False
+Roboto,sans-serif,fonts/font_1642.png,Bold,Technology,medium,True
+Pacifico,script,fonts/font_1643.png,Bold,Healthcare,bold,True
+Dancing Script,script,fonts/font_1644.png,Creative,Sustainability,bold,False
+Brush Script,script,fonts/font_1645.png,Bold,Education,medium,True
+Great Vibes,script,fonts/font_1646.png,Innovative,Sustainability,regular,True
+Courier New,monospace,fonts/font_1647.png,Minimalist,Real Estate,thin,False
+Source Code Pro,monospace,fonts/font_1648.png,Trustworthy,Sustainability,bold,True
+Fira Mono,monospace,fonts/font_1649.png,Professional,Fashion,regular,True
+IBM Plex Mono,monospace,fonts/font_1650.png,Luxury,Travel,bold,True
+Oswald,display,fonts/font_1651.png,Creative,Food & Beverage,medium,True
+Bebas Neue,display,fonts/font_1652.png,Playful,Travel,regular,False
+Anton,display,fonts/font_1653.png,Creative,Fashion,black,True
+Impact,display,fonts/font_1654.png,Trustworthy,Travel,thin,False
+Abril Fatface,display,fonts/font_1655.png,Luxury,Sustainability,thin,True
+Playfair Display,serif,fonts/font_1656.png,Luxury,Retail,bold,True
+Garamond,serif,fonts/font_1657.png,Playful,Travel,thin,True
+Times New Roman,serif,fonts/font_1658.png,Trustworthy,Real Estate,black,True
+Georgia,serif,fonts/font_1659.png,Innovative,Education,regular,True
+Baskerville,serif,fonts/font_1660.png,Minimalist,Education,regular,True
+Helvetica,sans-serif,fonts/font_1661.png,Playful,Technology,medium,False
+Montserrat,sans-serif,fonts/font_1662.png,Minimalist,Finance,regular,False
+DM Sans,sans-serif,fonts/font_1663.png,Innovative,Sustainability,bold,True
+Inter,sans-serif,fonts/font_1664.png,Luxury,Healthcare,black,True
+Open Sans,sans-serif,fonts/font_1665.png,Minimalist,Fashion,medium,False
+Roboto,sans-serif,fonts/font_1666.png,Innovative,Food & Beverage,bold,True
+Pacifico,script,fonts/font_1667.png,Innovative,Sustainability,bold,True
+Dancing Script,script,fonts/font_1668.png,Professional,Education,bold,False
+Brush Script,script,fonts/font_1669.png,Playful,Technology,thin,True
+Great Vibes,script,fonts/font_1670.png,Professional,Travel,bold,True
+Courier New,monospace,fonts/font_1671.png,Creative,Healthcare,thin,True
+Source Code Pro,monospace,fonts/font_1672.png,Luxury,Healthcare,regular,True
+Fira Mono,monospace,fonts/font_1673.png,Playful,Finance,thin,True
+IBM Plex Mono,monospace,fonts/font_1674.png,Luxury,Retail,bold,True
+Oswald,display,fonts/font_1675.png,Professional,Finance,black,False
+Bebas Neue,display,fonts/font_1676.png,Trustworthy,Travel,black,True
+Anton,display,fonts/font_1677.png,Innovative,Sustainability,regular,True
+Impact,display,fonts/font_1678.png,Luxury,Real Estate,bold,True
+Abril Fatface,display,fonts/font_1679.png,Playful,Fashion,thin,False
+Playfair Display,serif,fonts/font_1680.png,Creative,Healthcare,black,False
+Garamond,serif,fonts/font_1681.png,Playful,Food & Beverage,medium,False
+Times New Roman,serif,fonts/font_1682.png,Luxury,Sustainability,bold,True
+Georgia,serif,fonts/font_1683.png,Playful,Food & Beverage,bold,False
+Baskerville,serif,fonts/font_1684.png,Creative,Technology,medium,True
+Helvetica,sans-serif,fonts/font_1685.png,Innovative,Food & Beverage,black,True
+Montserrat,sans-serif,fonts/font_1686.png,Trustworthy,Healthcare,medium,True
+DM Sans,sans-serif,fonts/font_1687.png,Innovative,Healthcare,regular,True
+Inter,sans-serif,fonts/font_1688.png,Playful,Healthcare,thin,False
+Open Sans,sans-serif,fonts/font_1689.png,Creative,Sustainability,thin,True
+Roboto,sans-serif,fonts/font_1690.png,Creative,Sustainability,black,True
+Pacifico,script,fonts/font_1691.png,Luxury,Fashion,medium,True
+Dancing Script,script,fonts/font_1692.png,Professional,Education,bold,True
+Brush Script,script,fonts/font_1693.png,Playful,Retail,bold,True
+Great Vibes,script,fonts/font_1694.png,Playful,Travel,bold,True
+Courier New,monospace,fonts/font_1695.png,Playful,Travel,regular,True
+Source Code Pro,monospace,fonts/font_1696.png,Playful,Technology,regular,True
+Fira Mono,monospace,fonts/font_1697.png,Luxury,Finance,bold,False
+IBM Plex Mono,monospace,fonts/font_1698.png,Professional,Fashion,black,False
+Oswald,display,fonts/font_1699.png,Professional,Education,regular,False
+Bebas Neue,display,fonts/font_1700.png,Minimalist,Real Estate,regular,False
+Anton,display,fonts/font_1701.png,Playful,Technology,thin,True
+Impact,display,fonts/font_1702.png,Playful,Sustainability,thin,False
+Abril Fatface,display,fonts/font_1703.png,Minimalist,Education,black,True
+Playfair Display,serif,fonts/font_1704.png,Professional,Healthcare,regular,False
+Garamond,serif,fonts/font_1705.png,Creative,Sustainability,regular,True
+Times New Roman,serif,fonts/font_1706.png,Creative,Finance,medium,False
+Georgia,serif,fonts/font_1707.png,Bold,Finance,black,True
+Baskerville,serif,fonts/font_1708.png,Innovative,Travel,black,True
+Helvetica,sans-serif,fonts/font_1709.png,Bold,Retail,medium,True
+Montserrat,sans-serif,fonts/font_1710.png,Professional,Retail,medium,True
+DM Sans,sans-serif,fonts/font_1711.png,Trustworthy,Real Estate,thin,False
+Inter,sans-serif,fonts/font_1712.png,Playful,Sustainability,black,True
+Open Sans,sans-serif,fonts/font_1713.png,Bold,Sustainability,black,True
+Roboto,sans-serif,fonts/font_1714.png,Luxury,Finance,medium,False
+Pacifico,script,fonts/font_1715.png,Creative,Healthcare,bold,True
+Dancing Script,script,fonts/font_1716.png,Luxury,Healthcare,bold,True
+Brush Script,script,fonts/font_1717.png,Minimalist,Food & Beverage,thin,True
+Great Vibes,script,fonts/font_1718.png,Professional,Healthcare,bold,True
+Courier New,monospace,fonts/font_1719.png,Professional,Education,bold,False
+Source Code Pro,monospace,fonts/font_1720.png,Bold,Retail,bold,False
+Fira Mono,monospace,fonts/font_1721.png,Playful,Healthcare,regular,False
+IBM Plex Mono,monospace,fonts/font_1722.png,Professional,Fashion,thin,True
+Oswald,display,fonts/font_1723.png,Bold,Sustainability,medium,True
+Bebas Neue,display,fonts/font_1724.png,Bold,Healthcare,bold,True
+Anton,display,fonts/font_1725.png,Innovative,Food & Beverage,regular,False
+Impact,display,fonts/font_1726.png,Innovative,Real Estate,bold,True
+Abril Fatface,display,fonts/font_1727.png,Professional,Real Estate,regular,True
+Playfair Display,serif,fonts/font_1728.png,Bold,Finance,thin,True
+Garamond,serif,fonts/font_1729.png,Minimalist,Healthcare,bold,True
+Times New Roman,serif,fonts/font_1730.png,Minimalist,Sustainability,regular,False
+Georgia,serif,fonts/font_1731.png,Innovative,Sustainability,black,True
+Baskerville,serif,fonts/font_1732.png,Professional,Retail,black,True
+Helvetica,sans-serif,fonts/font_1733.png,Creative,Real Estate,regular,True
+Montserrat,sans-serif,fonts/font_1734.png,Playful,Finance,bold,False
+DM Sans,sans-serif,fonts/font_1735.png,Trustworthy,Healthcare,bold,True
+Inter,sans-serif,fonts/font_1736.png,Creative,Real Estate,thin,True
+Open Sans,sans-serif,fonts/font_1737.png,Minimalist,Real Estate,thin,True
+Roboto,sans-serif,fonts/font_1738.png,Minimalist,Sustainability,medium,True
+Pacifico,script,fonts/font_1739.png,Creative,Healthcare,thin,False
+Dancing Script,script,fonts/font_1740.png,Innovative,Technology,bold,True
+Brush Script,script,fonts/font_1741.png,Innovative,Healthcare,medium,False
+Great Vibes,script,fonts/font_1742.png,Professional,Education,thin,True
+Courier New,monospace,fonts/font_1743.png,Innovative,Real Estate,regular,False
+Source Code Pro,monospace,fonts/font_1744.png,Luxury,Retail,black,False
+Fira Mono,monospace,fonts/font_1745.png,Trustworthy,Technology,thin,True
+IBM Plex Mono,monospace,fonts/font_1746.png,Creative,Food & Beverage,thin,True
+Oswald,display,fonts/font_1747.png,Creative,Finance,regular,True
+Bebas Neue,display,fonts/font_1748.png,Bold,Healthcare,bold,True
+Anton,display,fonts/font_1749.png,Minimalist,Retail,regular,True
+Impact,display,fonts/font_1750.png,Creative,Food & Beverage,thin,True
+Abril Fatface,display,fonts/font_1751.png,Luxury,Food & Beverage,bold,False
+Playfair Display,serif,fonts/font_1752.png,Creative,Real Estate,medium,True
+Garamond,serif,fonts/font_1753.png,Playful,Education,thin,False
+Times New Roman,serif,fonts/font_1754.png,Luxury,Real Estate,regular,True
+Georgia,serif,fonts/font_1755.png,Professional,Finance,medium,True
+Baskerville,serif,fonts/font_1756.png,Playful,Technology,black,False
+Helvetica,sans-serif,fonts/font_1757.png,Playful,Sustainability,medium,True
+Montserrat,sans-serif,fonts/font_1758.png,Creative,Fashion,regular,True
+DM Sans,sans-serif,fonts/font_1759.png,Innovative,Technology,medium,False
+Inter,sans-serif,fonts/font_1760.png,Creative,Finance,regular,False
+Open Sans,sans-serif,fonts/font_1761.png,Luxury,Sustainability,thin,True
+Roboto,sans-serif,fonts/font_1762.png,Professional,Food & Beverage,bold,True
+Pacifico,script,fonts/font_1763.png,Minimalist,Technology,black,True
+Dancing Script,script,fonts/font_1764.png,Trustworthy,Sustainability,bold,True
+Brush Script,script,fonts/font_1765.png,Innovative,Healthcare,bold,True
+Great Vibes,script,fonts/font_1766.png,Luxury,Real Estate,bold,True
+Courier New,monospace,fonts/font_1767.png,Minimalist,Fashion,regular,True
+Source Code Pro,monospace,fonts/font_1768.png,Luxury,Retail,regular,False
+Fira Mono,monospace,fonts/font_1769.png,Innovative,Healthcare,black,False
+IBM Plex Mono,monospace,fonts/font_1770.png,Minimalist,Technology,regular,True
+Oswald,display,fonts/font_1771.png,Innovative,Travel,regular,True
+Bebas Neue,display,fonts/font_1772.png,Luxury,Sustainability,regular,True
+Anton,display,fonts/font_1773.png,Playful,Food & Beverage,regular,True
+Impact,display,fonts/font_1774.png,Trustworthy,Food & Beverage,thin,True
+Abril Fatface,display,fonts/font_1775.png,Bold,Travel,black,True
+Playfair Display,serif,fonts/font_1776.png,Trustworthy,Technology,regular,True
+Garamond,serif,fonts/font_1777.png,Playful,Food & Beverage,black,False
+Times New Roman,serif,fonts/font_1778.png,Innovative,Education,medium,False
+Georgia,serif,fonts/font_1779.png,Trustworthy,Food & Beverage,thin,False
+Baskerville,serif,fonts/font_1780.png,Innovative,Fashion,regular,True
+Helvetica,sans-serif,fonts/font_1781.png,Innovative,Education,thin,True
+Montserrat,sans-serif,fonts/font_1782.png,Minimalist,Finance,thin,True
+DM Sans,sans-serif,fonts/font_1783.png,Professional,Finance,medium,False
+Inter,sans-serif,fonts/font_1784.png,Innovative,Sustainability,black,True
+Open Sans,sans-serif,fonts/font_1785.png,Trustworthy,Education,thin,True
+Roboto,sans-serif,fonts/font_1786.png,Trustworthy,Healthcare,bold,True
+Pacifico,script,fonts/font_1787.png,Trustworthy,Sustainability,medium,True
+Dancing Script,script,fonts/font_1788.png,Playful,Healthcare,bold,True
+Brush Script,script,fonts/font_1789.png,Bold,Fashion,medium,True
+Great Vibes,script,fonts/font_1790.png,Innovative,Real Estate,bold,True
+Courier New,monospace,fonts/font_1791.png,Creative,Technology,bold,True
+Source Code Pro,monospace,fonts/font_1792.png,Innovative,Education,thin,True
+Fira Mono,monospace,fonts/font_1793.png,Innovative,Travel,thin,True
+IBM Plex Mono,monospace,fonts/font_1794.png,Creative,Retail,medium,False
+Oswald,display,fonts/font_1795.png,Minimalist,Technology,black,True
+Bebas Neue,display,fonts/font_1796.png,Innovative,Fashion,thin,True
+Anton,display,fonts/font_1797.png,Playful,Education,thin,True
+Impact,display,fonts/font_1798.png,Luxury,Finance,regular,False
+Abril Fatface,display,fonts/font_1799.png,Professional,Technology,thin,True
+Playfair Display,serif,fonts/font_1800.png,Trustworthy,Healthcare,black,True
+Garamond,serif,fonts/font_1801.png,Innovative,Travel,regular,True
+Times New Roman,serif,fonts/font_1802.png,Minimalist,Technology,bold,True
+Georgia,serif,fonts/font_1803.png,Playful,Retail,bold,True
+Baskerville,serif,fonts/font_1804.png,Innovative,Fashion,regular,True
+Helvetica,sans-serif,fonts/font_1805.png,Creative,Fashion,regular,False
+Montserrat,sans-serif,fonts/font_1806.png,Minimalist,Sustainability,regular,False
+DM Sans,sans-serif,fonts/font_1807.png,Luxury,Fashion,medium,False
+Inter,sans-serif,fonts/font_1808.png,Bold,Sustainability,black,True
+Open Sans,sans-serif,fonts/font_1809.png,Innovative,Fashion,black,False
+Roboto,sans-serif,fonts/font_1810.png,Playful,Retail,bold,True
+Pacifico,script,fonts/font_1811.png,Minimalist,Fashion,bold,True
+Dancing Script,script,fonts/font_1812.png,Creative,Travel,bold,False
+Brush Script,script,fonts/font_1813.png,Minimalist,Real Estate,thin,True
+Great Vibes,script,fonts/font_1814.png,Innovative,Finance,bold,True
+Courier New,monospace,fonts/font_1815.png,Minimalist,Travel,regular,True
+Source Code Pro,monospace,fonts/font_1816.png,Bold,Fashion,bold,True
+Fira Mono,monospace,fonts/font_1817.png,Minimalist,Education,regular,False
+IBM Plex Mono,monospace,fonts/font_1818.png,Trustworthy,Healthcare,medium,True
+Oswald,display,fonts/font_1819.png,Professional,Real Estate,thin,True
+Bebas Neue,display,fonts/font_1820.png,Trustworthy,Finance,thin,True
+Anton,display,fonts/font_1821.png,Professional,Healthcare,black,False
+Impact,display,fonts/font_1822.png,Minimalist,Travel,medium,True
+Abril Fatface,display,fonts/font_1823.png,Creative,Retail,regular,True
+Playfair Display,serif,fonts/font_1824.png,Creative,Retail,medium,False
+Garamond,serif,fonts/font_1825.png,Innovative,Healthcare,thin,True
+Times New Roman,serif,fonts/font_1826.png,Creative,Education,regular,True
+Georgia,serif,fonts/font_1827.png,Professional,Healthcare,medium,False
+Baskerville,serif,fonts/font_1828.png,Playful,Travel,thin,True
+Helvetica,sans-serif,fonts/font_1829.png,Professional,Healthcare,regular,False
+Montserrat,sans-serif,fonts/font_1830.png,Trustworthy,Finance,regular,True
+DM Sans,sans-serif,fonts/font_1831.png,Minimalist,Education,thin,False
+Inter,sans-serif,fonts/font_1832.png,Innovative,Food & Beverage,regular,False
+Open Sans,sans-serif,fonts/font_1833.png,Luxury,Technology,thin,True
+Roboto,sans-serif,fonts/font_1834.png,Innovative,Food & Beverage,bold,True
+Pacifico,script,fonts/font_1835.png,Innovative,Sustainability,bold,False
+Dancing Script,script,fonts/font_1836.png,Innovative,Healthcare,regular,True
+Brush Script,script,fonts/font_1837.png,Playful,Retail,regular,True
+Great Vibes,script,fonts/font_1838.png,Bold,Food & Beverage,thin,True
+Courier New,monospace,fonts/font_1839.png,Trustworthy,Fashion,regular,False
+Source Code Pro,monospace,fonts/font_1840.png,Minimalist,Travel,black,False
+Fira Mono,monospace,fonts/font_1841.png,Bold,Food & Beverage,bold,True
+IBM Plex Mono,monospace,fonts/font_1842.png,Luxury,Real Estate,regular,True
+Oswald,display,fonts/font_1843.png,Bold,Education,regular,False
+Bebas Neue,display,fonts/font_1844.png,Minimalist,Travel,medium,False
+Anton,display,fonts/font_1845.png,Trustworthy,Retail,regular,True
+Impact,display,fonts/font_1846.png,Trustworthy,Sustainability,black,False
+Abril Fatface,display,fonts/font_1847.png,Minimalist,Food & Beverage,bold,False
+Playfair Display,serif,fonts/font_1848.png,Luxury,Education,medium,True
+Garamond,serif,fonts/font_1849.png,Minimalist,Technology,thin,False
+Times New Roman,serif,fonts/font_1850.png,Luxury,Education,thin,True
+Georgia,serif,fonts/font_1851.png,Luxury,Education,bold,True
+Baskerville,serif,fonts/font_1852.png,Minimalist,Travel,thin,True
+Helvetica,sans-serif,fonts/font_1853.png,Professional,Technology,black,False
+Montserrat,sans-serif,fonts/font_1854.png,Trustworthy,Education,regular,False
+DM Sans,sans-serif,fonts/font_1855.png,Luxury,Real Estate,bold,True
+Inter,sans-serif,fonts/font_1856.png,Minimalist,Food & Beverage,medium,True
+Open Sans,sans-serif,fonts/font_1857.png,Creative,Food & Beverage,regular,True
+Roboto,sans-serif,fonts/font_1858.png,Professional,Real Estate,thin,False
+Pacifico,script,fonts/font_1859.png,Trustworthy,Food & Beverage,thin,False
+Dancing Script,script,fonts/font_1860.png,Luxury,Education,medium,True
+Brush Script,script,fonts/font_1861.png,Trustworthy,Sustainability,black,True
+Great Vibes,script,fonts/font_1862.png,Professional,Education,medium,True
+Courier New,monospace,fonts/font_1863.png,Trustworthy,Travel,bold,True
+Source Code Pro,monospace,fonts/font_1864.png,Playful,Fashion,medium,True
+Fira Mono,monospace,fonts/font_1865.png,Innovative,Sustainability,thin,False
+IBM Plex Mono,monospace,fonts/font_1866.png,Playful,Retail,black,True
+Oswald,display,fonts/font_1867.png,Professional,Retail,black,True
+Bebas Neue,display,fonts/font_1868.png,Luxury,Sustainability,medium,True
+Anton,display,fonts/font_1869.png,Minimalist,Education,bold,True
+Impact,display,fonts/font_1870.png,Bold,Healthcare,thin,True
+Abril Fatface,display,fonts/font_1871.png,Minimalist,Fashion,regular,True
+Playfair Display,serif,fonts/font_1872.png,Trustworthy,Real Estate,black,True
+Garamond,serif,fonts/font_1873.png,Bold,Education,medium,False
+Times New Roman,serif,fonts/font_1874.png,Bold,Sustainability,bold,True
+Georgia,serif,fonts/font_1875.png,Trustworthy,Healthcare,bold,False
+Baskerville,serif,fonts/font_1876.png,Trustworthy,Education,thin,True
+Helvetica,sans-serif,fonts/font_1877.png,Luxury,Healthcare,black,True
+Montserrat,sans-serif,fonts/font_1878.png,Professional,Sustainability,thin,True
+DM Sans,sans-serif,fonts/font_1879.png,Creative,Education,regular,False
+Inter,sans-serif,fonts/font_1880.png,Minimalist,Technology,regular,True
+Open Sans,sans-serif,fonts/font_1881.png,Professional,Food & Beverage,regular,True
+Roboto,sans-serif,fonts/font_1882.png,Playful,Sustainability,bold,False
+Pacifico,script,fonts/font_1883.png,Luxury,Retail,black,True
+Dancing Script,script,fonts/font_1884.png,Luxury,Retail,thin,False
+Brush Script,script,fonts/font_1885.png,Creative,Fashion,thin,True
+Great Vibes,script,fonts/font_1886.png,Playful,Finance,regular,True
+Courier New,monospace,fonts/font_1887.png,Minimalist,Retail,black,True
+Source Code Pro,monospace,fonts/font_1888.png,Innovative,Finance,black,False
+Fira Mono,monospace,fonts/font_1889.png,Playful,Technology,medium,True
+IBM Plex Mono,monospace,fonts/font_1890.png,Minimalist,Sustainability,black,True
+Oswald,display,fonts/font_1891.png,Bold,Healthcare,black,True
+Bebas Neue,display,fonts/font_1892.png,Trustworthy,Fashion,thin,True
+Anton,display,fonts/font_1893.png,Luxury,Food & Beverage,black,False
+Impact,display,fonts/font_1894.png,Minimalist,Real Estate,black,True
+Abril Fatface,display,fonts/font_1895.png,Professional,Finance,thin,True
+Playfair Display,serif,fonts/font_1896.png,Creative,Food & Beverage,black,True
+Garamond,serif,fonts/font_1897.png,Trustworthy,Fashion,thin,True
+Times New Roman,serif,fonts/font_1898.png,Professional,Fashion,medium,True
+Georgia,serif,fonts/font_1899.png,Trustworthy,Retail,bold,True
+Baskerville,serif,fonts/font_1900.png,Luxury,Food & Beverage,thin,False
+Helvetica,sans-serif,fonts/font_1901.png,Playful,Education,thin,False
+Montserrat,sans-serif,fonts/font_1902.png,Innovative,Travel,black,True
+DM Sans,sans-serif,fonts/font_1903.png,Playful,Fashion,thin,False
+Inter,sans-serif,fonts/font_1904.png,Minimalist,Finance,regular,True
+Open Sans,sans-serif,fonts/font_1905.png,Creative,Real Estate,regular,True
+Roboto,sans-serif,fonts/font_1906.png,Playful,Real Estate,medium,True
+Pacifico,script,fonts/font_1907.png,Luxury,Technology,thin,True
+Dancing Script,script,fonts/font_1908.png,Creative,Technology,black,True
+Brush Script,script,fonts/font_1909.png,Minimalist,Retail,black,False
+Great Vibes,script,fonts/font_1910.png,Bold,Education,bold,False
+Courier New,monospace,fonts/font_1911.png,Playful,Retail,medium,True
+Source Code Pro,monospace,fonts/font_1912.png,Playful,Real Estate,black,True
+Fira Mono,monospace,fonts/font_1913.png,Innovative,Healthcare,bold,False
+IBM Plex Mono,monospace,fonts/font_1914.png,Minimalist,Real Estate,black,True
+Oswald,display,fonts/font_1915.png,Professional,Fashion,bold,True
+Bebas Neue,display,fonts/font_1916.png,Playful,Food & Beverage,regular,True
+Anton,display,fonts/font_1917.png,Luxury,Food & Beverage,regular,True
+Impact,display,fonts/font_1918.png,Playful,Fashion,black,True
+Abril Fatface,display,fonts/font_1919.png,Innovative,Fashion,medium,False
+Playfair Display,serif,fonts/font_1920.png,Bold,Real Estate,thin,False
+Garamond,serif,fonts/font_1921.png,Innovative,Food & Beverage,medium,True
+Times New Roman,serif,fonts/font_1922.png,Playful,Food & Beverage,medium,False
+Georgia,serif,fonts/font_1923.png,Creative,Sustainability,thin,True
+Baskerville,serif,fonts/font_1924.png,Professional,Food & Beverage,regular,True
+Helvetica,sans-serif,fonts/font_1925.png,Trustworthy,Fashion,regular,False
+Montserrat,sans-serif,fonts/font_1926.png,Playful,Technology,thin,True
+DM Sans,sans-serif,fonts/font_1927.png,Minimalist,Education,bold,True
+Inter,sans-serif,fonts/font_1928.png,Playful,Healthcare,medium,True
+Open Sans,sans-serif,fonts/font_1929.png,Professional,Fashion,black,False
+Roboto,sans-serif,fonts/font_1930.png,Minimalist,Food & Beverage,regular,False
+Pacifico,script,fonts/font_1931.png,Luxury,Finance,black,False
+Dancing Script,script,fonts/font_1932.png,Creative,Real Estate,thin,True
+Brush Script,script,fonts/font_1933.png,Minimalist,Real Estate,black,False
+Great Vibes,script,fonts/font_1934.png,Innovative,Education,black,True
+Courier New,monospace,fonts/font_1935.png,Bold,Fashion,medium,False
+Source Code Pro,monospace,fonts/font_1936.png,Innovative,Education,thin,True
+Fira Mono,monospace,fonts/font_1937.png,Trustworthy,Technology,black,True
+IBM Plex Mono,monospace,fonts/font_1938.png,Minimalist,Travel,regular,True
+Oswald,display,fonts/font_1939.png,Luxury,Retail,thin,False
+Bebas Neue,display,fonts/font_1940.png,Playful,Finance,regular,False
+Anton,display,fonts/font_1941.png,Creative,Retail,bold,True
+Impact,display,fonts/font_1942.png,Minimalist,Travel,black,True
+Abril Fatface,display,fonts/font_1943.png,Innovative,Finance,thin,False
+Playfair Display,serif,fonts/font_1944.png,Minimalist,Retail,regular,True
+Garamond,serif,fonts/font_1945.png,Minimalist,Finance,black,False
+Times New Roman,serif,fonts/font_1946.png,Minimalist,Education,medium,False
+Georgia,serif,fonts/font_1947.png,Luxury,Healthcare,regular,True
+Baskerville,serif,fonts/font_1948.png,Creative,Sustainability,regular,True
+Helvetica,sans-serif,fonts/font_1949.png,Professional,Finance,bold,True
+Montserrat,sans-serif,fonts/font_1950.png,Professional,Travel,medium,True
+DM Sans,sans-serif,fonts/font_1951.png,Minimalist,Education,bold,True
+Inter,sans-serif,fonts/font_1952.png,Luxury,Sustainability,medium,False
+Open Sans,sans-serif,fonts/font_1953.png,Luxury,Education,regular,True
+Roboto,sans-serif,fonts/font_1954.png,Trustworthy,Technology,bold,True
+Pacifico,script,fonts/font_1955.png,Minimalist,Food & Beverage,black,True
+Dancing Script,script,fonts/font_1956.png,Innovative,Real Estate,medium,True
+Brush Script,script,fonts/font_1957.png,Innovative,Technology,regular,False
+Great Vibes,script,fonts/font_1958.png,Bold,Travel,thin,True
+Courier New,monospace,fonts/font_1959.png,Creative,Fashion,medium,True
+Source Code Pro,monospace,fonts/font_1960.png,Minimalist,Fashion,medium,False
+Fira Mono,monospace,fonts/font_1961.png,Bold,Real Estate,black,True
+IBM Plex Mono,monospace,fonts/font_1962.png,Innovative,Education,medium,True
+Oswald,display,fonts/font_1963.png,Innovative,Healthcare,medium,True
+Bebas Neue,display,fonts/font_1964.png,Minimalist,Travel,black,False
+Anton,display,fonts/font_1965.png,Bold,Real Estate,black,True
+Impact,display,fonts/font_1966.png,Bold,Sustainability,bold,False
+Abril Fatface,display,fonts/font_1967.png,Minimalist,Sustainability,regular,False
+Playfair Display,serif,fonts/font_1968.png,Creative,Fashion,regular,True
+Garamond,serif,fonts/font_1969.png,Trustworthy,Food & Beverage,bold,True
+Times New Roman,serif,fonts/font_1970.png,Bold,Education,regular,True
+Georgia,serif,fonts/font_1971.png,Trustworthy,Fashion,medium,True
+Baskerville,serif,fonts/font_1972.png,Playful,Healthcare,bold,False
+Helvetica,sans-serif,fonts/font_1973.png,Creative,Real Estate,bold,True
+Montserrat,sans-serif,fonts/font_1974.png,Innovative,Finance,regular,True
+DM Sans,sans-serif,fonts/font_1975.png,Professional,Healthcare,thin,False
+Inter,sans-serif,fonts/font_1976.png,Creative,Finance,regular,True
+Open Sans,sans-serif,fonts/font_1977.png,Trustworthy,Education,thin,True
+Roboto,sans-serif,fonts/font_1978.png,Trustworthy,Real Estate,bold,True
+Pacifico,script,fonts/font_1979.png,Trustworthy,Sustainability,thin,True
+Dancing Script,script,fonts/font_1980.png,Luxury,Sustainability,medium,False
+Brush Script,script,fonts/font_1981.png,Creative,Technology,black,True
+Great Vibes,script,fonts/font_1982.png,Bold,Sustainability,thin,True
+Courier New,monospace,fonts/font_1983.png,Bold,Travel,black,True
+Source Code Pro,monospace,fonts/font_1984.png,Luxury,Technology,medium,True
+Fira Mono,monospace,fonts/font_1985.png,Bold,Technology,black,True
+IBM Plex Mono,monospace,fonts/font_1986.png,Luxury,Sustainability,medium,True
+Oswald,display,fonts/font_1987.png,Trustworthy,Fashion,black,False
+Bebas Neue,display,fonts/font_1988.png,Minimalist,Food & Beverage,black,False
+Anton,display,fonts/font_1989.png,Creative,Food & Beverage,regular,True
+Impact,display,fonts/font_1990.png,Playful,Travel,thin,True
+Abril Fatface,display,fonts/font_1991.png,Trustworthy,Retail,black,True
+Playfair Display,serif,fonts/font_1992.png,Playful,Fashion,bold,True
+Garamond,serif,fonts/font_1993.png,Innovative,Retail,regular,True
+Times New Roman,serif,fonts/font_1994.png,Trustworthy,Finance,thin,True
+Georgia,serif,fonts/font_1995.png,Professional,Fashion,regular,True
+Baskerville,serif,fonts/font_1996.png,Bold,Real Estate,thin,True
+Helvetica,sans-serif,fonts/font_1997.png,Professional,Retail,medium,False
+Montserrat,sans-serif,fonts/font_1998.png,Minimalist,Travel,black,True
+DM Sans,sans-serif,fonts/font_1999.png,Playful,Travel,bold,False
+Inter,sans-serif,fonts/font_2000.png,Creative,Fashion,regular,True
+Open Sans,sans-serif,fonts/font_2001.png,Trustworthy,Technology,regular,True
+Roboto,sans-serif,fonts/font_2002.png,Creative,Real Estate,regular,False
+Pacifico,script,fonts/font_2003.png,Minimalist,Education,regular,True
+Dancing Script,script,fonts/font_2004.png,Minimalist,Real Estate,black,False
+Brush Script,script,fonts/font_2005.png,Bold,Travel,thin,True
+Great Vibes,script,fonts/font_2006.png,Minimalist,Finance,black,True
+Courier New,monospace,fonts/font_2007.png,Trustworthy,Retail,medium,True
+Source Code Pro,monospace,fonts/font_2008.png,Trustworthy,Retail,black,True
+Fira Mono,monospace,fonts/font_2009.png,Creative,Finance,black,False
+IBM Plex Mono,monospace,fonts/font_2010.png,Creative,Healthcare,medium,False
+Oswald,display,fonts/font_2011.png,Playful,Fashion,black,False
+Bebas Neue,display,fonts/font_2012.png,Trustworthy,Travel,thin,True
+Anton,display,fonts/font_2013.png,Professional,Food & Beverage,bold,True
+Impact,display,fonts/font_2014.png,Playful,Sustainability,medium,True
+Abril Fatface,display,fonts/font_2015.png,Bold,Finance,regular,True
+Playfair Display,serif,fonts/font_2016.png,Playful,Finance,thin,False
+Garamond,serif,fonts/font_2017.png,Luxury,Real Estate,bold,True
+Times New Roman,serif,fonts/font_2018.png,Creative,Fashion,thin,True
+Georgia,serif,fonts/font_2019.png,Professional,Fashion,thin,True
+Baskerville,serif,fonts/font_2020.png,Creative,Food & Beverage,regular,False
+Helvetica,sans-serif,fonts/font_2021.png,Luxury,Sustainability,bold,False
+Montserrat,sans-serif,fonts/font_2022.png,Luxury,Fashion,thin,True
+DM Sans,sans-serif,fonts/font_2023.png,Innovative,Technology,regular,True
+Inter,sans-serif,fonts/font_2024.png,Trustworthy,Travel,medium,True
+Open Sans,sans-serif,fonts/font_2025.png,Bold,Technology,regular,True
+Roboto,sans-serif,fonts/font_2026.png,Minimalist,Healthcare,black,False
+Pacifico,script,fonts/font_2027.png,Luxury,Travel,regular,True
+Dancing Script,script,fonts/font_2028.png,Playful,Education,regular,True
+Brush Script,script,fonts/font_2029.png,Minimalist,Travel,regular,True
+Great Vibes,script,fonts/font_2030.png,Playful,Travel,thin,True
+Courier New,monospace,fonts/font_2031.png,Creative,Food & Beverage,bold,False
+Source Code Pro,monospace,fonts/font_2032.png,Playful,Technology,regular,True
+Fira Mono,monospace,fonts/font_2033.png,Minimalist,Sustainability,regular,True
+IBM Plex Mono,monospace,fonts/font_2034.png,Minimalist,Real Estate,black,False
+Oswald,display,fonts/font_2035.png,Trustworthy,Food & Beverage,black,True
+Bebas Neue,display,fonts/font_2036.png,Playful,Travel,medium,False
+Anton,display,fonts/font_2037.png,Bold,Real Estate,medium,True
+Impact,display,fonts/font_2038.png,Trustworthy,Retail,black,True
+Abril Fatface,display,fonts/font_2039.png,Professional,Real Estate,bold,True
+Playfair Display,serif,fonts/font_2040.png,Innovative,Finance,medium,True
+Garamond,serif,fonts/font_2041.png,Professional,Food & Beverage,bold,True
+Times New Roman,serif,fonts/font_2042.png,Bold,Food & Beverage,black,True
+Georgia,serif,fonts/font_2043.png,Trustworthy,Finance,medium,True
+Baskerville,serif,fonts/font_2044.png,Innovative,Retail,regular,True
+Helvetica,sans-serif,fonts/font_2045.png,Trustworthy,Fashion,black,True
+Montserrat,sans-serif,fonts/font_2046.png,Minimalist,Fashion,medium,False
+DM Sans,sans-serif,fonts/font_2047.png,Innovative,Fashion,bold,True
+Inter,sans-serif,fonts/font_2048.png,Creative,Fashion,bold,True
+Open Sans,sans-serif,fonts/font_2049.png,Playful,Technology,medium,False
+Roboto,sans-serif,fonts/font_2050.png,Professional,Finance,bold,True
+Pacifico,script,fonts/font_2051.png,Innovative,Retail,medium,True
+Dancing Script,script,fonts/font_2052.png,Playful,Travel,medium,True
+Brush Script,script,fonts/font_2053.png,Trustworthy,Healthcare,bold,True
+Great Vibes,script,fonts/font_2054.png,Bold,Food & Beverage,thin,True
+Courier New,monospace,fonts/font_2055.png,Innovative,Real Estate,regular,False
+Source Code Pro,monospace,fonts/font_2056.png,Playful,Fashion,black,False
+Fira Mono,monospace,fonts/font_2057.png,Trustworthy,Real Estate,regular,True
+IBM Plex Mono,monospace,fonts/font_2058.png,Trustworthy,Healthcare,black,True
+Oswald,display,fonts/font_2059.png,Trustworthy,Food & Beverage,black,True
+Bebas Neue,display,fonts/font_2060.png,Bold,Education,regular,False
+Anton,display,fonts/font_2061.png,Minimalist,Sustainability,medium,True
+Impact,display,fonts/font_2062.png,Bold,Retail,bold,True
+Abril Fatface,display,fonts/font_2063.png,Bold,Technology,thin,True
+Playfair Display,serif,fonts/font_2064.png,Creative,Real Estate,thin,True
+Garamond,serif,fonts/font_2065.png,Professional,Fashion,thin,True
+Times New Roman,serif,fonts/font_2066.png,Trustworthy,Finance,regular,True
+Georgia,serif,fonts/font_2067.png,Playful,Real Estate,regular,False
+Baskerville,serif,fonts/font_2068.png,Innovative,Food & Beverage,medium,True
+Helvetica,sans-serif,fonts/font_2069.png,Professional,Education,thin,True
+Montserrat,sans-serif,fonts/font_2070.png,Trustworthy,Retail,medium,False
+DM Sans,sans-serif,fonts/font_2071.png,Luxury,Finance,thin,True
+Inter,sans-serif,fonts/font_2072.png,Bold,Sustainability,regular,True
+Open Sans,sans-serif,fonts/font_2073.png,Luxury,Food & Beverage,bold,True
+Roboto,sans-serif,fonts/font_2074.png,Trustworthy,Education,bold,True
+Pacifico,script,fonts/font_2075.png,Professional,Finance,bold,True
+Dancing Script,script,fonts/font_2076.png,Playful,Sustainability,bold,False
+Brush Script,script,fonts/font_2077.png,Professional,Real Estate,black,False
+Great Vibes,script,fonts/font_2078.png,Creative,Food & Beverage,thin,True
+Courier New,monospace,fonts/font_2079.png,Playful,Travel,bold,True
+Source Code Pro,monospace,fonts/font_2080.png,Playful,Sustainability,black,True
+Fira Mono,monospace,fonts/font_2081.png,Trustworthy,Education,black,True
+IBM Plex Mono,monospace,fonts/font_2082.png,Minimalist,Travel,black,True
+Oswald,display,fonts/font_2083.png,Trustworthy,Travel,medium,True
+Bebas Neue,display,fonts/font_2084.png,Bold,Technology,medium,True
+Anton,display,fonts/font_2085.png,Professional,Education,black,True
+Impact,display,fonts/font_2086.png,Playful,Travel,bold,True
+Abril Fatface,display,fonts/font_2087.png,Trustworthy,Real Estate,thin,True
+Playfair Display,serif,fonts/font_2088.png,Trustworthy,Food & Beverage,regular,True
+Garamond,serif,fonts/font_2089.png,Professional,Food & Beverage,medium,False
+Times New Roman,serif,fonts/font_2090.png,Professional,Real Estate,bold,True
+Georgia,serif,fonts/font_2091.png,Creative,Technology,bold,False
+Baskerville,serif,fonts/font_2092.png,Playful,Retail,regular,False
+Helvetica,sans-serif,fonts/font_2093.png,Innovative,Technology,regular,False
+Montserrat,sans-serif,fonts/font_2094.png,Creative,Food & Beverage,bold,True
+DM Sans,sans-serif,fonts/font_2095.png,Luxury,Retail,regular,False
+Inter,sans-serif,fonts/font_2096.png,Bold,Technology,bold,True
+Open Sans,sans-serif,fonts/font_2097.png,Bold,Travel,regular,True
+Roboto,sans-serif,fonts/font_2098.png,Innovative,Retail,regular,True
+Pacifico,script,fonts/font_2099.png,Minimalist,Food & Beverage,bold,True
+Dancing Script,script,fonts/font_2100.png,Creative,Real Estate,black,True
+Brush Script,script,fonts/font_2101.png,Innovative,Fashion,bold,True
+Great Vibes,script,fonts/font_2102.png,Minimalist,Travel,thin,True
+Courier New,monospace,fonts/font_2103.png,Minimalist,Travel,regular,True
+Source Code Pro,monospace,fonts/font_2104.png,Innovative,Fashion,medium,True
+Fira Mono,monospace,fonts/font_2105.png,Bold,Sustainability,regular,True
+IBM Plex Mono,monospace,fonts/font_2106.png,Luxury,Healthcare,thin,False
+Oswald,display,fonts/font_2107.png,Bold,Finance,medium,True
+Bebas Neue,display,fonts/font_2108.png,Trustworthy,Education,medium,True
+Anton,display,fonts/font_2109.png,Bold,Technology,bold,False
+Impact,display,fonts/font_2110.png,Bold,Healthcare,black,True
+Abril Fatface,display,fonts/font_2111.png,Creative,Technology,bold,True
+Playfair Display,serif,fonts/font_2112.png,Innovative,Healthcare,medium,False
+Garamond,serif,fonts/font_2113.png,Innovative,Retail,medium,False
+Times New Roman,serif,fonts/font_2114.png,Trustworthy,Real Estate,black,True
+Georgia,serif,fonts/font_2115.png,Trustworthy,Education,regular,True
+Baskerville,serif,fonts/font_2116.png,Creative,Education,black,False
+Helvetica,sans-serif,fonts/font_2117.png,Innovative,Technology,bold,True
+Montserrat,sans-serif,fonts/font_2118.png,Bold,Fashion,regular,True
+DM Sans,sans-serif,fonts/font_2119.png,Luxury,Retail,bold,True
+Inter,sans-serif,fonts/font_2120.png,Minimalist,Sustainability,black,True
+Open Sans,sans-serif,fonts/font_2121.png,Professional,Education,regular,False
+Roboto,sans-serif,fonts/font_2122.png,Minimalist,Finance,black,False
+Pacifico,script,fonts/font_2123.png,Trustworthy,Technology,thin,False
+Dancing Script,script,fonts/font_2124.png,Trustworthy,Travel,medium,True
+Brush Script,script,fonts/font_2125.png,Minimalist,Finance,regular,True
+Great Vibes,script,fonts/font_2126.png,Professional,Food & Beverage,medium,False
+Courier New,monospace,fonts/font_2127.png,Bold,Technology,thin,True
+Source Code Pro,monospace,fonts/font_2128.png,Luxury,Technology,regular,False
+Fira Mono,monospace,fonts/font_2129.png,Luxury,Travel,medium,False
+IBM Plex Mono,monospace,fonts/font_2130.png,Minimalist,Retail,medium,True
+Oswald,display,fonts/font_2131.png,Professional,Travel,regular,True
+Bebas Neue,display,fonts/font_2132.png,Creative,Education,medium,True
+Anton,display,fonts/font_2133.png,Trustworthy,Real Estate,medium,False
+Impact,display,fonts/font_2134.png,Playful,Technology,regular,True
+Abril Fatface,display,fonts/font_2135.png,Bold,Food & Beverage,medium,False
+Playfair Display,serif,fonts/font_2136.png,Creative,Fashion,medium,True
+Garamond,serif,fonts/font_2137.png,Minimalist,Technology,bold,True
+Times New Roman,serif,fonts/font_2138.png,Luxury,Travel,bold,True
+Georgia,serif,fonts/font_2139.png,Trustworthy,Healthcare,thin,True
+Baskerville,serif,fonts/font_2140.png,Creative,Technology,bold,False
+Helvetica,sans-serif,fonts/font_2141.png,Creative,Technology,bold,True
+Montserrat,sans-serif,fonts/font_2142.png,Innovative,Food & Beverage,thin,True
+DM Sans,sans-serif,fonts/font_2143.png,Innovative,Food & Beverage,medium,False
+Inter,sans-serif,fonts/font_2144.png,Professional,Technology,medium,True
+Open Sans,sans-serif,fonts/font_2145.png,Professional,Healthcare,bold,True
+Roboto,sans-serif,fonts/font_2146.png,Minimalist,Real Estate,thin,True
+Pacifico,script,fonts/font_2147.png,Creative,Sustainability,medium,True
+Dancing Script,script,fonts/font_2148.png,Playful,Healthcare,black,True
+Brush Script,script,fonts/font_2149.png,Luxury,Healthcare,regular,False
+Great Vibes,script,fonts/font_2150.png,Minimalist,Healthcare,regular,True
+Courier New,monospace,fonts/font_2151.png,Playful,Real Estate,regular,True
+Source Code Pro,monospace,fonts/font_2152.png,Trustworthy,Retail,bold,True
+Fira Mono,monospace,fonts/font_2153.png,Professional,Retail,regular,True
+IBM Plex Mono,monospace,fonts/font_2154.png,Innovative,Healthcare,regular,True
+Oswald,display,fonts/font_2155.png,Bold,Sustainability,black,True
+Bebas Neue,display,fonts/font_2156.png,Creative,Travel,medium,False
+Anton,display,fonts/font_2157.png,Trustworthy,Finance,black,True
+Impact,display,fonts/font_2158.png,Innovative,Retail,bold,True
+Abril Fatface,display,fonts/font_2159.png,Luxury,Fashion,regular,True
+Playfair Display,serif,fonts/font_2160.png,Luxury,Food & Beverage,medium,False
+Garamond,serif,fonts/font_2161.png,Innovative,Real Estate,regular,True
+Times New Roman,serif,fonts/font_2162.png,Trustworthy,Real Estate,regular,True
+Georgia,serif,fonts/font_2163.png,Innovative,Finance,bold,True
+Baskerville,serif,fonts/font_2164.png,Playful,Retail,regular,True
+Helvetica,sans-serif,fonts/font_2165.png,Minimalist,Sustainability,thin,True
+Montserrat,sans-serif,fonts/font_2166.png,Professional,Sustainability,medium,False
+DM Sans,sans-serif,fonts/font_2167.png,Playful,Food & Beverage,medium,True
+Inter,sans-serif,fonts/font_2168.png,Bold,Healthcare,thin,True
+Open Sans,sans-serif,fonts/font_2169.png,Innovative,Travel,bold,True
+Roboto,sans-serif,fonts/font_2170.png,Bold,Retail,regular,True
+Pacifico,script,fonts/font_2171.png,Bold,Sustainability,regular,True
+Dancing Script,script,fonts/font_2172.png,Playful,Finance,medium,False
+Brush Script,script,fonts/font_2173.png,Professional,Food & Beverage,bold,False
+Great Vibes,script,fonts/font_2174.png,Trustworthy,Technology,bold,False
+Courier New,monospace,fonts/font_2175.png,Luxury,Food & Beverage,bold,False
+Source Code Pro,monospace,fonts/font_2176.png,Minimalist,Sustainability,regular,True
+Fira Mono,monospace,fonts/font_2177.png,Creative,Technology,bold,True
+IBM Plex Mono,monospace,fonts/font_2178.png,Luxury,Fashion,thin,True
+Oswald,display,fonts/font_2179.png,Professional,Education,black,True
+Bebas Neue,display,fonts/font_2180.png,Creative,Food & Beverage,bold,False
+Anton,display,fonts/font_2181.png,Luxury,Finance,black,False
+Impact,display,fonts/font_2182.png,Innovative,Finance,regular,False
+Abril Fatface,display,fonts/font_2183.png,Innovative,Travel,bold,True
+Playfair Display,serif,fonts/font_2184.png,Playful,Healthcare,medium,True
+Garamond,serif,fonts/font_2185.png,Bold,Food & Beverage,regular,True
+Times New Roman,serif,fonts/font_2186.png,Creative,Sustainability,thin,True
+Georgia,serif,fonts/font_2187.png,Professional,Education,thin,True
+Baskerville,serif,fonts/font_2188.png,Professional,Retail,black,True
+Helvetica,sans-serif,fonts/font_2189.png,Luxury,Sustainability,black,False
+Montserrat,sans-serif,fonts/font_2190.png,Playful,Finance,medium,False
+DM Sans,sans-serif,fonts/font_2191.png,Luxury,Fashion,medium,True
+Inter,sans-serif,fonts/font_2192.png,Luxury,Sustainability,thin,True
+Open Sans,sans-serif,fonts/font_2193.png,Professional,Real Estate,bold,True
+Roboto,sans-serif,fonts/font_2194.png,Luxury,Finance,thin,True
+Pacifico,script,fonts/font_2195.png,Bold,Food & Beverage,thin,False
+Dancing Script,script,fonts/font_2196.png,Luxury,Fashion,medium,True
+Brush Script,script,fonts/font_2197.png,Creative,Real Estate,black,True
+Great Vibes,script,fonts/font_2198.png,Bold,Technology,medium,True
+Courier New,monospace,fonts/font_2199.png,Professional,Education,medium,True
+Source Code Pro,monospace,fonts/font_2200.png,Playful,Finance,medium,False
+Fira Mono,monospace,fonts/font_2201.png,Innovative,Food & Beverage,thin,True
+IBM Plex Mono,monospace,fonts/font_2202.png,Creative,Real Estate,bold,False
+Oswald,display,fonts/font_2203.png,Bold,Real Estate,thin,True
+Bebas Neue,display,fonts/font_2204.png,Playful,Healthcare,regular,False
+Anton,display,fonts/font_2205.png,Playful,Real Estate,medium,True
+Impact,display,fonts/font_2206.png,Bold,Education,medium,True
+Abril Fatface,display,fonts/font_2207.png,Professional,Fashion,regular,True
+Playfair Display,serif,fonts/font_2208.png,Minimalist,Fashion,medium,True
+Garamond,serif,fonts/font_2209.png,Playful,Real Estate,medium,False
+Times New Roman,serif,fonts/font_2210.png,Playful,Food & Beverage,medium,True
+Georgia,serif,fonts/font_2211.png,Professional,Finance,regular,False
+Baskerville,serif,fonts/font_2212.png,Professional,Food & Beverage,thin,True
+Helvetica,sans-serif,fonts/font_2213.png,Luxury,Travel,medium,False
+Montserrat,sans-serif,fonts/font_2214.png,Professional,Finance,bold,True
+DM Sans,sans-serif,fonts/font_2215.png,Playful,Technology,regular,False
+Inter,sans-serif,fonts/font_2216.png,Bold,Education,black,False
+Open Sans,sans-serif,fonts/font_2217.png,Minimalist,Food & Beverage,regular,True
+Roboto,sans-serif,fonts/font_2218.png,Trustworthy,Healthcare,thin,True
+Pacifico,script,fonts/font_2219.png,Luxury,Fashion,regular,True
+Dancing Script,script,fonts/font_2220.png,Trustworthy,Real Estate,black,True
+Brush Script,script,fonts/font_2221.png,Bold,Finance,bold,True
+Great Vibes,script,fonts/font_2222.png,Minimalist,Real Estate,black,True
+Courier New,monospace,fonts/font_2223.png,Minimalist,Technology,regular,False
+Source Code Pro,monospace,fonts/font_2224.png,Minimalist,Travel,black,False
+Fira Mono,monospace,fonts/font_2225.png,Innovative,Real Estate,regular,False
+IBM Plex Mono,monospace,fonts/font_2226.png,Bold,Food & Beverage,bold,True
+Oswald,display,fonts/font_2227.png,Creative,Finance,bold,False
+Bebas Neue,display,fonts/font_2228.png,Luxury,Healthcare,thin,True
+Anton,display,fonts/font_2229.png,Luxury,Technology,bold,True
+Impact,display,fonts/font_2230.png,Minimalist,Sustainability,medium,True
+Abril Fatface,display,fonts/font_2231.png,Bold,Education,black,False
+Playfair Display,serif,fonts/font_2232.png,Innovative,Travel,black,False
+Garamond,serif,fonts/font_2233.png,Minimalist,Food & Beverage,regular,True
+Times New Roman,serif,fonts/font_2234.png,Professional,Education,bold,False
+Georgia,serif,fonts/font_2235.png,Creative,Healthcare,thin,True
+Baskerville,serif,fonts/font_2236.png,Trustworthy,Education,thin,False
+Helvetica,sans-serif,fonts/font_2237.png,Luxury,Fashion,thin,True
+Montserrat,sans-serif,fonts/font_2238.png,Trustworthy,Finance,medium,True
+DM Sans,sans-serif,fonts/font_2239.png,Playful,Education,bold,True
+Inter,sans-serif,fonts/font_2240.png,Minimalist,Food & Beverage,thin,True
+Open Sans,sans-serif,fonts/font_2241.png,Professional,Sustainability,medium,True
+Roboto,sans-serif,fonts/font_2242.png,Luxury,Fashion,black,True
+Pacifico,script,fonts/font_2243.png,Trustworthy,Fashion,regular,True
+Dancing Script,script,fonts/font_2244.png,Creative,Education,bold,False
+Brush Script,script,fonts/font_2245.png,Innovative,Travel,bold,False
+Great Vibes,script,fonts/font_2246.png,Bold,Retail,black,True
+Courier New,monospace,fonts/font_2247.png,Luxury,Travel,bold,False
+Source Code Pro,monospace,fonts/font_2248.png,Creative,Real Estate,bold,True
+Fira Mono,monospace,fonts/font_2249.png,Trustworthy,Food & Beverage,bold,False
+IBM Plex Mono,monospace,fonts/font_2250.png,Bold,Retail,bold,True
+Oswald,display,fonts/font_2251.png,Trustworthy,Finance,medium,True
+Bebas Neue,display,fonts/font_2252.png,Bold,Fashion,medium,True
+Anton,display,fonts/font_2253.png,Innovative,Food & Beverage,regular,False
+Impact,display,fonts/font_2254.png,Innovative,Healthcare,bold,True
+Abril Fatface,display,fonts/font_2255.png,Minimalist,Real Estate,black,False
+Playfair Display,serif,fonts/font_2256.png,Minimalist,Sustainability,thin,True
+Garamond,serif,fonts/font_2257.png,Luxury,Real Estate,regular,True
+Times New Roman,serif,fonts/font_2258.png,Innovative,Food & Beverage,thin,True
+Georgia,serif,fonts/font_2259.png,Professional,Finance,thin,False
+Baskerville,serif,fonts/font_2260.png,Trustworthy,Fashion,bold,True
+Helvetica,sans-serif,fonts/font_2261.png,Trustworthy,Technology,black,False
+Montserrat,sans-serif,fonts/font_2262.png,Trustworthy,Technology,thin,True
+DM Sans,sans-serif,fonts/font_2263.png,Luxury,Food & Beverage,thin,False
+Inter,sans-serif,fonts/font_2264.png,Trustworthy,Education,regular,True
+Open Sans,sans-serif,fonts/font_2265.png,Playful,Travel,black,True
+Roboto,sans-serif,fonts/font_2266.png,Bold,Real Estate,black,True
+Pacifico,script,fonts/font_2267.png,Trustworthy,Finance,thin,True
+Dancing Script,script,fonts/font_2268.png,Creative,Real Estate,black,True
+Brush Script,script,fonts/font_2269.png,Bold,Healthcare,regular,False
+Great Vibes,script,fonts/font_2270.png,Minimalist,Technology,regular,True
+Courier New,monospace,fonts/font_2271.png,Trustworthy,Fashion,regular,True
+Source Code Pro,monospace,fonts/font_2272.png,Creative,Healthcare,bold,True
+Fira Mono,monospace,fonts/font_2273.png,Professional,Fashion,thin,True
+IBM Plex Mono,monospace,fonts/font_2274.png,Creative,Real Estate,black,True
+Oswald,display,fonts/font_2275.png,Innovative,Finance,regular,True
+Bebas Neue,display,fonts/font_2276.png,Innovative,Technology,thin,False
+Anton,display,fonts/font_2277.png,Minimalist,Real Estate,thin,True
+Impact,display,fonts/font_2278.png,Playful,Technology,bold,False
+Abril Fatface,display,fonts/font_2279.png,Luxury,Food & Beverage,black,True
+Playfair Display,serif,fonts/font_2280.png,Luxury,Sustainability,black,True
+Garamond,serif,fonts/font_2281.png,Professional,Sustainability,regular,True
+Times New Roman,serif,fonts/font_2282.png,Minimalist,Fashion,regular,False
+Georgia,serif,fonts/font_2283.png,Minimalist,Real Estate,thin,True
+Baskerville,serif,fonts/font_2284.png,Playful,Retail,black,False
+Helvetica,sans-serif,fonts/font_2285.png,Trustworthy,Technology,black,True
+Montserrat,sans-serif,fonts/font_2286.png,Luxury,Technology,regular,False
+DM Sans,sans-serif,fonts/font_2287.png,Trustworthy,Retail,medium,True
+Inter,sans-serif,fonts/font_2288.png,Minimalist,Education,thin,True
+Open Sans,sans-serif,fonts/font_2289.png,Trustworthy,Real Estate,black,True
+Roboto,sans-serif,fonts/font_2290.png,Innovative,Retail,bold,True
+Pacifico,script,fonts/font_2291.png,Professional,Sustainability,bold,True
+Dancing Script,script,fonts/font_2292.png,Luxury,Technology,medium,True
+Brush Script,script,fonts/font_2293.png,Playful,Sustainability,regular,False
+Great Vibes,script,fonts/font_2294.png,Professional,Real Estate,regular,True
+Courier New,monospace,fonts/font_2295.png,Bold,Finance,regular,True
+Source Code Pro,monospace,fonts/font_2296.png,Innovative,Finance,bold,True
+Fira Mono,monospace,fonts/font_2297.png,Playful,Fashion,regular,True
+IBM Plex Mono,monospace,fonts/font_2298.png,Creative,Sustainability,bold,True
+Oswald,display,fonts/font_2299.png,Professional,Sustainability,medium,True
+Bebas Neue,display,fonts/font_2300.png,Minimalist,Sustainability,thin,False
+Anton,display,fonts/font_2301.png,Bold,Education,black,True
+Impact,display,fonts/font_2302.png,Playful,Sustainability,medium,True
+Abril Fatface,display,fonts/font_2303.png,Minimalist,Finance,bold,True
+Playfair Display,serif,fonts/font_2304.png,Innovative,Education,medium,True
+Garamond,serif,fonts/font_2305.png,Creative,Fashion,black,True
+Times New Roman,serif,fonts/font_2306.png,Bold,Food & Beverage,thin,True
+Georgia,serif,fonts/font_2307.png,Luxury,Healthcare,black,True
+Baskerville,serif,fonts/font_2308.png,Creative,Fashion,bold,True
+Helvetica,sans-serif,fonts/font_2309.png,Minimalist,Travel,black,False
+Montserrat,sans-serif,fonts/font_2310.png,Professional,Education,medium,True
+DM Sans,sans-serif,fonts/font_2311.png,Trustworthy,Finance,regular,True
+Inter,sans-serif,fonts/font_2312.png,Playful,Finance,medium,True
+Open Sans,sans-serif,fonts/font_2313.png,Bold,Real Estate,bold,True
+Roboto,sans-serif,fonts/font_2314.png,Minimalist,Technology,thin,False
+Pacifico,script,fonts/font_2315.png,Luxury,Sustainability,black,True
+Dancing Script,script,fonts/font_2316.png,Trustworthy,Finance,thin,True
+Brush Script,script,fonts/font_2317.png,Playful,Sustainability,bold,False
+Great Vibes,script,fonts/font_2318.png,Playful,Retail,black,True
+Courier New,monospace,fonts/font_2319.png,Minimalist,Technology,medium,False
+Source Code Pro,monospace,fonts/font_2320.png,Luxury,Retail,medium,False
+Fira Mono,monospace,fonts/font_2321.png,Innovative,Sustainability,bold,True
+IBM Plex Mono,monospace,fonts/font_2322.png,Trustworthy,Education,black,True
+Oswald,display,fonts/font_2323.png,Innovative,Travel,medium,True
+Bebas Neue,display,fonts/font_2324.png,Bold,Technology,bold,True
+Anton,display,fonts/font_2325.png,Minimalist,Education,bold,True
+Impact,display,fonts/font_2326.png,Trustworthy,Finance,thin,True
+Abril Fatface,display,fonts/font_2327.png,Bold,Travel,medium,False
+Playfair Display,serif,fonts/font_2328.png,Creative,Food & Beverage,black,True
+Garamond,serif,fonts/font_2329.png,Innovative,Finance,medium,True
+Times New Roman,serif,fonts/font_2330.png,Creative,Healthcare,medium,True
+Georgia,serif,fonts/font_2331.png,Creative,Fashion,medium,False
+Baskerville,serif,fonts/font_2332.png,Trustworthy,Technology,bold,True
+Helvetica,sans-serif,fonts/font_2333.png,Playful,Healthcare,regular,True
+Montserrat,sans-serif,fonts/font_2334.png,Bold,Sustainability,regular,False
+DM Sans,sans-serif,fonts/font_2335.png,Creative,Technology,thin,False
+Inter,sans-serif,fonts/font_2336.png,Luxury,Fashion,medium,False
+Open Sans,sans-serif,fonts/font_2337.png,Professional,Technology,regular,False
+Roboto,sans-serif,fonts/font_2338.png,Innovative,Education,thin,True
+Pacifico,script,fonts/font_2339.png,Innovative,Retail,bold,True
+Dancing Script,script,fonts/font_2340.png,Luxury,Real Estate,medium,True
+Brush Script,script,fonts/font_2341.png,Trustworthy,Education,black,True
+Great Vibes,script,fonts/font_2342.png,Trustworthy,Fashion,bold,True
+Courier New,monospace,fonts/font_2343.png,Trustworthy,Technology,thin,True
+Source Code Pro,monospace,fonts/font_2344.png,Bold,Education,bold,False
+Fira Mono,monospace,fonts/font_2345.png,Minimalist,Retail,black,True
+IBM Plex Mono,monospace,fonts/font_2346.png,Creative,Healthcare,bold,True
+Oswald,display,fonts/font_2347.png,Playful,Education,thin,True
+Bebas Neue,display,fonts/font_2348.png,Professional,Sustainability,black,False
+Anton,display,fonts/font_2349.png,Minimalist,Healthcare,black,True
+Impact,display,fonts/font_2350.png,Minimalist,Fashion,bold,True
+Abril Fatface,display,fonts/font_2351.png,Luxury,Healthcare,black,True
+Playfair Display,serif,fonts/font_2352.png,Bold,Technology,bold,True
+Garamond,serif,fonts/font_2353.png,Innovative,Travel,medium,True
+Times New Roman,serif,fonts/font_2354.png,Innovative,Travel,black,False
+Georgia,serif,fonts/font_2355.png,Luxury,Food & Beverage,bold,False
+Baskerville,serif,fonts/font_2356.png,Bold,Sustainability,medium,False
+Helvetica,sans-serif,fonts/font_2357.png,Luxury,Technology,black,True
+Montserrat,sans-serif,fonts/font_2358.png,Innovative,Fashion,medium,False
+DM Sans,sans-serif,fonts/font_2359.png,Minimalist,Finance,black,False
+Inter,sans-serif,fonts/font_2360.png,Playful,Travel,thin,False
+Open Sans,sans-serif,fonts/font_2361.png,Creative,Fashion,thin,True
+Roboto,sans-serif,fonts/font_2362.png,Trustworthy,Healthcare,bold,False
+Pacifico,script,fonts/font_2363.png,Bold,Education,regular,True
+Dancing Script,script,fonts/font_2364.png,Creative,Travel,thin,False
+Brush Script,script,fonts/font_2365.png,Professional,Technology,regular,True
+Great Vibes,script,fonts/font_2366.png,Professional,Travel,medium,True
+Courier New,monospace,fonts/font_2367.png,Minimalist,Retail,medium,False
+Source Code Pro,monospace,fonts/font_2368.png,Luxury,Retail,regular,True
+Fira Mono,monospace,fonts/font_2369.png,Luxury,Retail,bold,True
+IBM Plex Mono,monospace,fonts/font_2370.png,Innovative,Sustainability,black,False
+Oswald,display,fonts/font_2371.png,Minimalist,Travel,regular,False
+Bebas Neue,display,fonts/font_2372.png,Innovative,Food & Beverage,regular,True
+Anton,display,fonts/font_2373.png,Innovative,Fashion,regular,False
+Impact,display,fonts/font_2374.png,Professional,Retail,regular,True
+Abril Fatface,display,fonts/font_2375.png,Innovative,Healthcare,regular,True
+Playfair Display,serif,fonts/font_2376.png,Creative,Technology,bold,True
+Garamond,serif,fonts/font_2377.png,Trustworthy,Sustainability,thin,True
+Times New Roman,serif,fonts/font_2378.png,Innovative,Real Estate,black,True
+Georgia,serif,fonts/font_2379.png,Professional,Retail,thin,True
+Baskerville,serif,fonts/font_2380.png,Trustworthy,Fashion,regular,False
+Helvetica,sans-serif,fonts/font_2381.png,Luxury,Healthcare,thin,True
+Montserrat,sans-serif,fonts/font_2382.png,Bold,Technology,bold,False
+DM Sans,sans-serif,fonts/font_2383.png,Playful,Education,medium,False
+Inter,sans-serif,fonts/font_2384.png,Innovative,Finance,thin,True
+Open Sans,sans-serif,fonts/font_2385.png,Creative,Healthcare,black,False
+Roboto,sans-serif,fonts/font_2386.png,Trustworthy,Food & Beverage,bold,False
+Pacifico,script,fonts/font_2387.png,Bold,Healthcare,medium,True
+Dancing Script,script,fonts/font_2388.png,Professional,Healthcare,bold,True
+Brush Script,script,fonts/font_2389.png,Bold,Food & Beverage,regular,False
+Great Vibes,script,fonts/font_2390.png,Playful,Education,medium,False
+Courier New,monospace,fonts/font_2391.png,Creative,Sustainability,black,False
+Source Code Pro,monospace,fonts/font_2392.png,Bold,Travel,medium,True
+Fira Mono,monospace,fonts/font_2393.png,Creative,Technology,black,True
+IBM Plex Mono,monospace,fonts/font_2394.png,Trustworthy,Healthcare,regular,True
+Oswald,display,fonts/font_2395.png,Bold,Healthcare,black,True
+Bebas Neue,display,fonts/font_2396.png,Creative,Food & Beverage,bold,True
+Anton,display,fonts/font_2397.png,Bold,Fashion,thin,True
+Impact,display,fonts/font_2398.png,Bold,Healthcare,bold,True
+Abril Fatface,display,fonts/font_2399.png,Minimalist,Healthcare,bold,False

@@ -1,0 +1,50 @@
+{
+  "ctr": {
+    "model": "GBM",
+    "rmse": 0.6261,
+    "features": [
+      "platform",
+      "region",
+      "campaign_type",
+      "goal",
+      "budget",
+      "duration_days",
+      "audience_size",
+      "roi",
+      "engagement_score"
+    ],
+    "target": "ctr"
+  },
+  "roi": {
+    "model": "GBM",
+    "rmse": 0.3967,
+    "features": [
+      "platform",
+      "region",
+      "campaign_type",
+      "goal",
+      "budget",
+      "duration_days",
+      "audience_size",
+      "ctr",
+      "engagement_score"
+    ],
+    "target": "roi"
+  },
+  "engagement_score": {
+    "model": "GBM",
+    "rmse": 1.2008,
+    "features": [
+      "platform",
+      "region",
+      "campaign_type",
+      "goal",
+      "budget",
+      "duration_days",
+      "audience_size",
+      "ctr",
+      "roi"
+    ],
+    "target": "engagement_score"
+  }
+}
